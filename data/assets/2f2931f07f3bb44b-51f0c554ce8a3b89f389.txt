@@ -1,0 +1,69 @@
+By Serj · September 2026 · 6 min read
+
+When Suno disabled v5.5, I wasn't impressed.
+
+v5.5 had been my default for months — not because I'd tested it against alternatives, but because it worked. I knew its behavior. I knew which prompts got the results I wanted and which ones didn't. I'd built a catalog on it. Then Suno sent an update: all old models retired, three new ones available, "more expressive, built for a wider range of styles."
+
+I've heard product announcements before.
+
+My reaction wasn't to read the release notes and update my default. My reaction was to take three of my own songs — tracks with lyrics I actually wrote — regenerate each one across all four versions (v5.5, v6-mini, v6-wild, v6) using the same text and prompt, and measure every output.
+
+What I expected to find: some version of "yes, v6 sounds measurably better" or "no, this is marketing." What I actually found was more specific than either.
+
+Three songs, four model versions each, same lyrics and prompt every time. I measured LUFS and True Peak on every output with the same audio analysis pipeline, and compared WAV and MP3 formats where I had both.
+
+What I was looking for — and didn't find
+
+My assumption going in: v6 would show something measurable. Tighter True Peak. Higher LUFS. Something that would justify retiring every model I'd built familiarity with.
+
+The numbers didn't cooperate.
+
+Here is Song 1 — a Russian chanson track, Dedovo Schastye. WAV only, same prompt across all four versions:
+
+LUFS is essentially flat — a 0.4 spread across four versions. Not a meaningful difference.
+
+True Peak moves, but not in the direction I expected. v5.5 peaked at -4.1. v6 peaked at -2.5. If anything, v6 is running slightly hotter on this track — the opposite of "more controlled." v6-mini and v6-wild land between them, with no clear trend.
+
+The generation lengths also shifted. Same prompt, different outputs: 4:16 on v5.5, 3:17 on v6-mini. That's not a quality difference — that's a behavioral change in the model.
+
+No pattern in either direction. I wasn't finding what I came looking for.
+
+What I actually found
+
+While comparing format versions, something else caught my eye.
+
+On v5.5, the WAV and MP3 files of the same generation were not the same loudness. Consistently, noticeably different.
+
+Song 2 — Magic Lucky Day:
+
+On v5.5: the MP3 was 2.0 LUFS louder than the WAV. The MP3's True Peak hit -0.3 dBFS — within clipping range on many playback systems. The WAV peaked at -3.7.
+
+On v6-mini, v6-wild, and v6: the LUFS difference is zero across all three. True Peak values are close but show minor variations of 0.0–0.2 dB — nothing like the 2.0 LUFS and 3.4 dB peak gap in v5.5.
+
+I checked the third track — Za Tekh, Kto S Nami — to make sure this wasn't a one-track result:
+
+Same result. v5.5: +1.0 LUFS gap between formats, MP3 peak approaching 0 dBFS at -0.9. All three v6 models: LUFS difference is zero on both tracks.
+
+That's six loudness comparisons on the v6 side — three models, two songs — and every one shows the same thing: WAV and MP3 land at the same LUFS. The gap that existed consistently in v5.5 is gone.
+
+What this actually means
+
+On v5.5, if you were deliberately downloading WAV thinking it was the quieter, safer format — you were right about "safer" (the MP3 True Peak was dangerously close to 0), but wrong about loudness. The MP3 was the louder file.
+
+On v6, based on these three tracks, that distinction is gone. WAV and MP3 appear to land at the same integrated loudness.
+
+There's still a reason to prefer WAV for further processing — it's lossless audio, and that matters if you're mastering before upload. The format difference in how Suno's output behaves is covered in more depth here. But the loudness gap between formats that existed in v5.5 doesn't appear to carry forward into v6.
+
+To be clear: this is two songs where I had format comparisons. It's an illustration, not a study. Your tracks may behave differently.
+
+I came in looking for a clear answer on whether v6 was measurably better than v5.5. On LUFS and True Peak, I didn't find one — the numbers move, but there's no consistent direction I can point to.
+
+What I did find: v5.5 had a consistent gap between WAV and MP3 integrated loudness. v6 doesn't. That's one specific, concrete thing that changed.
+
+Whether that makes v6 "better" depends on what you were using v5.5 for. If you were picking formats by loudness, the calculus is different now. If you generated and mastered regardless of format, you probably won't notice.
+
+I still miss the generations I knew how to get out of v5.5. That's not a technical complaint — familiarity has value, and it takes time to build it again. A comparison of what the outputs actually sound like across earlier model versions is documented here. For what changed in v6 at the feature and commercial rights level: that's covered here.
+
+Measurements in this article were taken on three specific tracks using the same audio analysis pipeline on the same day. Suno's output characteristics vary across generations even with identical prompts — these numbers reflect one set of outputs, not a guaranteed behavior of any model version.
+
+Related: Suno Model Versions Compared — v2 Through v5.5 · What Changed in Suno v6 · Why Does My Suno Track Sound Worse After I Download It?

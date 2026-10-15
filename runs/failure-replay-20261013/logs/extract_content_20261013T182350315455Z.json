@@ -1,0 +1,18 @@
+{
+  "stage": "extract_content",
+  "status": "complete",
+  "input_count": 20,
+  "output_count": 20,
+  "started_at": "2026-10-13T18:23:39Z",
+  "finished_at": "2026-10-13T18:23:50Z",
+  "tools_or_models": [
+    "original webpage HTML text",
+    "publisher podcast:transcript SRT",
+    "reused ASR transcript via data/store.sh get",
+    "yt-dlp metadata + English caption JSON3"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [],
+  "media_files_retained": false
+}

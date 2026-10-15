@@ -1,0 +1,99 @@
+Suno confirms V6 model was trained on ‘creations’ from users, as it blasts latest Sony and Universal lawsuit
+
+Suno has said its v6 AI music models were trained in part on “creations” made by its own users on the platform.
+
+The company set out that description in a statement responding to a second copyright lawsuit filed on Friday (September 18) by Universal Music Group and Sony Music Entertainment in Boston federal court, where the labels’ original case against the company is already being heard.
+
+Suno said v6 was trained on “interactions including creations and preference signals” from its community.
+
+That wording places creations alongside preference signals rather than inside them.
+
+“These claims remain fundamentally flawed on both the facts and the law,” Suno said in a statement issued to media, adding that “Suno exists so that more people can make new music.”
+
+“Over the past two years, we have doubled down on this goal, launching v6 in partnership with WMG, BMG, and Believe,” the company continued. “v6 was trained on content licensed from our partners, interactions including creations and preference signals from our community, and the accumulated learnings from our team.
+
+“We are excited for a future where AI and the music industry continue to strengthen one another and build entirely new product experiences for artists, fans, and the broader music community.”
+
+“v6 was trained on content licensed from our partners, interactions including creations and preference signals from our community, and the accumulated learnings from our team.”Suno
+
+When Suno launched v6 on September 9, Chief Product Officer Jack Brody told MBW the models were trained “entirely from scratch, from the ground up.”
+
+Brody said: “It’s a combination of data that’s been licensed from these partners, user data, but most importantly, it is the accumulation of the team’s learnings from what users are looking for in these models, and other technical breakthroughs and R&D that have led to more capable and higher quality music models.”
+
+Suno told MBW at the time that the user data Brody referenced was preference data, not audio uploaded by users. That denial addressed uploads, not the tracks users generate with the models.
+
+Friday’s statement appears to be the first time Suno has publicly placed user “creations” in v6‘s training account, alongside licensed music and preference data.
+
+Co-founder and CEO Mikey Shulman‘s launch-day blog post did not set out what the models were trained on beyond naming the company’s industry partners.
+
+The new complaint filed on Friday, obtained by MBW, accuses Suno of copying 60,202 of the labels’ sound recordings without a license.
+
+The claims turn on that copying. The filing then extends them to v6, arguing it was built on synthetic audio, i.e., the outputs of models that were themselves trained on those recordings.
+
+On the data used to build the models, the filing alleges: “Suno has admitted that it trained v6 using ‘user interactions’ with previous iterations of its models.
+
+“But these ‘interactions’ are the outputs of, and preference data derived from, Suno’s prior models, each of which was trained on the unlicensed corpus of copyrighted sound recordings described above, including Plaintiffs’ Copyrighted Recordings.”
+
+Suno‘s website generates two tracks each time a user creates a song, and the company says it uses “signals” about which version the user preferred.
+
+The filing alleges, on information and belief, that Suno trained v6 on synthetic audio files its users generated or altered with the earlier models, on preference data keyed to those outputs, or both.
+
+“Training a ‘new’ model on the outputs of an infringing model does not eliminate the infringement; it launders it,” the complaint states. “…v6 is not a fresh start; it is the fruit of the same poisoned tree.”
+
+The complaint carries a second theory alongside that argument. It alleges, again on information and belief, that Suno developed v6 using “knowledge distillation and related model-transfer techniques,” in which a “student” model is trained to reproduce the learned behavior of a “teacher.”
+
+On that account, the capabilities v6 inherited were themselves derived from the unlicensed recordings its predecessors trained on, whatever else went into its training corpus.
+
+US copyright law sets statutory damages for willful infringement at up to USD $150,000 per work. Across the 60,202 recordings asserted against Suno, that sets a theoretical maximum of just over $9 billion.
+
+The labels are also seeking up to $2,500 for each act of circumventing YouTube‘s anti-downloading technology, the maximum US law allows on that separate claim. That claim covers the stream-ripping of recordings into Suno‘s training data. Applied once to each of the 60,202 recordings, it would add roughly $150 million.
+
+The labels have demanded a jury trial.
+
+The statement also addressed the complaint’s allegation that Suno has abandoned its ban on artist-name prompts.
+
+“When someone asks for a particular artist, we translate that into the musical qualities behind the request – not so that a user can imitate someone else’s work, but so that people learn the language of music and make something of their own,” the company said.
+
+Universal, Sony, and Warner Music Group first sued Suno in June 2024, in litigation coordinated by the RIAA.
+
+Warner Music Group settled with Suno in November 2025 and struck a licensing deal. The Warner entities were dismissed by stipulation in December 2025, leaving Universal and Sony as the remaining major-label plaintiffs.
+
+That case, still live in Boston, covers 560 recordings.
+
+Judge F. Dennis Saylor IV refused the labels’ bid to add 61,026 further recordings to that case on August 18, denying the motion without prejudice and noting the claims could be brought separately, in a new suit before the same court. The second suit has been assigned to him. In a separate order the same day, he granted the labels leave to add a YouTube stream-ripping claim.
+
+BMG, which signed its own deal with Suno on August 12, was never a plaintiff in the 2024 lawsuit.
+
+Suno and Believe announced a partnership on September 8, a day before v6 launched.
+
+The labels turn those three deals against Suno‘s fair use defense.
+
+“Three agreements with three major rightsholders in less than a year confirm that a functioning market exists for licensing sound recordings to train generative AI models,” the complaint states.
+
+The complaint quotes Brody saying the revenue share with those partners is “not in exchange for training,” and that the deals are “not really about the data.”
+
+He told MBW at launch: “I think the wrong way to think about these partnerships is to think about them as acquiring the data to train our models.”
+
+The complaint calls that characterization “self-serving.”
+
+In its answer to the labels’ amended complaint in the original case, filed on September 1, Suno argued that its AI tool “uses a back-end technological process, invisible to the public, in the service of creating an ultimately non-infringing new product.”
+
+“This is quintessential fair use,” the filing states.
+
+The same document admits that Suno‘s model was constructed by showing the program “tens of millions of instances of different kinds of recordings gathered from publicly available sources.”
+
+It also admits that “audio data was obtained from YouTube for use as training data using YT-DLP.”
+
+Suno challenged whether the labels have standing to bring their YouTube stream-ripping claim, and accused them of “anticompetitive activities that extend an unlawful monopoly” over music.
+
+Suno‘s terms of service have granted it a “perpetual, irrevocable” license over “any and all Content” as far back as January 2024, and the language remains in the version in effect since September 3.
+
+In the current terms, that category covers both what users submit and the Output generated from it, for purposes including the “improvement” of the machine learning models behind the service.
+
+Sony sued Suno‘s rival Udio for a second time on July 20, asserting 30,117 recordings a judge had barred it from adding to its original case.
+
+Udio has signed licensing deals with Universal Music Group, Warner Music Group, Merlin, Kobalt, Believe, and the National Music Publishers’ Association, leaving Sony as the only major without one.
+
+The Suno and Udio complaints use near-identical phrasing, describing each company’s “belated embrace of licensing” as underscoring the unlawfulness of copying the labels’ recordings without a license in the first place.
+
+Fact discovery in the original Suno case closes on September 30, though on Friday, the parties jointly asked the court to run discovery on the new stream-ripping claim through November 20.Music Business Worldwide

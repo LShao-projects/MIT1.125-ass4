@@ -1,0 +1,9 @@
+{
+  "run_id": "live-20261013T181427Z",
+  "started_at": "2026-10-13T18:14:27Z",
+  "as_of_date": "2026-10-13",
+  "mode": "live",
+  "previous_run_id": null,
+  "finished_at": "2026-10-13T18:20:39.600Z",
+  "finished_at_note": "Recovered from the first live-run summary, which recorded 372.6 seconds before later editorial reruns; the final script-generation receipt ended at 18:20:39 UTC."
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "time": "0:00–0:25",
+    "narration": "Can you save one good phrase without starting over? Suno is an AI music platform. Inside Studio, creators arrange and edit clips. Imagine a four-bar melody you like, but it enters late against your beat. Would you regenerate everything or fix this clip? Suno's October eighth update adds controls for that question. Let's see what each actually changes.",
+    "visual_action": "Open with a short question over an illustrative studio image; identify Suno and Studio before showing the fictional four-bar melody and late clip on the animated timeline. Keep the \"illustration\" label visible.",
+    "on_screen_text": "“Keep it or start over?”",
+    "audio_cue": "Original, quiet grid click; ILLUSTRATION.",
+    "asset_notes": "Original shapes only; no Suno output or interface capture. Show “Evidence as of October 13, 2026” as a small date tag.",
+    "claim_ids": "[01-c1] P; [01-c4] H"
+  },
+  {
+    "time": "0:25–0:49",
+    "narration": "First, the entrance. Our phrase misses beat one. Suno says Studio now detects the first beat more accurately when a new clip is created. That might help the next take land closer. It does not mean this older clip fixes itself. We draw a possible new take beside it, then ask: which entrance actually fits our beat? That still needs a real listening check.",
+    "visual_action": "Keep the original late clip visible; illuminate beat one and add a separate, ghosted new take near the marker. Leave both hypothetical entrances open for comparison.",
+    "on_screen_text": "“Does it land on beat one?”",
+    "audio_cue": "Original beat clicks; ILLUSTRATION.",
+    "asset_notes": "Animate only the fictional grid; do not fake product behavior.",
+    "claim_ids": "[01-c1] P; [01-c4] H"
+  },
+  {
+    "time": "0:49–1:16",
+    "narration": "Suppose the new entrance fits, but that phrase ends too soon for the bar. Suno's second change is clip stretching: shift, click, and drag to change a clip's length. So the next thing I would try is extending this phrase without replacing the idea. Does it still sound natural afterward? The release note tells us the control exists. It does not answer that listening question.",
+    "visual_action": "The same clip reaches the beat but leaves an empty tail. Drag its illustrated edge toward the bar line; pause on a visible “listen?” prompt.",
+    "on_screen_text": "“Can it fill the bar?”",
+    "audio_cue": "No source audio; a brief original drag sound, ILLUSTRATION.",
+    "asset_notes": "Do not depict a measured stretch or claim quality.",
+    "claim_ids": "[01-c1] P; [01-c4] H"
+  },
+  {
+    "time": "1:16–1:40",
+    "narration": "The length fits in the drawing. Then the ending feels abrupt. That is a different problem. Suno's third change adds adjustable fade curves, so a creator can shape how the clip comes in or leaves. We draw the curve over our phrase and compare two possible exits. Again, these are editing options. We have not tested whether either exit sounds better in a real song.",
+    "visual_action": "Pan along the same fictional timeline; a hard edge transforms into two alternate fade curves. Both remain outlined as possible edits, with neither marked winner.",
+    "on_screen_text": "“Which exit fits the song?”",
+    "audio_cue": "Original soft click only; NO AUDIO DEMO of Suno.",
+    "asset_notes": "Keep “illustration” visible.",
+    "claim_ids": "[01-c1] P; [01-c4] H"
+  },
+  {
+    "time": "1:40–1:50",
+    "narration": "Fourth, pop-out windows let you move synth, musical typing, and plug-in views. That changes your workspace, not this clip.",
+    "visual_action": "Pull back from the clip; three generic tool windows move onto a second illustrated monitor, then snap back to the timeline.",
+    "on_screen_text": "“Fourth change: pop-out windows.”",
+    "audio_cue": "Narration only.",
+    "asset_notes": "Generic floating windows, not Suno screenshots.",
+    "claim_ids": "[01-c1] P; [01-c4] H"
+  },
+  {
+    "time": "1:50–2:26",
+    "narration": "Window layout is one part of the workflow. The bigger question is what happens after generation. One creator described removing noise from five stems—separate tracks—then adjusting tone and dynamics. Producer Todd Edwards described sampling generated material in his own work. These are two ways to shape a first take. Neither account tests October's new controls. But both return us to our fictional phrase: keep the part you like, decide what to change, and listen to the result. A button matters only if it helps with that decision.",
+    "visual_action": "Move from the floating windows back to the phrase. Split an illustrative clip into five blank tracks, then show a separate sample tile joining a larger composition. Label each reported workflow by speaker; do not present either as a test of the new controls.",
+    "on_screen_text": "“Keep the idea. Shape the result.”",
+    "audio_cue": "NO THIRD-PARTY AUDIO.",
+    "asset_notes": "Generic diagrams, no creator footage or source audio.",
+    "claim_ids": "[01-c2] T; [01-c3] T; [01-c4] H"
+  },
+  {
+    "time": "2:26–3:15",
+    "narration": "So, can we save this clip? Maybe. We now have three concrete things to try: check a new clip’s entrance, stretch the chosen phrase, and shape its exit. Keep the original version. Make one change at a time, then listen for what matters to you. What changes in your ears matters more than this drawing. Suno's announcement supports the existence of the controls; these creator accounts show why editing can matter. None proves that this particular update improves a finished song. Our clip stays hypothetical. The answer for a songwriter is a test to try before regenerating the whole idea. Next time, we face the harder choice. If two versions sound different, how do you tell which one is actually better for your music?",
+    "visual_action": "Return to the exact opening frame. Replay the three visual repairs in quick succession, then split the fictional phrase into two unlabeled versions. End on the unresolved choice that starts episode 2.",
+    "on_screen_text": "“Test before you regenerate.”",
+    "audio_cue": "Original transition sting; NO SUNO AUDIO.",
+    "asset_notes": "Three-step visual recap, not a before-and-after audio claim.",
+    "claim_ids": "[01-c1] P; [01-c2] T; [01-c3] T; [01-c4] H"
+  }
+]

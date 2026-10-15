@@ -1,0 +1,15 @@
+Improvements to Studio: Tighter timing, clip stretching and fade curves.
+
+We’ve been listening to your feedback and have implemented a load of new functionality in Suno Studio. Here’s what’s new:
+
+Better down-beat detection
+
+We’ve made improvements to the detection of beat 1 in new clip creations. This means the timing of clips and takes on the Studio timeline is greatly improved, and there is more accuracy around the first downbeat in a clip. Now, the experience of working with non rhythmic clips, such as a cappella vocals, is smoother and the need to manually align is reduced.
+
+We’ve added a new feature where shift-click-dragging automatically timestretches a clip. This is useful for matching samples and found sounds with tracks in Studio projects, regardless of the tempo. It’s super fast, too... try it for yourself!
+
+Clip fades, which let you smoothly fade audio clips in and out, have been part of Studio for a while. Until now, those fades were linear. Now, you can shape the curve by dragging the node on the fade icon to create exponential- and logarithmic-shaped fades.
+
+You can now pop out the wavetable synth, musical typing keyboard and expanded plug-in views to a floating window that can be dragged around the screen and even onto other monitors.
+
+Studio is our powerful browser-based DAW. If you have a Premier subscription, it’s free to use: check it out now. If you’re new to Studio, learn more here.

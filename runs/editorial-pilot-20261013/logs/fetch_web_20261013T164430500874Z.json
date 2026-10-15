@@ -1,0 +1,14 @@
+{
+  "stage": "fetch_web",
+  "status": "complete",
+  "input_count": 4,
+  "output_count": 4,
+  "started_at": "2026-10-13T16:44:26Z",
+  "finished_at": "2026-10-13T16:44:30Z",
+  "tools_or_models": [
+    "Python urllib original HTML"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": []
+}

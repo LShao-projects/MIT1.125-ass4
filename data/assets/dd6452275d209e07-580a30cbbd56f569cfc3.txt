@@ -1,0 +1,15 @@
+CV278 - Italian Competition Authority launches investigation into AI company Suno over unfair terms
+
+Suno’s Terms of Service may create a significant imbalance of consumer rights and obligations.
+
+The Italian Competition Authority has launched an investigation into Suno Inc., a US company that provides generative AI services specialising in music creation. The proceedings focus on Suno’s Terms of Service. According to the Authority, the terms under investigation may be unfair pursuant to Article 33 of the Consumer Code since they may create a significant imbalance in the rights and obligations under the contract, to the detriment of consumers.
+
+In particular, the Terms of Service seem to give Suno broad discretion to make unilateral changes to the contract, the service and the subscription prices, without having to provide any justification. The Terms appear to allow the company to suspend, discontinue or terminate user accounts – as well as any associated content – at any time, for any reason and without prior notice. Moreover, the Terms of Service seemingly require users to consent to additional terms, which they have no direct access to before entering into the contract. They also appear to limit the company’s liability in very broad and generic terms, including in relation to personal injury.
+
+The contractual provisions on copyright deserve particular attention. The scope of the license imposed on consumers as a condition for using the platform services seems to be insufficiently defined, as it is framed in generic and all-encompassing terms, and imposes the waiver of moral rights contrary to Articles 20 et seq. of Law 633/1941.
+
+Lastly, the Terms of Service appear to require consumers to pursue claims through binding individual arbitration administered in the United States, subject to tight deadlines for doing so and a waiver of class actions. The Terms also seemingly establish the exclusive jurisdiction of the Commonwealth of Massachusetts.
+
+In accordance with Article 7(1) of the “Regulation on investigation procedures relating to consumer protection and misleading and comparative advertising” adopted by AGCM decision 31356 of 5 November 2024, over the next few weeks, the Authority will launch a public consultation on the terms under investigation in a dedicated section of its website. The consultation is open to trade associations representing traders at national level and to chambers of commerce, or their associations, affected by the contractual terms under investigation due to their specific experience in the sector concerned. Consumer associations that are representative at national level and are recognised and included in the list referred to in Article 137 of the Consumer Code may also participate.
+
+Rome, 6 October 2026

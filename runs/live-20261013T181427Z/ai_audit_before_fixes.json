@@ -1,0 +1,128 @@
+{
+  "drafts_ready_for_human_review": true,
+  "assignment_complete": false,
+  "checks": [
+    {
+      "requirement": "Three connected pieces with distinct editorial purposes, arguments, synthesis, and meaningful limitations",
+      "status": "met",
+      "evidence": "Piece 01 examines the October workflow update; 02 tests quality and control claims; 03 gives pre-release checks and developments to watch. Each connects multiple sources and states a limitation."
+    },
+    {
+      "requirement": "At least three independent publishers supporting each article",
+      "status": "met",
+      "evidence": "Piece 01 cites Suno, On a Creative Journey, and MusicRadar; 02 cites WaveDisco, ytyng, and two separate video publishers; 03 cites several distinct publishers and a podcast."
+    },
+    {
+      "requirement": "Traceable evidence, factual scope, and uncertainty",
+      "status": "partial",
+      "evidence": "Claim IDs, source versions, quotations, and media timestamps are supplied. Several specific claims exceed the exact passages provided, and the podcast citation leads to a feed rather than a clearly identified episode."
+    },
+    {
+      "requirement": "Approximately 600–900 words per article, excluding references",
+      "status": "unverifiable",
+      "evidence": "The supplied articles appear near the requested range, but no word counts are supplied and an exact count cannot be established without counting the text."
+    },
+    {
+      "requirement": "A 3–5 minute spoken script paired with each article",
+      "status": "partial",
+      "evidence": "All three scripts track their articles. Piece 01 has only a production target; piece 02 labels a four-minute runtime. No timed narration or finished video verifies duration, and the first two scripts may run short at ordinary speaking pace."
+    },
+    {
+      "requirement": "RSS, YouTube, and podcast evidence across the series",
+      "status": "met",
+      "evidence": "The articles use written reports and YouTube demonstrations; piece 03 cites the JG Beats Lab podcast. The supplied summary reports eligible items of all three kinds."
+    },
+    {
+      "requirement": "As-of date tied to the evidence-supplying pipeline run and 30-day freshness",
+      "status": "met",
+      "evidence": "Each draft states 2026-10-13 UTC, matching the supplied live run's as-of date. Supplied passage publication dates fall within that run's 30-day window."
+    },
+    {
+      "requirement": "Source collection minimum and independence across the full corpus",
+      "status": "unverifiable",
+      "evidence": "The run summary reports 21 eligible items, including two podcasts and two YouTube videos, from 12 publishers. The full item records and their substantive content are not supplied here."
+    },
+    {
+      "requirement": "Two live runs on different days, publication, audience videos, and technical demonstration",
+      "status": "not_met",
+      "evidence": "The submission explicitly says the second live run, three Substack publications, three YouTube videos, student approval, and separate technical demonstration are pending."
+    }
+  ],
+  "findings": [
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Article, “What the measurements show,” paragraph 2; brief claim 02-c2",
+      "issue": "The reported disappearance of the WAV/MP3 loudness gap is not supported by the exact passages supplied for that claim.",
+      "support": "The supplied WaveDisco passages say there was no consistent v5.5-to-v6 direction in LUFS or True Peak and that only two songs had format comparisons. Neither passage states that the format gap disappeared.",
+      "suggested_fix": "Supply and cite the exact WaveDisco passage with the format result, or remove that result from the article and brief."
+    },
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Article, “Control needs its own test,” paragraphs 1–2; script, “Creative control is a separate test”",
+      "issue": "Several descriptions of the video tests are more specific than their supplied transcript excerpts establish.",
+      "support": "For 02-c4, the excerpts are “direction and then the next few have,” “It might just be Sunno doing iterations,” and “into studio, cleaned up all the the”; they do not themselves establish a smoother vocal. For 02-c5, the provided excerpts do not establish that Olsen retained the memo’s melody.",
+      "suggested_fix": "Check surrounding timestamped segments and attach passages containing the full assessments. Narrow any description that cannot be substantiated."
+    },
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Article, Olsen paragraph; script, Olsen paragraph; brief claim 02-c5",
+      "issue": "The stated paid-program incentive is not established by the supplied excerpt.",
+      "support": "The cited segment at 13:36 reads “Paid toMake Music Week, which is going”. That fragment does not show a paid music-business program or its relationship to Olsen’s Suno evaluation.",
+      "suggested_fix": "Cite a complete passage establishing the promotion and its commercial nature, or use a narrower attribution."
+    },
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Article, ytyng paragraph: “The measured difference is real within the files ytyng compared”",
+      "issue": "This wording treats a source-reported measurement as independently established.",
+      "support": "The exact passage says “v6 was down 2 to 3.4dB at 2 to 12kHz, and the spectral centroid was 36% lower.” No raw files, calculations, or independent replication are supplied.",
+      "suggested_fix": "Say that ytyng reported a difference in the exports it compared; retain the caveat about different songs, prompts, and codecs."
+    },
+    {
+      "severity": "minor",
+      "piece_id": "03",
+      "location": "Article and script source notes for the JG Beats Lab podcast",
+      "issue": "The reader-facing citation points to an RSS feed rather than an identified episode or a timestamped episode link.",
+      "support": "The supplied source URL is https://feeds.buzzsprout.com/2573904.rss. The draft gives 11:30–11:50 transcript times, while the assignment requires substantive claims to link to evidence with timestamps for audio.",
+      "suggested_fix": "Add a direct episode or playable audio link alongside the episode title and times."
+    },
+    {
+      "severity": "minor",
+      "piece_id": "01",
+      "location": "Article and script source note for Suno’s October 8 release note",
+      "issue": "The citation uses a general release-notes page that may be difficult for readers to locate after updates.",
+      "support": "The supplied URL is https://blog.suno.com/release-notes, and the draft relies on three passages attributed to October 8. The internal source version is traceable, but the audience-facing link has no entry anchor.",
+      "suggested_fix": "Use a stable October 8 entry link or archived snapshot if available, and keep the three quoted feature descriptions in the source note."
+    },
+    {
+      "severity": "important",
+      "piece_id": null,
+      "location": "SUBMISSION.md, Published Series and Evidence and Runs sections",
+      "issue": "The full assignment is incomplete.",
+      "support": "The supplied submission marks all three articles unpublished, all three videos unproduced, the technical demonstration unrecorded, and the second live run pending. The assignment requires those publications and a second live run on a different day.",
+      "suggested_fix": "Complete student review and corrections, run the pipeline on another day, produce and publish the three article/video pairs and technical demonstration, then verify and record accessible links."
+    }
+  ],
+  "strengths": [
+    "The three pieces answer different editorial questions while maintaining one audience and topic.",
+    "The drafts generally distinguish announcements, creator accounts, inference, and unresolved outcomes.",
+    "The pieces avoid treating the Italian investigation, litigation allegations, or Deezer’s planned toggle as settled results."
+  ],
+  "limitations_of_this_audit": [
+    "This audit used only the supplied assignment, drafts, summaries, and exact passages; it did not inspect links, source context, repository files, or media.",
+    "Exact article word counts and finished video durations are unverified.",
+    "The full corpus, second podcast item, implementation, and replay artifacts cannot be independently checked from the supplied material."
+  ],
+  "audited_at": "2026-10-13T18:31:29Z",
+  "run_id": "live-20261013T181427Z",
+  "model_usage": {
+    "input_tokens": 49989,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 2909,
+    "reasoning_output_tokens": 1034
+  }
+}

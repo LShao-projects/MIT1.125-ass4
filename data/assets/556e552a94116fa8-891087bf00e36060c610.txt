@@ -1,0 +1,95 @@
+8 min Click here to listen to this article
+
+Share via Close extra sharing options Email
+
+Copy Link URL Copied!
+
+This is read by an automated voice. Please report any issues or inconsistencies here.
+
+See more from the L.A. Times in Google Search. Set us as preferred
+
+Record labels are licensing their music to AI companies, including Suno and Udio, the platforms they sued in 2024.
+
+The deals promise artists a choice and a cut, but payout terms are undisclosed and label contracts may limit that choice.
+
+Sony and Universal are still suing Suno, and musicians, session players and songwriter groups are challenging the deals.
+
+Two years ago, the biggest record labels took artificial intelligence music generators to court for copyright infringement. Now several of them are licensing their catalogs to those same companies, and the deals are starting to turn into products.
+
+The latest example came earlier this month, when Suno, an AI music company valued at $5.4 billion, released its first models built with licensed music from Warner Music Group, BMG and Believe. Rival Udio has licensing deals with Universal Music Group and Warner.
+
+The companies are pitching AI as a new revenue stream for artists. But so far, none of them have disclosed what artists will be paid, how many artists have opted in, or how much input individual musicians have over whether their work is used. And some musicians and songwriters are fearful of how these AI deals might affect livelihoods.
+
+“It’s sort of a creepy and ominous cloud,” said Matt Evans, a 35-year-old Pasadena resident who’s played brass instruments on shows like “The Late Late Show With James Corden” and Netflix’s “Dr. Seuss’s Red Fish, Blue Fish.” “The fact that I could do something once and then it could be reused, and if that’s not negotiated in a contract, then I never got to make a choice to receive additional compensation. It all comes down to the loss of money.”
+
+The American Federation of Musicians sued Universal and Warner in June, alleging the labels licensed recordings its members played on to Suno and Udio without paying those musicians or telling the union which recordings were involved. The labels have moved to dismiss the case.
+
+Major record labels propose guidelines for AI music on the charts
+
+The music industry’s biggest players have proposed several guidelines for how to treat music produced with AI.
+
+In 2024, Universal, Sony Music Entertainment and Warner sued Suno and Udio for copyright infringement, alleging the AI companies trained their models on copyrighted songs spanning many artists, genres and time periods. The settlements began the following year. Universal settled with Udio in October and became its partner, and Warner settled with both Udio and Suno in November, signing licensing deals with each.
+
+“The reason why they would settle this is they think they’re going to profit more from licensing music to them rather than from the outcome of a lawsuit,” said Jane Davidson, an entertainment attorney at Nolan Heimann who specializes in copyright and trademark infringement.
+
+More deals followed. Udio signed with Merlin, which licenses music on behalf of independent labels, and with independent publisher Kobalt. Suno signed with BMG in August and with Believe, owner of the DIY distribution platform TuneCore, this month. Spotify, which wasn’t part of the lawsuits, struck deals with Universal and Merlin.
+
+AI music company joins the vinyl record resurgence
+
+AI music company Suno plans to press users’ generated tracks onto 12-inch records for about $45, moving into vinyl as copyright suits from Universal and Sony continue.
+
+Not everyone is settling. Sony filed a second lawsuit against Udio over more than 30,000 recordings, and it is still suing Suno alongside Universal, which is licensing its music to Udio and Spotify at the same time. Sony and Universal also filed a new lawsuit last week alleging that Suno’s latest model still infringes on their copyrighted works. In July, a Munich court ruled against Suno in a case brought by GEMA, which collects royalties for German songwriters and publishers.
+
+The deals between labels and AI music platforms — on which consumers can create full songs from text prompts — share a basic promise. Artists signed to the participating labels can opt in and will be credited and paid.
+
+But each company is building something different. Udio operates under a “walled garden” model favored by Universal, in which songs made on the platform can’t be downloaded or distributed elsewhere. Spotify’s tool, a planned paid add-on for Premium subscribers, has no launch date. Suno lets users download what they make and release it elsewhere, with download caps and watermarks meant to curb abuse; songs made with its new models can be distributed through Believe and TuneCore.
+
+Whether an artist opts out depends on who owns the rights. Songs typically carry two copyrights — one for the composition, usually held by songwriters and their publishers, and one for the sound recording, usually owned by the label. Every contract is different, so it’s unclear how AI products will handle music where those rights are split.
+
+“These companies are able to make deals on behalf of their artists, and their control over their music is pretty significant based on what major label contracts typically say,” Davidson said. “But I expect that we will have some artists that push back against this and say that they didn’t authorize the use of their music for this purpose.”
+
+Warner’s agreement with Suno, for example, lets artists opt in to having their names, likenesses, voices and compositions used in AI-generated music. But Jack Brody, Suno’s chief product officer, acknowledged that labels “ultimately have their contracts in place that will have some say in what an artist can and can’t do.” It’s also not always clear whether opting out keeps an artist’s recordings out of AI training, or only out of fan-facing features.
+
+Michelle Lewis, a songwriter and the co-founder and chief executive of the nonprofit Songwriters of North America, said the composition side of that copyright split is often the harder one to defend.
+
+“With AI, it’s so much easier to tell if you’ve infringed on the sound recording. You know what Beyoncé and Drake’s voices sound like,” said Lewis, who wrote Cher’s “A Different Kind of Love Song,” Little Mix’s “Wings” and the music for the Disney Jr. show “Doc McStuffins.” “But songwriting is so much more nebulous, so much harder to sue.”
+
+‘The ability to say no’: Artists demand consent over AI use of their music
+
+As labels strike deals with AI start-ups, advocacy groups warn that the artists whose voices and work make those deals valuable are being shut out.
+
+“From the creator side, nobody asked for this. We like our job,” added Lewis. “The job is the process and what makes it special, interesting and artful.”
+
+Some musicians argue the deals can’t cover rights the labels don’t control. A proposed class action filed last month by Jason Isbell and other musicians alleges Suno lets users generate songs that evoke specific artists’ identities without their consent, a right-of-publicity claim the plaintiffs say belongs to performers no matter who owns their recordings. Suno disputes the claims.
+
+Session musicians like Evans are pushing back through their union.
+
+“By licensing our members’ performances to AI platforms like Suno and Udio without consent, credit, or compensation, companies like Universal, Warner Records, and Atlantic are bypassing the very human creators who made their catalogs valuable in the first place,” AFM International President Tino Gagliardi said in a statement.
+
+The labels have disputed the claims and argue that these deals advance the interests of artists and songwriters.
+
+Jonathan Wyner, head of artistic technology initiatives at Berklee College of Music’s Emerging Artistic Technology Lab, compared the AI deals to the arrival of streaming services. Wyner has advised Suno.
+
+Hollywood fights AI in public while quietly building it into movies
+
+Job postings reveal studios are quietly adopting AI.
+
+“It’s a good step, and I think it was an inevitable step, especially if you want to stay engaged with musicians and the creative community,” he said.
+
+That comparison cuts both ways. Streaming grew the industry while fueling years of complaints about artist pay.
+
+Damon Krukowski, a musician and the legislative director at United Musicians & Allied Workers, said the deals so far don’t seem to benefit working-class musicians and could be used to cut them out entirely.
+
+“It’s a new technology, but it’s not a new corporate story,” Krukowski said. “But the tools are even more powerful. It seems within their possible reach to destroy the labor market. The major labels are just seeing dollar signs without any regard to the long-term health or sustainability of this industry, because they’re envisioning an industry without artists who can push back.”
+
+Brody disputed that, saying Suno is building ways for independent and unsigned artists to benefit, such as its deal with Believe and TuneCore.
+
+With terms under wraps, it’s too early to know whether any of this will pay off for artists. The tests are still ahead — whether Sony and Universal win or settle, and what the first payouts actually look like.
+
+“A label making a deal and an individual artist having a choice are not necessarily the same thing,” said Drew Silverstein, the senior advisor for AI at music tech company BandLab Technologies. “Our music industry has a long history of new revenue streams coming into existence that benefit certain folks, and create great financial opportunities for rights holders.”
+
+Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown Sept. 19, 2026
+
+Universal Music Group accuses music distributor of spreading AI ‘slop’ in lawsuit Sept. 15, 2026
+
+Hollywood studios have sued over AI. Now Google is courting them to use its tools Aug. 31, 2026

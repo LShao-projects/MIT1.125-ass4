@@ -1,0 +1,18 @@
+{
+  "stage": "fetch_podcasts",
+  "status": "incomplete",
+  "input_count": 2,
+  "output_count": 0,
+  "started_at": "2026-10-14T15:56:28Z",
+  "finished_at": "2026-10-14T15:56:28Z",
+  "tools_or_models": [
+    "Python urllib podcast RSS XML"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [
+    "podcast-notes-on-work: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "podcast-ai-music-revolution: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  ],
+  "media_downloaded": false
+}

@@ -1,0 +1,7 @@
+# Write paired YouTube video scripts for Google Vids
+
+Write a clear, spoken-English script for a **3–5 minute** audience-facing video paired with the article for the same `piece_id`. Read the same brief and exact evidence versions used for that article. The script should make the same central argument and factual claims, while using a concise spoken structure and useful on-screen directions. Format with narration, visual suggestions, and a closing source/description note. Use source links, attributed speaker names, and timestamped video/podcast passage locations so the Google Vids production and YouTube description can cite them.
+
+Keep claim markers such as `[02-c1]` visible for automated and human consistency checks. Use the brief's evidence to distinguish what Suno announced, what someone tested or reported, and what we infer. Explain at least one real limitation or counterargument without staging a false controversy. Never imply that reading an automatic caption confirms audio quality. Do not manufacture a product demo, musician quote, listening reaction, policy rule, audio clip, or legal finding. If a visual would require rights or material not in the evidence, suggest a neutral diagram, screen text, or creator-made illustration instead.
+
+Produce a script for Google Vids production, not a claim that the final video already exists. The student will review the script, produce the video, and publish it manually. Maintain the paired article's claim scope and uncertainty.

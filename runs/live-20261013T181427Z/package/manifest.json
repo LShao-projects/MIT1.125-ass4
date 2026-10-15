@@ -1,0 +1,53 @@
+{
+  "review_id": "ed0071363587f6a5e78365822ee1f26850147a62c5c8922558730024e409243a",
+  "prepared_at": "2026-10-13T23:48:42Z",
+  "assets": [
+    {
+      "piece_id": "01",
+      "kind": "articles",
+      "path": "runs/live-20261013T181427Z/package/articles/01.md"
+    },
+    {
+      "piece_id": "01",
+      "kind": "video_scripts",
+      "path": "runs/live-20261013T181427Z/package/video_scripts/01.md"
+    },
+    {
+      "piece_id": "01",
+      "kind": "source_notes",
+      "path": "runs/live-20261013T181427Z/package/source_notes/01.md"
+    },
+    {
+      "piece_id": "02",
+      "kind": "articles",
+      "path": "runs/live-20261013T181427Z/package/articles/02.md"
+    },
+    {
+      "piece_id": "02",
+      "kind": "video_scripts",
+      "path": "runs/live-20261013T181427Z/package/video_scripts/02.md"
+    },
+    {
+      "piece_id": "02",
+      "kind": "source_notes",
+      "path": "runs/live-20261013T181427Z/package/source_notes/02.md"
+    },
+    {
+      "piece_id": "03",
+      "kind": "articles",
+      "path": "runs/live-20261013T181427Z/package/articles/03.md"
+    },
+    {
+      "piece_id": "03",
+      "kind": "video_scripts",
+      "path": "runs/live-20261013T181427Z/package/video_scripts/03.md"
+    },
+    {
+      "piece_id": "03",
+      "kind": "source_notes",
+      "path": "runs/live-20261013T181427Z/package/source_notes/03.md"
+    }
+  ],
+  "publication_links": "runs/live-20261013T181427Z/package/publication_links.json",
+  "manual_steps": "runs/live-20261013T181427Z/package/manual_steps.md"
+}

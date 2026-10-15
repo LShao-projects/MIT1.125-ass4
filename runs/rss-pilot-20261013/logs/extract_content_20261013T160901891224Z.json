@@ -1,0 +1,15 @@
+{
+  "stage": "extract_content",
+  "status": "complete",
+  "input_count": 4,
+  "output_count": 4,
+  "started_at": "2026-10-13T16:08:59Z",
+  "finished_at": "2026-10-13T16:09:01Z",
+  "tools_or_models": [
+    "original webpage HTML text"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [],
+  "media_files_retained": false
+}

@@ -1,0 +1,99 @@
+{
+  "drafts_ready_for_human_review": true,
+  "assignment_complete": false,
+  "checks": [
+    {
+      "requirement": "Three connected pieces with distinct editorial purposes, arguments, synthesis, and meaningful limitations",
+      "status": "met",
+      "evidence": "Piece 01 examines the October Studio changes, piece 02 scrutinizes quality and control claims, and piece 03 develops pre-release checks. Each connects multiple sources and states what the evidence cannot establish."
+    },
+    {
+      "requirement": "At least three independent publishers support each article",
+      "status": "met",
+      "evidence": "Piece 01 cites Suno, On a Creative Journey, and MusicRadar; piece 02 cites WaveDisco, ytyng, On a Creative Journey, and Produce Like a Boss; piece 03 cites seven distinct publishers or producers."
+    },
+    {
+      "requirement": "Traceable evidence locators and careful factual scope",
+      "status": "partial",
+      "evidence": "The briefs give exact quotes or transcript segment IDs, and the drafts generally attribute claims and preserve uncertainty. One article adds a detail beyond its cited passage, and some reader-facing URLs differ from the supplied evidence URLs and cannot be checked here."
+    },
+    {
+      "requirement": "Articles of approximately 600–900 words and paired 3–5 minute spoken scripts",
+      "status": "met",
+      "evidence": "Supplied article body counts are 783, 753, and 809 words. The scripts are timed at 3:42, 3:48, and 4:04, with 493, 477, and 539 narration words respectively. Runtime remains an estimate until recorded."
+    },
+    {
+      "requirement": "All three input types contribute evidence across the series",
+      "status": "met",
+      "evidence": "The articles cite written feed items, YouTube demonstrations, and the timestamped JG Beats Lab podcast passage."
+    },
+    {
+      "requirement": "Required collection quantity, independence, freshness, and media retrieval",
+      "status": "partial",
+      "evidence": "The supplied summary reports 21 eligible items, 12 publishers, and at least two items of each kind, all dated within the October 13 window. The full retained items and independence judgments cannot be inspected from the supplied passages. The submission says the YouTube route retrieved metadata and captions without video or audio bytes, leaving the literal media-retrieval requirement unresolved."
+    },
+    {
+      "requirement": "As-of date matches the evidence-supplying run",
+      "status": "met",
+      "evidence": "The supplied live run started on 2026-10-13 UTC, and all three articles and scripts state evidence as of 2026-10-13 UTC."
+    },
+    {
+      "requirement": "Student review, publication, second live run, and technical demonstration",
+      "status": "not_met",
+      "evidence": "SUBMISSION.md states that final student review and approval have not happened, all three Substack articles and YouTube videos are unpublished or unproduced, the technical demonstration is unrecorded, and the second live run on a different date is pending."
+    }
+  ],
+  "findings": [
+    {
+      "severity": "minor",
+      "piece_id": "01",
+      "location": "Article 01, “Why editing belongs in the conversation”; script 01, 2:06–2:50",
+      "issue": "The drafts call the five stems “generated,” while the supplied supporting transcript only identifies them as “five main stems.”",
+      "support": "Claim 01-c2 cites seg-00405, “five main stems and I've cut out the,” and seg-00406, “little bits that were noisy.” Those passages support stem cleanup but do not establish how the stems were produced.",
+      "suggested_fix": "Say “five stems” unless another retained passage establishes that they were generated."
+    },
+    {
+      "severity": "minor",
+      "piece_id": "01",
+      "location": "Article 01 and script 01 source notes for the Suno release",
+      "issue": "The reader-facing link uses a specific release-note URL that differs from the supplied evidence record’s URL; its destination cannot be verified from the material provided.",
+      "support": "The exact passage record for 01-c1 gives https://blog.suno.com/release-notes, while both draft source notes link to https://blog.suno.com/release-notes/studio-updates-oct26.",
+      "suggested_fix": "Check that the specific link opens the cited October 8 passage before publication, or use a verified link to the captured source."
+    },
+    {
+      "severity": "important",
+      "piece_id": null,
+      "location": "SUBMISSION.md, “Evidence and Runs”",
+      "issue": "The collection method leaves a stated architecture requirement unresolved.",
+      "support": "The assignment requires YouTube video or audio content to be retrieved and podcast audio to be retrieved. The submission says YouTube metadata and captions were fetched “without downloading or playing video” and acknowledges this as an unresolved compliance risk.",
+      "suggested_fix": "Reconcile the documented collection method with the course’s literal media-retrieval requirement and retain inspectable evidence of the compliant route."
+    },
+    {
+      "severity": "blocking",
+      "piece_id": null,
+      "location": "SUBMISSION.md, “Published Series,” “Evidence and Runs,” and “Editorial Review”",
+      "issue": "The full assignment is unfinished despite six reviewable drafts.",
+      "support": "The assignment requires three published Substack articles, three accompanying produced YouTube videos, a separate technical demonstration, two live runs on different days, and student review. The submission marks all publications and the demonstration pending, lists the second live run as pending, and says final student review and approval have not happened.",
+      "suggested_fix": "Complete student review and corrections, run the pipeline live on another date, produce and publish the videos and articles, record the technical demonstration, and verify all submitted links."
+    }
+  ],
+  "strengths": [
+    "The three articles answer different editorial questions and avoid treating the same evidence as three interchangeable summaries.",
+    "The briefs identify source versions and exact passages or transcript segments; the drafts usually preserve attribution, procedural status, and uncertainty.",
+    "The article and script pairs keep their central claims aligned and distinguish illustrations from observed Suno results."
+  ],
+  "limitations_of_this_audit": [
+    "Only the supplied passages, drafts, metadata, and submission text were assessed. No links, retained assets, run files, rendered videos, or publishing access were checked.",
+    "The supplied word counts and script timings were accepted as reported; recorded video duration is not yet verifiable.",
+    "The full corpus, source-independence judgments, policy rerun, replay behavior, and implementation cannot be independently verified from the supplied excerpts."
+  ],
+  "audited_at": "2026-10-13T23:17:58Z",
+  "run_id": "live-20261013T181427Z",
+  "model_usage": {
+    "input_tokens": 60933,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 2924,
+    "reasoning_output_tokens": 1438
+  }
+}

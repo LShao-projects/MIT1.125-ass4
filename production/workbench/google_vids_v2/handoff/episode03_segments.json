@@ -1,0 +1,56 @@
+[
+  {
+    "time": "0:00–0:34",
+    "narration": "The song is ready. Your cursor is one click from Publish. Then a simple question stops you: can you show what you made, what Suno generated, and what you changed afterward? If those pieces are scattered, leave the cursor here for a moment. We are following the same fictional songwriter. Before this song goes out, three questions need answers: who made which parts, what rules apply, and how a listening platform may classify the track.",
+    "visual_action": "The recurring fictional clip sits on a generic upload page. Cursor approaches Publish; the entire screen freezes. Three question fields appear behind the button: “Who made what?”, “Which rules?”, and “Which category?”",
+    "on_screen_text": "“Pause before Publish.”",
+    "audio_cue": "Original pause cue; NO THIRD-PARTY AUDIO.",
+    "asset_notes": "Fictional platform and song; no real account shown. Show “Evidence as of October 13, 2026” as a small date tag.",
+    "claim_ids": "[03-c8] H"
+  },
+  {
+    "time": "0:34–1:18",
+    "narration": "First question: what did you contribute? Artist Zemi described making beats and toplines, singing, using Suno to change the voice, then mixing the result himself. That is one artist's workflow. Josh of JG Beats Lab suggests keeping a folder for each song with a dated demo and lyric sheet, so the steps can be reconstructed. Andrea Olson describes using Suno to explore ideas rather than calling its output her finished product. Those three creators make different choices. For our musician, the useful action is to save the actual inputs, generated versions, and later edits, with dates.",
+    "visual_action": "The cursor moves away from Publish and drags fictional voice memo, lyrics, prompts, outputs, and edits into dated folders. Zemi, Josh, and Olson appear as attributed pathway labels, then fade.",
+    "on_screen_text": "“Can you trace your process?”",
+    "audio_cue": "File-drop sound made for this video; ILLUSTRATION.",
+    "asset_notes": "Blank invented files; not anyone's real recordings.",
+    "claim_ids": "[03-c1] T; [03-c2] T; [03-c6] T; [03-c8] H"
+  },
+  {
+    "time": "1:18–2:02",
+    "narration": "The folder is full, so can we click now? Not yet. A record of your process helps explain it; it does not tell you which rights you have. Italy's Competition Authority opened an investigation into Suno's terms, including a copyright license the authority says the terms impose on consumers. That is an investigation, not a ruling. For this song, the immediate job is more concrete: read the current terms for the account you used, note their date, and check the rules of the service where you plan to release. We do not have those current primary terms or your distributor's rules in this evidence set.",
+    "visual_action": "Folder closes. Cursor moves toward Publish again, then a terms page slides in and blocks it. Date and destination fields remain blank for the real creator to fill.",
+    "on_screen_text": "“Which rules apply today?”",
+    "audio_cue": "Narration only; NO AUDIO DEMO.",
+    "asset_notes": "Generic terms card, no fabricated clauses.",
+    "claim_ids": "[03-c3] L; [03-c8] H"
+  },
+  {
+    "time": "2:02–2:45",
+    "narration": "A headline about training data flashes on your screen. Is that the same question? No. Suno says v6 used licensed partner content and community interactions, including creations. Sony and Universal allege unlicensed copying of recordings; Suno disputes that. Separately, the Los Angeles Times reported that some AI music licensing deals had not disclosed details such as artist payouts, opt-ins, and individual control. Those disputes matter. They do not tell this musician whether this particular upload meets the terms on their screen. Keep the industry question visible, but do not let it answer a different one.",
+    "visual_action": "Two headline strips rush toward the frozen upload. The screen separates into three moving lanes: account terms, training dispute, industry deals. Only account terms reconnect to this upload decision.",
+    "on_screen_text": "“Different questions, different answers.”",
+    "audio_cue": "Original soft whoosh; NO SOURCE AUDIO.",
+    "asset_notes": "Attribution tags on every claim; avoid mimicking real news footage.",
+    "claim_ids": "[03-c4] L; [03-c5] L; [03-c8] H"
+  },
+  {
+    "time": "2:45–3:23",
+    "narration": "The last question is about discovery. Deezer says it plans a search option that would let listeners filter fully AI-generated music. A listener might choose that setting. But from this report we cannot tell whether the option is already live, or how a song with human input and Suno assistance would be classified. So don't predict lost plays for our musician. Check the destination's actual policy and classification before claiming you know the reach.",
+    "visual_action": "Follow the fictional song toward a listener's search screen; a planned filter appears as a dotted outline, then a question mark covers the partly assisted category. Pull back to the paused cursor.",
+    "on_screen_text": "“How will this song be classified?”",
+    "audio_cue": "Narration only; NO AUDIO DEMO.",
+    "asset_notes": "Label the feature “planned”; no fabricated Deezer interface.",
+    "claim_ids": "[03-c7] L; [03-c8] H"
+  },
+  {
+    "time": "3:23–4:04",
+    "narration": "Now return to Publish. What can we answer? The musician can keep a dated trail of their own work, read the current terms and release service rules, and watch for platform policies that actually take effect. The folder does not grant ownership or legal clearance. It does make the next questions specific. If a rule is still unknown, the click can wait while you verify it. That is the point of this series: start with a musical idea, test what the tools really do for that idea, then decide what you can responsibly release.",
+    "visual_action": "The three question fields fill in only as a record, a current-rules check, and a platform-policy check are shown. Cursor stays paused until viewer-specific blanks are filled; end without pressing Publish.",
+    "on_screen_text": "“Know the answer before the click.”",
+    "audio_cue": "Original end sting; NO SOURCE AUDIO.",
+    "asset_notes": "The decision sequence is editorial guidance, not a legal test.",
+    "claim_ids": "[03-c3] L; [03-c7] L; [03-c8] H"
+  }
+]

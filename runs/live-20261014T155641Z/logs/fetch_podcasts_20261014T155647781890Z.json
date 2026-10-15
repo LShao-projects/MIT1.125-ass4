@@ -1,0 +1,15 @@
+{
+  "stage": "fetch_podcasts",
+  "status": "complete",
+  "input_count": 2,
+  "output_count": 2,
+  "started_at": "2026-10-14T15:56:47Z",
+  "finished_at": "2026-10-14T15:56:47Z",
+  "tools_or_models": [
+    "Python urllib podcast RSS XML"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [],
+  "media_downloaded": false
+}

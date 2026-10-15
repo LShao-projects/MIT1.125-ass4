@@ -1,0 +1,412 @@
+1
+00:00:00,359 --> 00:00:02,760
+Imagine  you  recorded  a  melody,
+
+2
+00:00:02,760 --> 00:00:05,640
+then  used  Suno  to  develop  a  demo.
+
+3
+00:00:05,640 --> 00:00:07,120
+Now  you  have  two  possible
+
+4
+00:00:07,120 --> 00:00:09,679
+versions.  In  our  drawing,  A  looks
+
+5
+00:00:09,679 --> 00:00:11,799
+louder  on  a  meter,  B  follows  the
+
+6
+00:00:11,799 --> 00:00:13,639
+melody  you  wrote.  These  are
+
+7
+00:00:13,639 --> 00:00:15,480
+imaginary  versions.  We  did  not  run
+
+8
+00:00:15,480 --> 00:00:17,640
+this  song  through  Suno.  So,  how
+
+9
+00:00:17,640 --> 00:00:19,160
+would  you  decide  which  one  is
+
+10
+00:00:19,160 --> 00:00:20,439
+worth  keeping?
+
+11
+00:00:20,439 --> 00:00:21,760
+That  is  the  question  for  this
+
+12
+00:00:21,760 --> 00:00:24,080
+episode.  When  someone  says  a  Suno
+
+13
+00:00:24,080 --> 00:00:25,920
+version  is  better,  better  for
+
+14
+00:00:25,920 --> 00:00:26,880
+what?
+
+15
+00:00:26,880 --> 00:00:28,640
+Let's  begin  with  your  music.  Then
+
+16
+00:00:28,640 --> 00:00:30,039
+check  the  file  you  would  share.
+
+17
+00:00:30,039 --> 00:00:30,280
+Yeah.
+
+18
+00:00:30,281 --> 00:00:33,160
+First,  listen  for  what  you  meant
+
+19
+00:00:33,160 --> 00:00:35,241
+to  make.  Is  your  melody  still
+
+20
+00:00:35,241 --> 00:00:36,281
+there?
+
+21
+00:00:36,281 --> 00:00:37,481
+Does  the  vocal  go  in  the
+
+22
+00:00:37,481 --> 00:00:39,561
+direction  you  wanted?  Does  the
+
+23
+00:00:39,561 --> 00:00:41,920
+arrangement  help  the  song?
+
+24
+00:00:41,920 --> 00:00:44,441
+In  one  YouTube  demonstration,  on  a
+
+25
+00:00:44,441 --> 00:00:45,960
+creative  journey  tried  more
+
+26
+00:00:45,960 --> 00:00:48,001
+detailed  lyric  directions  and  liked
+
+27
+00:00:48,001 --> 00:00:50,361
+a  later  vocal.  But  the  creator
+
+28
+00:00:50,361 --> 00:00:52,720
+also  made  repeated  generations  and
+
+29
+00:00:52,720 --> 00:00:54,961
+cleaned  up  the  result  in  studio.
+
+30
+00:00:54,961 --> 00:00:57,400
+We  can  see  a  process.  We  cannot
+
+31
+00:00:57,400 --> 00:00:59,361
+tell  which  single  step  made  the
+
+32
+00:00:59,361 --> 00:01:00,560
+difference.
+
+33
+00:01:00,560 --> 00:01:02,400
+Compare  each  version  with  your
+
+34
+00:01:02,400 --> 00:01:04,761
+original  sketch,  not  only  with  the
+
+35
+00:01:04,761 --> 00:01:05,601
+other  version.
+
+36
+00:01:05,601 --> 00:01:08,441
+Songwriter and producer Andrea Olson runs
+
+37
+00:01:08,441 --> 00:01:10,481
+the YouTube channel Produce like a boss.
+
+38
+00:01:10,921 --> 00:01:13,161
+In one demonstration, she uploaded a
+
+39
+00:01:13,161 --> 00:01:14,041
+voice memo.
+
+40
+00:01:14,361 --> 00:01:16,641
+She said Suno kept much of its melody,
+
+41
+00:01:16,881 --> 00:01:19,361
+but the result still sounded AI like to
+
+42
+00:01:19,361 --> 00:01:19,681
+her.
+
+43
+00:01:20,281 --> 00:01:22,841
+Those are two different judgments. Did it
+
+44
+00:01:22,841 --> 00:01:25,481
+follow your idea and is it finished?
+
+45
+00:01:26,041 --> 00:01:28,361
+Her test covers one memo, not yours.
+
+46
+00:01:28,801 --> 00:01:31,121
+She also promotes her own program, so
+
+47
+00:01:31,121 --> 00:01:33,801
+keep that context in mind. If B follows
+
+48
+00:01:33,801 --> 00:01:36,041
+your melody, it may be worth editing even
+
+49
+00:01:36,041 --> 00:01:37,361
+if A looks louder.
+
+50
+00:01:38,022 --> 00:01:40,582
+Now, check the version you would actually
+
+51
+00:01:40,582 --> 00:01:41,102
+share.
+
+52
+00:01:41,542 --> 00:01:43,902
+Wave Disco generated three songs with the
+
+53
+00:01:43,902 --> 00:01:46,462
+same lyrics and prompt across four Suno
+
+54
+00:01:46,462 --> 00:01:47,382
+model versions,
+
+55
+00:01:47,702 --> 00:01:49,942
+then measured loudness and true peak or
+
+56
+00:01:49,942 --> 00:01:51,062
+brief signal peaks.
+
+57
+00:01:51,502 --> 00:01:53,822
+Those numbers describe exported files.
+
+58
+00:01:54,062 --> 00:01:55,582
+They do not score the songs.
+
+59
+00:01:55,902 --> 00:01:57,302
+The measurements did not move
+
+60
+00:01:57,302 --> 00:01:59,862
+consistently from V5.5 to V6.
+
+61
+00:02:00,182 --> 00:02:02,942
+Its separate WAV versus MP3 comparison
+
+62
+00:02:03,182 --> 00:02:06,102
+had only two songs with both formats. So
+
+63
+00:02:06,102 --> 00:02:08,462
+do not pick A because its fictional meter
+
+64
+00:02:08,462 --> 00:02:09,302
+looks stronger.
+
+65
+00:02:09,742 --> 00:02:12,222
+Check the chosen export's level, peaks
+
+66
+00:02:12,222 --> 00:02:13,982
+and format before you send it.
+
+67
+00:02:14,063 --> 00:02:17,063
+Another  tester,  YTYN,
+
+68
+00:02:17,063 --> 00:02:19,503
+reported  less  high  frequency  energy
+
+69
+00:02:19,503 --> 00:02:22,303
+in  the  V6  files  they  examined.
+
+70
+00:02:22,303 --> 00:02:23,903
+That  might  sound  like  a  verdict
+
+71
+00:02:23,903 --> 00:02:25,582
+on  sound  quality,
+
+72
+00:02:25,582 --> 00:02:27,383
+but  the  earlier  and  later  files
+
+73
+00:02:27,383 --> 00:02:29,782
+use  different  songs,  prompts,  and
+
+74
+00:02:29,782 --> 00:02:31,903
+audio  encoding.  Several  things
+
+75
+00:02:31,903 --> 00:02:33,383
+changed  at  once.
+
+76
+00:02:33,383 --> 00:02:35,783
+The  chart  describes  those  exports.
+
+77
+00:02:35,783 --> 00:02:37,102
+It  cannot  show  that  the  model
+
+78
+00:02:37,102 --> 00:02:39,502
+alone  caused  the  difference.  If
+
+79
+00:02:39,502 --> 00:02:41,383
+your  chosen  version  sounds  dull,
+
+80
+00:02:41,383 --> 00:02:43,143
+compare  the  actual  exports  under
+
+81
+00:02:43,143 --> 00:02:45,182
+matched  conditions  with  you  can.
+
+82
+00:02:45,182 --> 00:02:46,622
+These  reports  give  you  things  to
+
+83
+00:02:46,622 --> 00:02:48,983
+check.  They  do  not  prove  that  V6
+
+84
+00:02:48,983 --> 00:02:50,646
+is  universally  better  or  worse.
+
+85
+00:02:50,646 --> 00:02:54,246
+So,  go  back  to  your  own  A  and  B.
+
+86
+00:02:54,246 --> 00:02:56,126
+First,  which  one  keeps  your
+
+87
+00:02:56,126 --> 00:02:58,565
+musical  idea,  your  melody,  vocal
+
+88
+00:02:58,565 --> 00:03:01,325
+direction,  and  arrangement.  Then,
+
+89
+00:03:01,325 --> 00:03:03,606
+for  that  version,  does  the  exact
+
+90
+00:03:03,606 --> 00:03:05,365
+file  you  will  share  behave  as
+
+91
+00:03:05,365 --> 00:03:08,286
+expected?  Save  your  original  memo,
+
+92
+00:03:08,286 --> 00:03:10,126
+the  generations  you  compared,  the
+
+93
+00:03:10,126 --> 00:03:12,246
+export  format,  and  any  later
+
+94
+00:03:12,246 --> 00:03:13,966
+edits.  That  way,  you  know  it
+
+95
+00:03:13,966 --> 00:03:15,286
+changed.
+
+96
+00:03:15,286 --> 00:03:17,046
+This  two-part  check  is  our
+
+97
+00:03:17,046 --> 00:03:18,886
+practical  synthesis  of  four  recent
+
+98
+00:03:18,886 --> 00:03:21,165
+reports,  not  a  universal  verdict
+
+99
+00:03:21,165 --> 00:03:22,566
+on  Suno.
+
+100
+00:03:22,566 --> 00:03:23,926
+Once  you  find  a  version  you  may
+
+101
+00:03:23,926 --> 00:03:26,446
+release,  one  more  question  appears.
+
+102
+00:03:26,446 --> 00:03:27,926
+What  should  you  verify  before  you
+
+103
+00:03:27,926 --> 00:03:29,086
+press  publish?
+

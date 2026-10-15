@@ -1,0 +1,3812 @@
+[
+  {
+    "segment_id": "seg-00001",
+    "start_seconds": 0.719,
+    "end_seconds": 4.64,
+    "text": "So, you've got a voice memo [music] on"
+  },
+  {
+    "segment_id": "seg-00002",
+    "start_seconds": 2.159,
+    "end_seconds": 6.24,
+    "text": "your phone that nobody has ever heard. 2"
+  },
+  {
+    "segment_id": "seg-00003",
+    "start_seconds": 4.64,
+    "end_seconds": 8.0,
+    "text": "in the morning, humming into the dark"
+  },
+  {
+    "segment_id": "seg-00004",
+    "start_seconds": 6.24,
+    "end_seconds": 9.76,
+    "text": "because the idea showed up and you"
+  },
+  {
+    "segment_id": "seg-00005",
+    "start_seconds": 8.0,
+    "end_seconds": 11.679,
+    "text": "didn't want to lose it. There are"
+  },
+  {
+    "segment_id": "seg-00006",
+    "start_seconds": 9.76,
+    "end_seconds": 13.759,
+    "text": "probably a hundred of them in there if"
+  },
+  {
+    "segment_id": "seg-00007",
+    "start_seconds": 11.679,
+    "end_seconds": 15.92,
+    "text": "you're [music] anything like me. I just"
+  },
+  {
+    "segment_id": "seg-00008",
+    "start_seconds": 13.759,
+    "end_seconds": 18.0,
+    "text": "took one of mine and I put it into four"
+  },
+  {
+    "segment_id": "seg-00009",
+    "start_seconds": 15.92,
+    "end_seconds": 20.8,
+    "text": "AI models. [music] I'm not talking about"
+  },
+  {
+    "segment_id": "seg-00010",
+    "start_seconds": 18.0,
+    "end_seconds": 22.72,
+    "text": "a finished AI model output. No, the"
+  },
+  {
+    "segment_id": "seg-00011",
+    "start_seconds": 20.8,
+    "end_seconds": 24.88,
+    "text": "rough phone recording of something I"
+  },
+  {
+    "segment_id": "seg-00012",
+    "start_seconds": 22.72,
+    "end_seconds": 26.72,
+    "text": "wrote and never released. These four are"
+  },
+  {
+    "segment_id": "seg-00013",
+    "start_seconds": 24.88,
+    "end_seconds": 28.8,
+    "text": "not doing the same job. [music] Some"
+  },
+  {
+    "segment_id": "seg-00014",
+    "start_seconds": 26.72,
+    "end_seconds": 30.64,
+    "text": "work from your melody. One of them only"
+  },
+  {
+    "segment_id": "seg-00015",
+    "start_seconds": 28.8,
+    "end_seconds": 32.16,
+    "text": "takes the feel of your recording and"
+  },
+  {
+    "segment_id": "seg-00016",
+    "start_seconds": 30.64,
+    "end_seconds": 34.399,
+    "text": "builds [music] something else entirely."
+  },
+  {
+    "segment_id": "seg-00017",
+    "start_seconds": 32.16,
+    "end_seconds": 35.92,
+    "text": "And it says so in the own documentation"
+  },
+  {
+    "segment_id": "seg-00018",
+    "start_seconds": 34.399,
+    "end_seconds": 37.99,
+    "text": "if you go look for it. And the fourth"
+  },
+  {
+    "segment_id": "seg-00019",
+    "start_seconds": 35.92,
+    "end_seconds": 39.68,
+    "text": "one isn't a music model at all. And"
+  },
+  {
+    "segment_id": "seg-00020",
+    "start_seconds": 37.99,
+    "end_seconds": 41.68,
+    "text": "[music] it really has no business doing"
+  },
+  {
+    "segment_id": "seg-00021",
+    "start_seconds": 39.68,
+    "end_seconds": 43.23,
+    "text": "this. But I'm going to do it anyway."
+  },
+  {
+    "segment_id": "seg-00022",
+    "start_seconds": 41.68,
+    "end_seconds": 44.8,
+    "text": "Today I'm uploading the same voice memo"
+  },
+  {
+    "segment_id": "seg-00023",
+    "start_seconds": 43.23,
+    "end_seconds": 46.64,
+    "text": "[music] into four different AI models."
+  },
+  {
+    "segment_id": "seg-00024",
+    "start_seconds": 44.8,
+    "end_seconds": 48.48,
+    "text": "And I'll show you what it did, what it"
+  },
+  {
+    "segment_id": "seg-00025",
+    "start_seconds": 46.64,
+    "end_seconds": 50.48,
+    "text": "didn't, and what surprised me about the"
+  },
+  {
+    "segment_id": "seg-00026",
+    "start_seconds": 48.48,
+    "end_seconds": 52.32,
+    "text": "whole test and what this means for"
+  },
+  {
+    "segment_id": "seg-00027",
+    "start_seconds": 50.48,
+    "end_seconds": 54.365,
+    "text": "musicians, producers, and artists"
+  },
+  {
+    "segment_id": "seg-00028",
+    "start_seconds": 52.32,
+    "end_seconds": 56.239,
+    "text": "wanting to build a career in music"
+  },
+  {
+    "segment_id": "seg-00029",
+    "start_seconds": 54.365,
+    "end_seconds": 57.84,
+    "text": "[music] with longevity. and stick with"
+  },
+  {
+    "segment_id": "seg-00030",
+    "start_seconds": 56.239,
+    "end_seconds": 60.079,
+    "text": "me to the end because there's a hidden"
+  },
+  {
+    "segment_id": "seg-00031",
+    "start_seconds": 57.84,
+    "end_seconds": 64.52,
+    "text": "benefit in here that everyone might be"
+  },
+  {
+    "segment_id": "seg-00032",
+    "start_seconds": 60.079,
+    "end_seconds": 64.52,
+    "text": "missing. Let's get into it."
+  },
+  {
+    "segment_id": "seg-00033",
+    "start_seconds": 64.879,
+    "end_seconds": 68.159,
+    "text": "I'm going to take [music] one of my"
+  },
+  {
+    "segment_id": "seg-00034",
+    "start_seconds": 66.24,
+    "end_seconds": 71.119,
+    "text": "voice memos. I actually scrolled way"
+  },
+  {
+    "segment_id": "seg-00035",
+    "start_seconds": 68.159,
+    "end_seconds": 74.0,
+    "text": "back from several years ago and I found"
+  },
+  {
+    "segment_id": "seg-00036",
+    "start_seconds": 71.119,
+    "end_seconds": 75.84,
+    "text": "a song that I worked on actually quite a"
+  },
+  {
+    "segment_id": "seg-00037",
+    "start_seconds": 74.0,
+    "end_seconds": 77.84,
+    "text": "bit. [music] I have several voice memos"
+  },
+  {
+    "segment_id": "seg-00038",
+    "start_seconds": 75.84,
+    "end_seconds": 81.2,
+    "text": "and I just never released it. I didn't"
+  },
+  {
+    "segment_id": "seg-00039",
+    "start_seconds": 77.84,
+    "end_seconds": 82.72,
+    "text": "think it was good enough or I just it"
+  },
+  {
+    "segment_id": "seg-00040",
+    "start_seconds": 81.2,
+    "end_seconds": 84.88,
+    "text": "didn't make the cut when I went to the"
+  },
+  {
+    "segment_id": "seg-00041",
+    "start_seconds": 82.72,
+    "end_seconds": 86.479,
+    "text": "writing room for whatever reason. It's"
+  },
+  {
+    "segment_id": "seg-00042",
+    "start_seconds": 84.88,
+    "end_seconds": 87.439,
+    "text": "still in there. And I went back and"
+  },
+  {
+    "segment_id": "seg-00043",
+    "start_seconds": 86.479,
+    "end_seconds": 90.159,
+    "text": "listened to it. And this is the"
+  },
+  {
+    "segment_id": "seg-00044",
+    "start_seconds": 87.439,
+    "end_seconds": 92.32,
+    "text": "interesting thing about being a musician"
+  },
+  {
+    "segment_id": "seg-00045",
+    "start_seconds": 90.159,
+    "end_seconds": 93.84,
+    "text": "distance from it. I came back to it and"
+  },
+  {
+    "segment_id": "seg-00046",
+    "start_seconds": 92.32,
+    "end_seconds": 95.28,
+    "text": "I'm like, \"Huh, there's actually some"
+  },
+  {
+    "segment_id": "seg-00047",
+    "start_seconds": 93.84,
+    "end_seconds": 97.04,
+    "text": "pretty good stuff in there. I like this"
+  },
+  {
+    "segment_id": "seg-00048",
+    "start_seconds": 95.28,
+    "end_seconds": 99.36,
+    "text": "one.\" And so, I'm going to upload this"
+  },
+  {
+    "segment_id": "seg-00049",
+    "start_seconds": 97.04,
+    "end_seconds": 102.0,
+    "text": "to four different models. And I want us"
+  },
+  {
+    "segment_id": "seg-00050",
+    "start_seconds": 99.36,
+    "end_seconds": 103.84,
+    "text": "to see and test what the model actually"
+  },
+  {
+    "segment_id": "seg-00051",
+    "start_seconds": 102.0,
+    "end_seconds": 106.32,
+    "text": "gives us and what we can learn from it"
+  },
+  {
+    "segment_id": "seg-00052",
+    "start_seconds": 103.84,
+    "end_seconds": 108.159,
+    "text": "as producers. Now, if you're new here,"
+  },
+  {
+    "segment_id": "seg-00053",
+    "start_seconds": 106.32,
+    "end_seconds": 109.759,
+    "text": "my name is Andrea Olsen. I own Produce"
+  },
+  {
+    "segment_id": "seg-00054",
+    "start_seconds": 108.159,
+    "end_seconds": 111.92,
+    "text": "Like a Boss. I'm an artist, a musician,"
+  },
+  {
+    "segment_id": "seg-00055",
+    "start_seconds": 109.759,
+    "end_seconds": 114.399,
+    "text": "and a producer. And my goal is to help"
+  },
+  {
+    "segment_id": "seg-00056",
+    "start_seconds": 111.92,
+    "end_seconds": 116.399,
+    "text": "you produce, protect, and profit from"
+  },
+  {
+    "segment_id": "seg-00057",
+    "start_seconds": 114.399,
+    "end_seconds": 118.799,
+    "text": "your music so it never becomes something"
+  },
+  {
+    "segment_id": "seg-00058",
+    "start_seconds": 116.399,
+    "end_seconds": 122.24,
+    "text": "that you used to do. We talk a lot about"
+  },
+  {
+    "segment_id": "seg-00059",
+    "start_seconds": 118.799,
+    "end_seconds": 124.64,
+    "text": "AI and music on this channel because I"
+  },
+  {
+    "segment_id": "seg-00060",
+    "start_seconds": 122.24,
+    "end_seconds": 128.0,
+    "text": "do think that it can be a valuable tool,"
+  },
+  {
+    "segment_id": "seg-00061",
+    "start_seconds": 124.64,
+    "end_seconds": 129.84,
+    "text": "but it can also be a very risky one. And"
+  },
+  {
+    "segment_id": "seg-00062",
+    "start_seconds": 128.0,
+    "end_seconds": 131.84,
+    "text": "so, we have to be aware of what we're"
+  },
+  {
+    "segment_id": "seg-00063",
+    "start_seconds": 129.84,
+    "end_seconds": 133.36,
+    "text": "feeding into these models, the terms of"
+  },
+  {
+    "segment_id": "seg-00064",
+    "start_seconds": 131.84,
+    "end_seconds": 135.2,
+    "text": "service, the conditions, all of those"
+  },
+  {
+    "segment_id": "seg-00065",
+    "start_seconds": 133.36,
+    "end_seconds": 137.52,
+    "text": "things before we begin to upload our"
+  },
+  {
+    "segment_id": "seg-00066",
+    "start_seconds": 135.2,
+    "end_seconds": 139.28,
+    "text": "songs. So, first of all, what I'm going"
+  },
+  {
+    "segment_id": "seg-00067",
+    "start_seconds": 137.52,
+    "end_seconds": 141.44,
+    "text": "to do is I'm going to show you a way"
+  },
+  {
+    "segment_id": "seg-00068",
+    "start_seconds": 139.28,
+    "end_seconds": 143.84,
+    "text": "that you can actually protect your stuff"
+  },
+  {
+    "segment_id": "seg-00069",
+    "start_seconds": 141.44,
+    "end_seconds": 145.68,
+    "text": "before you put it in. Now, of course, we"
+  },
+  {
+    "segment_id": "seg-00070",
+    "start_seconds": 143.84,
+    "end_seconds": 146.959,
+    "text": "always recommend going to the US"
+  },
+  {
+    "segment_id": "seg-00071",
+    "start_seconds": 145.68,
+    "end_seconds": 148.959,
+    "text": "copyright office, getting that"
+  },
+  {
+    "segment_id": "seg-00072",
+    "start_seconds": 146.959,
+    "end_seconds": 150.64,
+    "text": "registered copyright before you do any"
+  },
+  {
+    "segment_id": "seg-00073",
+    "start_seconds": 148.959,
+    "end_seconds": 153.36,
+    "text": "sort of uploading, whether it's just the"
+  },
+  {
+    "segment_id": "seg-00074",
+    "start_seconds": 150.64,
+    "end_seconds": 155.36,
+    "text": "lyrics, etc. So, here's what I love to"
+  },
+  {
+    "segment_id": "seg-00075",
+    "start_seconds": 153.36,
+    "end_seconds": 156.8,
+    "text": "do. In addition to the registered"
+  },
+  {
+    "segment_id": "seg-00076",
+    "start_seconds": 155.36,
+    "end_seconds": 158.64,
+    "text": "copyright and making sure that you have"
+  },
+  {
+    "segment_id": "seg-00077",
+    "start_seconds": 156.8,
+    "end_seconds": 160.8,
+    "text": "those official registrations, I also"
+  },
+  {
+    "segment_id": "seg-00078",
+    "start_seconds": 158.64,
+    "end_seconds": 163.84,
+    "text": "like to use instant IP. This uses"
+  },
+  {
+    "segment_id": "seg-00079",
+    "start_seconds": 160.8,
+    "end_seconds": 166.0,
+    "text": "timestamped blockchain technology to"
+  },
+  {
+    "segment_id": "seg-00080",
+    "start_seconds": 163.84,
+    "end_seconds": 168.64,
+    "text": "protect your idea. you can actually"
+  },
+  {
+    "segment_id": "seg-00081",
+    "start_seconds": 166.0,
+    "end_seconds": 170.959,
+    "text": "upload the file. And so what I do is I"
+  },
+  {
+    "segment_id": "seg-00082",
+    "start_seconds": 168.64,
+    "end_seconds": 173.04,
+    "text": "come into Instant IP into my portal. I"
+  },
+  {
+    "segment_id": "seg-00083",
+    "start_seconds": 170.959,
+    "end_seconds": 175.36,
+    "text": "grab the file, the voice memo. I just"
+  },
+  {
+    "segment_id": "seg-00084",
+    "start_seconds": 173.04,
+    "end_seconds": 177.599,
+    "text": "hit upload here and I'm going to go into"
+  },
+  {
+    "segment_id": "seg-00085",
+    "start_seconds": 175.36,
+    "end_seconds": 179.12,
+    "text": "my downloads. It's right here. The song"
+  },
+  {
+    "segment_id": "seg-00086",
+    "start_seconds": 177.599,
+    "end_seconds": 180.959,
+    "text": "is called the mighty power of Jesus"
+  },
+  {
+    "segment_id": "seg-00087",
+    "start_seconds": 179.12,
+    "end_seconds": 184.48,
+    "text": "name. The music that I write is in the"
+  },
+  {
+    "segment_id": "seg-00088",
+    "start_seconds": 180.959,
+    "end_seconds": 188.239,
+    "text": "Christian music genre. And so this song"
+  },
+  {
+    "segment_id": "seg-00089",
+    "start_seconds": 184.48,
+    "end_seconds": 194.239,
+    "text": "is called the mighty power of Jesus"
+  },
+  {
+    "segment_id": "seg-00090",
+    "start_seconds": 188.239,
+    "end_seconds": 196.879,
+    "text": "name. This is a song written in 2019 by"
+  },
+  {
+    "segment_id": "seg-00091",
+    "start_seconds": 194.239,
+    "end_seconds": 198.72,
+    "text": "Andrew Olsen. There we go. Now, name,"
+  },
+  {
+    "segment_id": "seg-00092",
+    "start_seconds": 196.879,
+    "end_seconds": 200.239,
+    "text": "description, and files cannot be changed"
+  },
+  {
+    "segment_id": "seg-00093",
+    "start_seconds": 198.72,
+    "end_seconds": 201.84,
+    "text": "once it's protected. So, you always want"
+  },
+  {
+    "segment_id": "seg-00094",
+    "start_seconds": 200.239,
+    "end_seconds": 204.48,
+    "text": "to make sure that your information is"
+  },
+  {
+    "segment_id": "seg-00095",
+    "start_seconds": 201.84,
+    "end_seconds": 205.68,
+    "text": "accurate. And then you just hit next"
+  },
+  {
+    "segment_id": "seg-00096",
+    "start_seconds": 204.48,
+    "end_seconds": 207.44,
+    "text": "step and it walks you through the"
+  },
+  {
+    "segment_id": "seg-00097",
+    "start_seconds": 205.68,
+    "end_seconds": 209.2,
+    "text": "process of getting that finished. And"
+  },
+  {
+    "segment_id": "seg-00098",
+    "start_seconds": 207.44,
+    "end_seconds": 210.959,
+    "text": "boom, you're done. If you want to do"
+  },
+  {
+    "segment_id": "seg-00099",
+    "start_seconds": 209.2,
+    "end_seconds": 212.64,
+    "text": "this and learn more about it, you can go"
+  },
+  {
+    "segment_id": "seg-00100",
+    "start_seconds": 210.959,
+    "end_seconds": 215.28,
+    "text": "to instantip.app"
+  },
+  {
+    "segment_id": "seg-00101",
+    "start_seconds": 212.64,
+    "end_seconds": 217.04,
+    "text": "and actually if you use the link in our"
+  },
+  {
+    "segment_id": "seg-00102",
+    "start_seconds": 215.28,
+    "end_seconds": 219.76,
+    "text": "description, you can get a free"
+  },
+  {
+    "segment_id": "seg-00103",
+    "start_seconds": 217.04,
+    "end_seconds": 221.92,
+    "text": "contract. So after I've done that, then"
+  },
+  {
+    "segment_id": "seg-00104",
+    "start_seconds": 219.76,
+    "end_seconds": 226.04,
+    "text": "I'm going to go into Sunno and run this"
+  },
+  {
+    "segment_id": "seg-00105",
+    "start_seconds": 221.92,
+    "end_seconds": 226.04,
+    "text": "first model on this voice memo."
+  },
+  {
+    "segment_id": "seg-00106",
+    "start_seconds": 226.56,
+    "end_seconds": 230.48,
+    "text": "Okay. So now we are inside of Suno. And"
+  },
+  {
+    "segment_id": "seg-00107",
+    "start_seconds": 228.72,
+    "end_seconds": 232.239,
+    "text": "what I'm going to do is I'm going to"
+  },
+  {
+    "segment_id": "seg-00108",
+    "start_seconds": 230.48,
+    "end_seconds": 234.799,
+    "text": "grab the audio. So I'm just going to hit"
+  },
+  {
+    "segment_id": "seg-00109",
+    "start_seconds": 232.239,
+    "end_seconds": 237.12,
+    "text": "upload after I've got this protected and"
+  },
+  {
+    "segment_id": "seg-00110",
+    "start_seconds": 234.799,
+    "end_seconds": 238.72,
+    "text": "registered. And now when I talk about"
+  },
+  {
+    "segment_id": "seg-00111",
+    "start_seconds": 237.12,
+    "end_seconds": 240.239,
+    "text": "being comfortable with uploading this"
+  },
+  {
+    "segment_id": "seg-00112",
+    "start_seconds": 238.72,
+    "end_seconds": 242.0,
+    "text": "here, this is what I want to draw your"
+  },
+  {
+    "segment_id": "seg-00113",
+    "start_seconds": 240.239,
+    "end_seconds": 243.36,
+    "text": "attention to while this is uploading is"
+  },
+  {
+    "segment_id": "seg-00114",
+    "start_seconds": 242.0,
+    "end_seconds": 244.959,
+    "text": "it's so important for us to understand"
+  },
+  {
+    "segment_id": "seg-00115",
+    "start_seconds": 243.36,
+    "end_seconds": 246.879,
+    "text": "the terms and conditions. And now Sunno"
+  },
+  {
+    "segment_id": "seg-00116",
+    "start_seconds": 244.959,
+    "end_seconds": 248.319,
+    "text": "has been under a lot of fire. And if"
+  },
+  {
+    "segment_id": "seg-00117",
+    "start_seconds": 246.879,
+    "end_seconds": 250.0,
+    "text": "you've watched our other videos, you"
+  },
+  {
+    "segment_id": "seg-00118",
+    "start_seconds": 248.319,
+    "end_seconds": 252.56,
+    "text": "know that. And if not, go ahead and"
+  },
+  {
+    "segment_id": "seg-00119",
+    "start_seconds": 250.0,
+    "end_seconds": 254.0,
+    "text": "watch those because they have had a lot"
+  },
+  {
+    "segment_id": "seg-00120",
+    "start_seconds": 252.56,
+    "end_seconds": 255.439,
+    "text": "going on over the last couple of years"
+  },
+  {
+    "segment_id": "seg-00121",
+    "start_seconds": 254.0,
+    "end_seconds": 257.68,
+    "text": "with lawsuits. They've been training"
+  },
+  {
+    "segment_id": "seg-00122",
+    "start_seconds": 255.439,
+    "end_seconds": 259.759,
+    "text": "their model on stolen data. But also,"
+  },
+  {
+    "segment_id": "seg-00123",
+    "start_seconds": 257.68,
+    "end_seconds": 261.44,
+    "text": "the really important thing to understand"
+  },
+  {
+    "segment_id": "seg-00124",
+    "start_seconds": 259.759,
+    "end_seconds": 264.8,
+    "text": "is that in their terms and conditions,"
+  },
+  {
+    "segment_id": "seg-00125",
+    "start_seconds": 261.44,
+    "end_seconds": 267.04,
+    "text": "they say whatever you upload, we can use"
+  },
+  {
+    "segment_id": "seg-00126",
+    "start_seconds": 264.8,
+    "end_seconds": 268.72,
+    "text": "it to train our model. Okay. Now, here,"
+  },
+  {
+    "segment_id": "seg-00127",
+    "start_seconds": 267.04,
+    "end_seconds": 271.919,
+    "text": "what rights do I have with a paid"
+  },
+  {
+    "segment_id": "seg-00128",
+    "start_seconds": 268.72,
+    "end_seconds": 273.44,
+    "text": "subscription? Okay. You can use your"
+  },
+  {
+    "segment_id": "seg-00129",
+    "start_seconds": 271.919,
+    "end_seconds": 275.12,
+    "text": "monthly a lotment of credits. You can"
+  },
+  {
+    "segment_id": "seg-00130",
+    "start_seconds": 273.44,
+    "end_seconds": 277.919,
+    "text": "download your tracks. You can monetize"
+  },
+  {
+    "segment_id": "seg-00131",
+    "start_seconds": 275.12,
+    "end_seconds": 280.16,
+    "text": "them. However, keep in mind granting"
+  },
+  {
+    "segment_id": "seg-00132",
+    "start_seconds": 277.919,
+    "end_seconds": 282.16,
+    "text": "commercial use rights does not guarantee"
+  },
+  {
+    "segment_id": "seg-00133",
+    "start_seconds": 280.16,
+    "end_seconds": 284.0,
+    "text": "copyright protection. And this is we've"
+  },
+  {
+    "segment_id": "seg-00134",
+    "start_seconds": 282.16,
+    "end_seconds": 286.88,
+    "text": "talked about this a lot that a fully"
+  },
+  {
+    "segment_id": "seg-00135",
+    "start_seconds": 284.0,
+    "end_seconds": 288.96,
+    "text": "generative AI output may not qualify or"
+  },
+  {
+    "segment_id": "seg-00136",
+    "start_seconds": 286.88,
+    "end_seconds": 290.88,
+    "text": "right now does not qualify for a"
+  },
+  {
+    "segment_id": "seg-00137",
+    "start_seconds": 288.96,
+    "end_seconds": 292.56,
+    "text": "registered copyright in the United"
+  },
+  {
+    "segment_id": "seg-00138",
+    "start_seconds": 290.88,
+    "end_seconds": 295.12,
+    "text": "States. And so it's important for us to"
+  },
+  {
+    "segment_id": "seg-00139",
+    "start_seconds": 292.56,
+    "end_seconds": 297.68,
+    "text": "understand in addition to everything you"
+  },
+  {
+    "segment_id": "seg-00140",
+    "start_seconds": 295.12,
+    "end_seconds": 300.32,
+    "text": "upload trains its model to also pay"
+  },
+  {
+    "segment_id": "seg-00141",
+    "start_seconds": 297.68,
+    "end_seconds": 303.28,
+    "text": "attention to what rights you have with"
+  },
+  {
+    "segment_id": "seg-00142",
+    "start_seconds": 300.32,
+    "end_seconds": 306.4,
+    "text": "the music once it's uploaded. Okay, so"
+  },
+  {
+    "segment_id": "seg-00143",
+    "start_seconds": 303.28,
+    "end_seconds": 308.24,
+    "text": "here is the deal. So, it pulled the"
+  },
+  {
+    "segment_id": "seg-00144",
+    "start_seconds": 306.4,
+    "end_seconds": 309.84,
+    "text": "lyrics for me. These are my lyrics. And"
+  },
+  {
+    "segment_id": "seg-00145",
+    "start_seconds": 308.24,
+    "end_seconds": 314.0,
+    "text": "so, I'm just going to go in and edit"
+  },
+  {
+    "segment_id": "seg-00146",
+    "start_seconds": 309.84,
+    "end_seconds": 316.4,
+    "text": "them here. Okay. So, now because it"
+  },
+  {
+    "segment_id": "seg-00147",
+    "start_seconds": 314.0,
+    "end_seconds": 318.56,
+    "text": "analyzed the audio, it also gave me a"
+  },
+  {
+    "segment_id": "seg-00148",
+    "start_seconds": 316.4,
+    "end_seconds": 320.479,
+    "text": "style from the voice memo. But I want to"
+  },
+  {
+    "segment_id": "seg-00149",
+    "start_seconds": 318.56,
+    "end_seconds": 321.6,
+    "text": "create something different, right? So,"
+  },
+  {
+    "segment_id": "seg-00150",
+    "start_seconds": 320.479,
+    "end_seconds": 324.08,
+    "text": "here's what we're going to do. We're"
+  },
+  {
+    "segment_id": "seg-00151",
+    "start_seconds": 321.6,
+    "end_seconds": 326.16,
+    "text": "going to write a prompt that gives a"
+  },
+  {
+    "segment_id": "seg-00152",
+    "start_seconds": 324.08,
+    "end_seconds": 327.759,
+    "text": "little bit of a faster BPM. But before I"
+  },
+  {
+    "segment_id": "seg-00153",
+    "start_seconds": 326.16,
+    "end_seconds": 329.759,
+    "text": "do that, I want you to hear a little bit"
+  },
+  {
+    "segment_id": "seg-00154",
+    "start_seconds": 327.759,
+    "end_seconds": 332.4,
+    "text": "of this raw voice memo. We're talking me"
+  },
+  {
+    "segment_id": "seg-00155",
+    "start_seconds": 329.759,
+    "end_seconds": 334.56,
+    "text": "sitting at my piano just belting it out."
+  },
+  {
+    "segment_id": "seg-00156",
+    "start_seconds": 332.4,
+    "end_seconds": 336.08,
+    "text": "Nothing pretty, nothing polished, but"
+  },
+  {
+    "segment_id": "seg-00157",
+    "start_seconds": 334.56,
+    "end_seconds": 339.293,
+    "text": "this is what we've got that we're"
+  },
+  {
+    "segment_id": "seg-00158",
+    "start_seconds": 336.08,
+    "end_seconds": 340.4,
+    "text": "working with."
+  },
+  {
+    "segment_id": "seg-00159",
+    "start_seconds": 339.293,
+    "end_seconds": 345.039,
+    "text": "[singing]"
+  },
+  {
+    "segment_id": "seg-00160",
+    "start_seconds": 340.4,
+    "end_seconds": 347.68,
+    "text": ">> There's power in the name of Jesus."
+  },
+  {
+    "segment_id": "seg-00161",
+    "start_seconds": 345.039,
+    "end_seconds": 349.84,
+    "text": "There's victory in [singing] the name of"
+  },
+  {
+    "segment_id": "seg-00162",
+    "start_seconds": 347.68,
+    "end_seconds": 352.08,
+    "text": "Jesus"
+  },
+  {
+    "segment_id": "seg-00163",
+    "start_seconds": 349.84,
+    "end_seconds": 354.359,
+    "text": "and this [singing] is the name we"
+  },
+  {
+    "segment_id": "seg-00164",
+    "start_seconds": 352.08,
+    "end_seconds": 356.379,
+    "text": "praise."
+  },
+  {
+    "segment_id": "seg-00165",
+    "start_seconds": 354.359,
+    "end_seconds": 356.379,
+    "text": "[music]"
+  },
+  {
+    "segment_id": "seg-00166",
+    "start_seconds": 356.639,
+    "end_seconds": 360.24,
+    "text": "Okay, so that gives you an idea of the"
+  },
+  {
+    "segment_id": "seg-00167",
+    "start_seconds": 358.32,
+    "end_seconds": 362.96,
+    "text": "song. So now what we're going to do is"
+  },
+  {
+    "segment_id": "seg-00168",
+    "start_seconds": 360.24,
+    "end_seconds": 365.199,
+    "text": "we are going to write a prompt here."
+  },
+  {
+    "segment_id": "seg-00169",
+    "start_seconds": 362.96,
+    "end_seconds": 369.199,
+    "text": "We're going to get some styles. Okay. So"
+  },
+  {
+    "segment_id": "seg-00170",
+    "start_seconds": 365.199,
+    "end_seconds": 372.16,
+    "text": "this is going to be a beatdriven worship"
+  },
+  {
+    "segment_id": "seg-00171",
+    "start_seconds": 369.199,
+    "end_seconds": 375.72,
+    "text": "song mid-tempo. Probably like a little"
+  },
+  {
+    "segment_id": "seg-00172",
+    "start_seconds": 372.16,
+    "end_seconds": 375.72,
+    "text": "faster than that."
+  },
+  {
+    "segment_id": "seg-00173",
+    "start_seconds": 377.199,
+    "end_seconds": 384.52,
+    "text": "One, two, three, four. That's like a Let"
+  },
+  {
+    "segment_id": "seg-00174",
+    "start_seconds": 380.0,
+    "end_seconds": 384.52,
+    "text": "me pull up my metronome here."
+  },
+  {
+    "segment_id": "seg-00175",
+    "start_seconds": 385.84,
+    "end_seconds": 392.319,
+    "text": "108. Okay. So, we're going to say"
+  },
+  {
+    "segment_id": "seg-00176",
+    "start_seconds": 389.199,
+    "end_seconds": 397.52,
+    "text": "mid-tempo 108 BPM,"
+  },
+  {
+    "segment_id": "seg-00177",
+    "start_seconds": 392.319,
+    "end_seconds": 401.36,
+    "text": "female vocal. Don't change the melody. I"
+  },
+  {
+    "segment_id": "seg-00178",
+    "start_seconds": 397.52,
+    "end_seconds": 402.96,
+    "text": "want full band acoustic guitar driven"
+  },
+  {
+    "segment_id": "seg-00179",
+    "start_seconds": 401.36,
+    "end_seconds": 408.319,
+    "text": "with"
+  },
+  {
+    "segment_id": "seg-00180",
+    "start_seconds": 402.96,
+    "end_seconds": 412.24,
+    "text": "uh piano, bass, electric guitar, fast"
+  },
+  {
+    "segment_id": "seg-00181",
+    "start_seconds": 408.319,
+    "end_seconds": 414.639,
+    "text": "opener, worship song for corporate"
+  },
+  {
+    "segment_id": "seg-00182",
+    "start_seconds": 412.24,
+    "end_seconds": 418.8,
+    "text": "church setting."
+  },
+  {
+    "segment_id": "seg-00183",
+    "start_seconds": 414.639,
+    "end_seconds": 421.44,
+    "text": "So, let's go with that. And then we want"
+  },
+  {
+    "segment_id": "seg-00184",
+    "start_seconds": 418.8,
+    "end_seconds": 423.919,
+    "text": "female. And then I'm just going to leave"
+  },
+  {
+    "segment_id": "seg-00185",
+    "start_seconds": 421.44,
+    "end_seconds": 426.4,
+    "text": "these standard here. Just kind of leave"
+  },
+  {
+    "segment_id": "seg-00186",
+    "start_seconds": 423.919,
+    "end_seconds": 430.039,
+    "text": "it as it is. So now let's see what it"
+  },
+  {
+    "segment_id": "seg-00187",
+    "start_seconds": 426.4,
+    "end_seconds": 430.039,
+    "text": "creates. Okay."
+  },
+  {
+    "segment_id": "seg-00188",
+    "start_seconds": 430.994,
+    "end_seconds": 434.979,
+    "text": "[singing]"
+  },
+  {
+    "segment_id": "seg-00189",
+    "start_seconds": 432.639,
+    "end_seconds": 434.979,
+    "text": ">> Jesus. [music]"
+  },
+  {
+    "segment_id": "seg-00190",
+    "start_seconds": 437.039,
+    "end_seconds": 440.639,
+    "text": "Jesus."
+  },
+  {
+    "segment_id": "seg-00191",
+    "start_seconds": 439.039,
+    "end_seconds": 444.12,
+    "text": "And this [music and singing] is the name"
+  },
+  {
+    "segment_id": "seg-00192",
+    "start_seconds": 440.639,
+    "end_seconds": 444.12,
+    "text": "we praise"
+  },
+  {
+    "segment_id": "seg-00193",
+    "start_seconds": 445.919,
+    "end_seconds": 452.479,
+    "text": "Jesus. [music]"
+  },
+  {
+    "segment_id": "seg-00194",
+    "start_seconds": 448.0,
+    "end_seconds": 456.639,
+    "text": "Dark runs away from Jesus."
+  },
+  {
+    "segment_id": "seg-00195",
+    "start_seconds": 452.479,
+    "end_seconds": 460.72,
+    "text": "Fear cannot stay with Jesus."
+  },
+  {
+    "segment_id": "seg-00196",
+    "start_seconds": 456.639,
+    "end_seconds": 463.12,
+    "text": "And this [music] is the name we praise."
+  },
+  {
+    "segment_id": "seg-00197",
+    "start_seconds": 460.72,
+    "end_seconds": 466.12,
+    "text": "Oh, the [singing] mighty power of Jesus"
+  },
+  {
+    "segment_id": "seg-00198",
+    "start_seconds": 463.12,
+    "end_seconds": 466.12,
+    "text": "name."
+  },
+  {
+    "segment_id": "seg-00199",
+    "start_seconds": 466.365,
+    "end_seconds": 468.385,
+    "text": "[music]"
+  },
+  {
+    "segment_id": "seg-00200",
+    "start_seconds": 471.605,
+    "end_seconds": 477.039,
+    "text": ">> [music]"
+  },
+  {
+    "segment_id": "seg-00201",
+    "start_seconds": 473.44,
+    "end_seconds": 479.28,
+    "text": ">> So Sunno understood the assignment for"
+  },
+  {
+    "segment_id": "seg-00202",
+    "start_seconds": 477.039,
+    "end_seconds": 482.479,
+    "text": "the most part, right? I mean, it still"
+  },
+  {
+    "segment_id": "seg-00203",
+    "start_seconds": 479.28,
+    "end_seconds": 484.24,
+    "text": "sounds like AI, but when you say fast"
+  },
+  {
+    "segment_id": "seg-00204",
+    "start_seconds": 482.479,
+    "end_seconds": 487.199,
+    "text": "opening worship song for corporate"
+  },
+  {
+    "segment_id": "seg-00205",
+    "start_seconds": 484.24,
+    "end_seconds": 488.72,
+    "text": "church setting, it understood the"
+  },
+  {
+    "segment_id": "seg-00206",
+    "start_seconds": 487.199,
+    "end_seconds": 490.72,
+    "text": "assignment. I said, \"Don't change the"
+  },
+  {
+    "segment_id": "seg-00207",
+    "start_seconds": 488.72,
+    "end_seconds": 493.28,
+    "text": "melody.\" It didn't change the melody."
+  },
+  {
+    "segment_id": "seg-00208",
+    "start_seconds": 490.72,
+    "end_seconds": 495.28,
+    "text": "And there was a couple typos in my"
+  },
+  {
+    "segment_id": "seg-00209",
+    "start_seconds": 493.28,
+    "end_seconds": 496.479,
+    "text": "lyrics, which obviously then the robot"
+  },
+  {
+    "segment_id": "seg-00210",
+    "start_seconds": 495.28,
+    "end_seconds": 497.759,
+    "text": "doesn't know that. So, it's singing the"
+  },
+  {
+    "segment_id": "seg-00211",
+    "start_seconds": 496.479,
+    "end_seconds": 499.759,
+    "text": "a little bit of the wrong lyrics here"
+  },
+  {
+    "segment_id": "seg-00212",
+    "start_seconds": 497.759,
+    "end_seconds": 503.28,
+    "text": "and there. Full band, acoustic guitar"
+  },
+  {
+    "segment_id": "seg-00213",
+    "start_seconds": 499.759,
+    "end_seconds": 505.68,
+    "text": "driven. It It did a pretty good job. But"
+  },
+  {
+    "segment_id": "seg-00214",
+    "start_seconds": 503.28,
+    "end_seconds": 508.16,
+    "text": "here's the thing. Now, you still have a"
+  },
+  {
+    "segment_id": "seg-00215",
+    "start_seconds": 505.68,
+    "end_seconds": 509.599,
+    "text": "fully generative AI output, and that's a"
+  },
+  {
+    "segment_id": "seg-00216",
+    "start_seconds": 508.16,
+    "end_seconds": 511.44,
+    "text": "whole separate conversation in and of"
+  },
+  {
+    "segment_id": "seg-00217",
+    "start_seconds": 509.599,
+    "end_seconds": 513.279,
+    "text": "itself. But did it understand the"
+  },
+  {
+    "segment_id": "seg-00218",
+    "start_seconds": 511.44,
+    "end_seconds": 515.599,
+    "text": "assignment? Yes, it did. Did it follow"
+  },
+  {
+    "segment_id": "seg-00219",
+    "start_seconds": 513.279,
+    "end_seconds": 517.839,
+    "text": "my directions? Yes, it did. Did it stick"
+  },
+  {
+    "segment_id": "seg-00220",
+    "start_seconds": 515.599,
+    "end_seconds": 521.12,
+    "text": "with the melody? Yes, it did. But does"
+  },
+  {
+    "segment_id": "seg-00221",
+    "start_seconds": 517.839,
+    "end_seconds": 523.2,
+    "text": "it sound like AI? Yes, it does. So, that"
+  },
+  {
+    "segment_id": "seg-00222",
+    "start_seconds": 521.12,
+    "end_seconds": 524.88,
+    "text": "is Sunno. But now, I have to be okay"
+  },
+  {
+    "segment_id": "seg-00223",
+    "start_seconds": 523.2,
+    "end_seconds": 526.64,
+    "text": "with the terms of service. I had to be"
+  },
+  {
+    "segment_id": "seg-00224",
+    "start_seconds": 524.88,
+    "end_seconds": 528.24,
+    "text": "all right knowing like, hey, I'm"
+  },
+  {
+    "segment_id": "seg-00225",
+    "start_seconds": 526.64,
+    "end_seconds": 530.08,
+    "text": "uploading this thing. It's training the"
+  },
+  {
+    "segment_id": "seg-00226",
+    "start_seconds": 528.24,
+    "end_seconds": 532.32,
+    "text": "model. Obviously, it's still mine. I"
+  },
+  {
+    "segment_id": "seg-00227",
+    "start_seconds": 530.08,
+    "end_seconds": 535.12,
+    "text": "still own it. I have it registered. I"
+  },
+  {
+    "segment_id": "seg-00228",
+    "start_seconds": 532.32,
+    "end_seconds": 537.519,
+    "text": "have it protected. All the things. But"
+  },
+  {
+    "segment_id": "seg-00229",
+    "start_seconds": 535.12,
+    "end_seconds": 539.36,
+    "text": "at the same time, I have to be okay with"
+  },
+  {
+    "segment_id": "seg-00230",
+    "start_seconds": 537.519,
+    "end_seconds": 542.24,
+    "text": "that. And so, for me personally, I'm"
+  },
+  {
+    "segment_id": "seg-00231",
+    "start_seconds": 539.36,
+    "end_seconds": 545.12,
+    "text": "mindful what I would upload to an app"
+  },
+  {
+    "segment_id": "seg-00232",
+    "start_seconds": 542.24,
+    "end_seconds": 547.92,
+    "text": "like because it's using it to train its"
+  },
+  {
+    "segment_id": "seg-00233",
+    "start_seconds": 545.12,
+    "end_seconds": 549.839,
+    "text": "model, which then means everybody's"
+  },
+  {
+    "segment_id": "seg-00234",
+    "start_seconds": 547.92,
+    "end_seconds": 551.36,
+    "text": "songs are somewhat derivative. Even if"
+  },
+  {
+    "segment_id": "seg-00235",
+    "start_seconds": 549.839,
+    "end_seconds": 553.2,
+    "text": "even though I'm putting the melody and"
+  },
+  {
+    "segment_id": "seg-00236",
+    "start_seconds": 551.36,
+    "end_seconds": 554.88,
+    "text": "the lyrics in and that's mine, the"
+  },
+  {
+    "segment_id": "seg-00237",
+    "start_seconds": 553.2,
+    "end_seconds": 556.88,
+    "text": "instrumentation, right? Like I said, it"
+  },
+  {
+    "segment_id": "seg-00238",
+    "start_seconds": 554.88,
+    "end_seconds": 559.88,
+    "text": "understood the assignment. It's"
+  },
+  {
+    "segment_id": "seg-00239",
+    "start_seconds": 556.88,
+    "end_seconds": 559.88,
+    "text": "derivative."
+  },
+  {
+    "segment_id": "seg-00240",
+    "start_seconds": 560.8,
+    "end_seconds": 566.0,
+    "text": "So, what I'm going to do is I am going"
+  },
+  {
+    "segment_id": "seg-00241",
+    "start_seconds": 562.72,
+    "end_seconds": 567.92,
+    "text": "to use the exact same prompt over here"
+  },
+  {
+    "segment_id": "seg-00242",
+    "start_seconds": 566.0,
+    "end_seconds": 570.8,
+    "text": "so we really have a clean test. And then"
+  },
+  {
+    "segment_id": "seg-00243",
+    "start_seconds": 567.92,
+    "end_seconds": 572.48,
+    "text": "I'm going to upload audio."
+  },
+  {
+    "segment_id": "seg-00244",
+    "start_seconds": 570.8,
+    "end_seconds": 574.16,
+    "text": "Okay. So, I went to try to do that and I"
+  },
+  {
+    "segment_id": "seg-00245",
+    "start_seconds": 572.48,
+    "end_seconds": 576.16,
+    "text": "had to pay. So, taking one for the team"
+  },
+  {
+    "segment_id": "seg-00246",
+    "start_seconds": 574.16,
+    "end_seconds": 577.76,
+    "text": "here, guys. By uploading this file, you"
+  },
+  {
+    "segment_id": "seg-00247",
+    "start_seconds": 576.16,
+    "end_seconds": 579.6,
+    "text": "attest you have the right to use and"
+  },
+  {
+    "segment_id": "seg-00248",
+    "start_seconds": 577.76,
+    "end_seconds": 581.76,
+    "text": "distribute this file. So that's"
+  },
+  {
+    "segment_id": "seg-00249",
+    "start_seconds": 579.6,
+    "end_seconds": 584.16,
+    "text": "important, right? And so here's what I"
+  },
+  {
+    "segment_id": "seg-00250",
+    "start_seconds": 581.76,
+    "end_seconds": 586.88,
+    "text": "am going to do is I am going to do a"
+  },
+  {
+    "segment_id": "seg-00251",
+    "start_seconds": 584.16,
+    "end_seconds": 589.12,
+    "text": "remix of this song. So I'm uploading."
+  },
+  {
+    "segment_id": "seg-00252",
+    "start_seconds": 586.88,
+    "end_seconds": 592.16,
+    "text": "It's processing. Okay. So it's only"
+  },
+  {
+    "segment_id": "seg-00253",
+    "start_seconds": 589.12,
+    "end_seconds": 594.72,
+    "text": "going to use a short section of this."
+  },
+  {
+    "segment_id": "seg-00254",
+    "start_seconds": 592.16,
+    "end_seconds": 597.519,
+    "text": "And it also is asking, do I want to put"
+  },
+  {
+    "segment_id": "seg-00255",
+    "start_seconds": 594.72,
+    "end_seconds": 599.279,
+    "text": "my lyrics in? So yes, I want to put my"
+  },
+  {
+    "segment_id": "seg-00256",
+    "start_seconds": 597.519,
+    "end_seconds": 602.0,
+    "text": "custom lyrics in. So I'm going to grab"
+  },
+  {
+    "segment_id": "seg-00257",
+    "start_seconds": 599.279,
+    "end_seconds": 605.279,
+    "text": "those because actually Sunno pulled them"
+  },
+  {
+    "segment_id": "seg-00258",
+    "start_seconds": 602.0,
+    "end_seconds": 607.279,
+    "text": "out for me. And so here are my lyrics."
+  },
+  {
+    "segment_id": "seg-00259",
+    "start_seconds": 605.279,
+    "end_seconds": 609.36,
+    "text": "All right. So it asked me to select a"
+  },
+  {
+    "segment_id": "seg-00260",
+    "start_seconds": 607.279,
+    "end_seconds": 611.519,
+    "text": "voice. And so I just picked one of their"
+  },
+  {
+    "segment_id": "seg-00261",
+    "start_seconds": 609.36,
+    "end_seconds": 613.36,
+    "text": "pop voices and I'm very interested to"
+  },
+  {
+    "segment_id": "seg-00262",
+    "start_seconds": 611.519,
+    "end_seconds": 614.8,
+    "text": "see what this does. Now, as we're"
+  },
+  {
+    "segment_id": "seg-00263",
+    "start_seconds": 613.36,
+    "end_seconds": 617.68,
+    "text": "waiting for this, I want to point out"
+  },
+  {
+    "segment_id": "seg-00264",
+    "start_seconds": 614.8,
+    "end_seconds": 620.399,
+    "text": "the terms of service here with UIO."
+  },
+  {
+    "segment_id": "seg-00265",
+    "start_seconds": 617.68,
+    "end_seconds": 623.2,
+    "text": "Okay, so one of the things with UIO is"
+  },
+  {
+    "segment_id": "seg-00266",
+    "start_seconds": 620.399,
+    "end_seconds": 625.6,
+    "text": "that it's very clear saying you have to"
+  },
+  {
+    "segment_id": "seg-00267",
+    "start_seconds": 623.2,
+    "end_seconds": 628.079,
+    "text": "make sure that what you're uploading"
+  },
+  {
+    "segment_id": "seg-00268",
+    "start_seconds": 625.6,
+    "end_seconds": 629.36,
+    "text": "that you own it. Okay, so you represent"
+  },
+  {
+    "segment_id": "seg-00269",
+    "start_seconds": 628.079,
+    "end_seconds": 632.079,
+    "text": "that you've obtained the rights, the"
+  },
+  {
+    "segment_id": "seg-00270",
+    "start_seconds": 629.36,
+    "end_seconds": 633.519,
+    "text": "licenses, you own it, right? So also"
+  },
+  {
+    "segment_id": "seg-00271",
+    "start_seconds": 632.079,
+    "end_seconds": 636.64,
+    "text": "UDIO is saying that it does not claim"
+  },
+  {
+    "segment_id": "seg-00272",
+    "start_seconds": 633.519,
+    "end_seconds": 640.597,
+    "text": "ownership in your content. Okay. So,"
+  },
+  {
+    "segment_id": "seg-00273",
+    "start_seconds": 636.64,
+    "end_seconds": 642.617,
+    "text": "let's see what we've got here. [music]"
+  },
+  {
+    "segment_id": "seg-00274",
+    "start_seconds": 640.597,
+    "end_seconds": 642.617,
+    "text": "[singing]"
+  },
+  {
+    "segment_id": "seg-00275",
+    "start_seconds": 644.527,
+    "end_seconds": 646.547,
+    "text": "[music]"
+  },
+  {
+    "segment_id": "seg-00276",
+    "start_seconds": 646.88,
+    "end_seconds": 651.519,
+    "text": ">> There's victory in the name"
+  },
+  {
+    "segment_id": "seg-00277",
+    "start_seconds": 650.422,
+    "end_seconds": 653.839,
+    "text": "[music]"
+  },
+  {
+    "segment_id": "seg-00278",
+    "start_seconds": 651.519,
+    "end_seconds": 656.079,
+    "text": "Jesus."
+  },
+  {
+    "segment_id": "seg-00279",
+    "start_seconds": 653.839,
+    "end_seconds": 658.48,
+    "text": "Power in the name [singing] of [music]"
+  },
+  {
+    "segment_id": "seg-00280",
+    "start_seconds": 656.079,
+    "end_seconds": 662.959,
+    "text": "Jesus."
+  },
+  {
+    "segment_id": "seg-00281",
+    "start_seconds": 658.48,
+    "end_seconds": 665.68,
+    "text": "Victory in the name of Jesus."
+  },
+  {
+    "segment_id": "seg-00282",
+    "start_seconds": 662.959,
+    "end_seconds": 667.76,
+    "text": ">> Okay. So basically what it did is just"
+  },
+  {
+    "segment_id": "seg-00283",
+    "start_seconds": 665.68,
+    "end_seconds": 669.76,
+    "text": "right out of the gate what I gave it the"
+  },
+  {
+    "segment_id": "seg-00284",
+    "start_seconds": 667.76,
+    "end_seconds": 672.88,
+    "text": "exact same thing that I gave Suno, it"
+  },
+  {
+    "segment_id": "seg-00285",
+    "start_seconds": 669.76,
+    "end_seconds": 674.72,
+    "text": "just used my voice memo and it put a"
+  },
+  {
+    "segment_id": "seg-00286",
+    "start_seconds": 672.88,
+    "end_seconds": 677.6,
+    "text": "different voice over it. So what we"
+  },
+  {
+    "segment_id": "seg-00287",
+    "start_seconds": 674.72,
+    "end_seconds": 680.72,
+    "text": "learned with Ude is that when you use"
+  },
+  {
+    "segment_id": "seg-00288",
+    "start_seconds": 677.6,
+    "end_seconds": 683.76,
+    "text": "that model for just a remix, it just"
+  },
+  {
+    "segment_id": "seg-00289",
+    "start_seconds": 680.72,
+    "end_seconds": 685.68,
+    "text": "takes your your voice memo your song and"
+  },
+  {
+    "segment_id": "seg-00290",
+    "start_seconds": 683.76,
+    "end_seconds": 687.04,
+    "text": "basically does exactly that remix. So"
+  },
+  {
+    "segment_id": "seg-00291",
+    "start_seconds": 685.68,
+    "end_seconds": 688.959,
+    "text": "it's a little bit of different language"
+  },
+  {
+    "segment_id": "seg-00292",
+    "start_seconds": 687.04,
+    "end_seconds": 691.6,
+    "text": "than that word means inside of Sunno."
+  },
+  {
+    "segment_id": "seg-00293",
+    "start_seconds": 688.959,
+    "end_seconds": 693.839,
+    "text": "However, it's interesting to note that I"
+  },
+  {
+    "segment_id": "seg-00294",
+    "start_seconds": 691.6,
+    "end_seconds": 697.519,
+    "text": "know there are more capabilities within"
+  },
+  {
+    "segment_id": "seg-00295",
+    "start_seconds": 693.839,
+    "end_seconds": 699.44,
+    "text": "Udio, but it's also a very different"
+  },
+  {
+    "segment_id": "seg-00296",
+    "start_seconds": 697.519,
+    "end_seconds": 702.64,
+    "text": "model. So, maybe you've got your"
+  },
+  {
+    "segment_id": "seg-00297",
+    "start_seconds": 699.44,
+    "end_seconds": 704.8,
+    "text": "finished song and you are going to use"
+  },
+  {
+    "segment_id": "seg-00298",
+    "start_seconds": 702.64,
+    "end_seconds": 707.519,
+    "text": "something like UIO to try to master it,"
+  },
+  {
+    "segment_id": "seg-00299",
+    "start_seconds": 704.8,
+    "end_seconds": 710.399,
+    "text": "right? Or maybe you are just going to"
+  },
+  {
+    "segment_id": "seg-00300",
+    "start_seconds": 707.519,
+    "end_seconds": 713.6,
+    "text": "upload a bass part or a piano part and"
+  },
+  {
+    "segment_id": "seg-00301",
+    "start_seconds": 710.399,
+    "end_seconds": 716.079,
+    "text": "it's less finished product than it is"
+  },
+  {
+    "segment_id": "seg-00302",
+    "start_seconds": 713.6,
+    "end_seconds": 718.079,
+    "text": "one piece of the process. So Sunno seems"
+  },
+  {
+    "segment_id": "seg-00303",
+    "start_seconds": 716.079,
+    "end_seconds": 720.16,
+    "text": "to give you a finished product and UDIO"
+  },
+  {
+    "segment_id": "seg-00304",
+    "start_seconds": 718.079,
+    "end_seconds": 721.44,
+    "text": "is like one piece of the process. Now I"
+  },
+  {
+    "segment_id": "seg-00305",
+    "start_seconds": 720.16,
+    "end_seconds": 723.2,
+    "text": "understand for those of you who are"
+  },
+  {
+    "segment_id": "seg-00306",
+    "start_seconds": 721.44,
+    "end_seconds": 725.12,
+    "text": "power users inside of UDIO that there's"
+  },
+  {
+    "segment_id": "seg-00307",
+    "start_seconds": 723.2,
+    "end_seconds": 726.88,
+    "text": "a lot more options, but I just wanted"
+  },
+  {
+    "segment_id": "seg-00308",
+    "start_seconds": 725.12,
+    "end_seconds": 729.36,
+    "text": "face value. Get in there real quick."
+  },
+  {
+    "segment_id": "seg-00309",
+    "start_seconds": 726.88,
+    "end_seconds": 731.2,
+    "text": "Let's see what happens and talk about"
+  },
+  {
+    "segment_id": "seg-00310",
+    "start_seconds": 729.36,
+    "end_seconds": 734.72,
+    "text": "how we could use it. Now the other thing"
+  },
+  {
+    "segment_id": "seg-00311",
+    "start_seconds": 731.2,
+    "end_seconds": 738.16,
+    "text": "to note with UIO is that while it is"
+  },
+  {
+    "segment_id": "seg-00312",
+    "start_seconds": 734.72,
+    "end_seconds": 740.0,
+    "text": "trained on licensed data, you also are"
+  },
+  {
+    "segment_id": "seg-00313",
+    "start_seconds": 738.16,
+    "end_seconds": 741.68,
+    "text": "uploading your music to let it train its"
+  },
+  {
+    "segment_id": "seg-00314",
+    "start_seconds": 740.0,
+    "end_seconds": 743.36,
+    "text": "model. And so it's the same kind of"
+  },
+  {
+    "segment_id": "seg-00315",
+    "start_seconds": 741.68,
+    "end_seconds": 746.32,
+    "text": "conversation that we just had about"
+  },
+  {
+    "segment_id": "seg-00316",
+    "start_seconds": 743.36,
+    "end_seconds": 746.32,
+    "text": "Sunno."
+  },
+  {
+    "segment_id": "seg-00317",
+    "start_seconds": 747.04,
+    "end_seconds": 751.519,
+    "text": "Now, I want us to sit here with this for"
+  },
+  {
+    "segment_id": "seg-00318",
+    "start_seconds": 748.959,
+    "end_seconds": 753.76,
+    "text": "a second because we're talking about"
+  },
+  {
+    "segment_id": "seg-00319",
+    "start_seconds": 751.519,
+    "end_seconds": 756.24,
+    "text": "similar tools that have very different"
+  },
+  {
+    "segment_id": "seg-00320",
+    "start_seconds": 753.76,
+    "end_seconds": 759.2,
+    "text": "purposes. And when it all comes down to"
+  },
+  {
+    "segment_id": "seg-00321",
+    "start_seconds": 756.24,
+    "end_seconds": 761.839,
+    "text": "it, the reality is that a lot of this"
+  },
+  {
+    "segment_id": "seg-00322",
+    "start_seconds": 759.2,
+    "end_seconds": 764.32,
+    "text": "takes a lot of work and a lot of skill."
+  },
+  {
+    "segment_id": "seg-00323",
+    "start_seconds": 761.839,
+    "end_seconds": 766.399,
+    "text": "And there are skills that you need to"
+  },
+  {
+    "segment_id": "seg-00324",
+    "start_seconds": 764.32,
+    "end_seconds": 769.44,
+    "text": "build as a producer, as an artist, as a"
+  },
+  {
+    "segment_id": "seg-00325",
+    "start_seconds": 766.399,
+    "end_seconds": 771.519,
+    "text": "musician, not only inside of a DAW, not"
+  },
+  {
+    "segment_id": "seg-00326",
+    "start_seconds": 769.44,
+    "end_seconds": 774.079,
+    "text": "only as a musician within your craft,"
+  },
+  {
+    "segment_id": "seg-00327",
+    "start_seconds": 771.519,
+    "end_seconds": 775.92,
+    "text": "but also on the business side of it. And"
+  },
+  {
+    "segment_id": "seg-00328",
+    "start_seconds": 774.079,
+    "end_seconds": 778.48,
+    "text": "that's why Produce Like a Boss exists."
+  },
+  {
+    "segment_id": "seg-00329",
+    "start_seconds": 775.92,
+    "end_seconds": 780.24,
+    "text": "We exist to help you build a life in"
+  },
+  {
+    "segment_id": "seg-00330",
+    "start_seconds": 778.48,
+    "end_seconds": 782.48,
+    "text": "music that you love. So music never"
+  },
+  {
+    "segment_id": "seg-00331",
+    "start_seconds": 780.24,
+    "end_seconds": 784.8,
+    "text": "becomes something that you used to do."
+  },
+  {
+    "segment_id": "seg-00332",
+    "start_seconds": 782.48,
+    "end_seconds": 787.839,
+    "text": "And so whether you are using a fully"
+  },
+  {
+    "segment_id": "seg-00333",
+    "start_seconds": 784.8,
+    "end_seconds": 790.639,
+    "text": "generative AI app or you are choosing to"
+  },
+  {
+    "segment_id": "seg-00334",
+    "start_seconds": 787.839,
+    "end_seconds": 793.519,
+    "text": "use assistive AI only, the issue is that"
+  },
+  {
+    "segment_id": "seg-00335",
+    "start_seconds": 790.639,
+    "end_seconds": 796.16,
+    "text": "we can get lost and bogged down by all"
+  },
+  {
+    "segment_id": "seg-00336",
+    "start_seconds": 793.519,
+    "end_seconds": 797.519,
+    "text": "of this information and then we just get"
+  },
+  {
+    "segment_id": "seg-00337",
+    "start_seconds": 796.16,
+    "end_seconds": 800.639,
+    "text": "overwhelmed and we want to throw in the"
+  },
+  {
+    "segment_id": "seg-00338",
+    "start_seconds": 797.519,
+    "end_seconds": 802.8,
+    "text": "towel. And that's because there are so"
+  },
+  {
+    "segment_id": "seg-00339",
+    "start_seconds": 800.639,
+    "end_seconds": 805.2,
+    "text": "many jobs that you have to do by"
+  },
+  {
+    "segment_id": "seg-00340",
+    "start_seconds": 802.8,
+    "end_seconds": 807.12,
+    "text": "yourself as an artist, as a musician, as"
+  },
+  {
+    "segment_id": "seg-00341",
+    "start_seconds": 805.2,
+    "end_seconds": 809.12,
+    "text": "a producer, that other people, if"
+  },
+  {
+    "segment_id": "seg-00342",
+    "start_seconds": 807.12,
+    "end_seconds": 811.2,
+    "text": "they're signed with a label, they get"
+  },
+  {
+    "segment_id": "seg-00343",
+    "start_seconds": 809.12,
+    "end_seconds": 813.279,
+    "text": "those done for them. You still need the"
+  },
+  {
+    "segment_id": "seg-00344",
+    "start_seconds": 811.2,
+    "end_seconds": 816.32,
+    "text": "jobs done, but you just don't have"
+  },
+  {
+    "segment_id": "seg-00345",
+    "start_seconds": 813.279,
+    "end_seconds": 818.0,
+    "text": "anyone to do them for you. So, I created"
+  },
+  {
+    "segment_id": "seg-00346",
+    "start_seconds": 816.32,
+    "end_seconds": 820.88,
+    "text": "Paid toMake Music Week, which is going"
+  },
+  {
+    "segment_id": "seg-00347",
+    "start_seconds": 818.0,
+    "end_seconds": 823.04,
+    "text": "to help you build those jobs for your"
+  },
+  {
+    "segment_id": "seg-00348",
+    "start_seconds": 820.88,
+    "end_seconds": 824.959,
+    "text": "business. Why does it matter? because"
+  },
+  {
+    "segment_id": "seg-00349",
+    "start_seconds": 823.04,
+    "end_seconds": 828.079,
+    "text": "you need all four of them working in"
+  },
+  {
+    "segment_id": "seg-00350",
+    "start_seconds": 824.959,
+    "end_seconds": 829.6,
+    "text": "tandem so that you can continue to do"
+  },
+  {
+    "segment_id": "seg-00351",
+    "start_seconds": 828.079,
+    "end_seconds": 832.399,
+    "text": "the thing you love to do and that's make"
+  },
+  {
+    "segment_id": "seg-00352",
+    "start_seconds": 829.6,
+    "end_seconds": 834.24,
+    "text": "music. We call it MAPS at Produce Like a"
+  },
+  {
+    "segment_id": "seg-00353",
+    "start_seconds": 832.399,
+    "end_seconds": 836.16,
+    "text": "Boss. It stands for music, admin,"
+  },
+  {
+    "segment_id": "seg-00354",
+    "start_seconds": 834.24,
+    "end_seconds": 837.68,
+    "text": "promotion, and systems. And what we're"
+  },
+  {
+    "segment_id": "seg-00355",
+    "start_seconds": 836.16,
+    "end_seconds": 840.079,
+    "text": "going to do at paid to make music week"
+  },
+  {
+    "segment_id": "seg-00356",
+    "start_seconds": 837.68,
+    "end_seconds": 842.079,
+    "text": "is we are going to take one day on each"
+  },
+  {
+    "segment_id": "seg-00357",
+    "start_seconds": 840.079,
+    "end_seconds": 844.24,
+    "text": "of those jobs and we're going to dive"
+  },
+  {
+    "segment_id": "seg-00358",
+    "start_seconds": 842.079,
+    "end_seconds": 847.36,
+    "text": "deeper and put a system around it so"
+  },
+  {
+    "segment_id": "seg-00359",
+    "start_seconds": 844.24,
+    "end_seconds": 849.6,
+    "text": "that you know for music when music is"
+  },
+  {
+    "segment_id": "seg-00360",
+    "start_seconds": 847.36,
+    "end_seconds": 851.519,
+    "text": "actually done. For admin, you know what"
+  },
+  {
+    "segment_id": "seg-00361",
+    "start_seconds": 849.6,
+    "end_seconds": 853.199,
+    "text": "needs to be registered, when, and how."
+  },
+  {
+    "segment_id": "seg-00362",
+    "start_seconds": 851.519,
+    "end_seconds": 854.639,
+    "text": "Just like I did at the beginning, I know"
+  },
+  {
+    "segment_id": "seg-00363",
+    "start_seconds": 853.199,
+    "end_seconds": 856.48,
+    "text": "what needs to be registered. I know"
+  },
+  {
+    "segment_id": "seg-00364",
+    "start_seconds": 854.639,
+    "end_seconds": 860.16,
+    "text": "when, I know where, and I know how. And"
+  },
+  {
+    "segment_id": "seg-00365",
+    "start_seconds": 856.48,
+    "end_seconds": 862.32,
+    "text": "it's fast. Then we go to the promotion."
+  },
+  {
+    "segment_id": "seg-00366",
+    "start_seconds": 860.16,
+    "end_seconds": 864.32,
+    "text": "The promotion is, well, where do I even"
+  },
+  {
+    "segment_id": "seg-00367",
+    "start_seconds": 862.32,
+    "end_seconds": 866.32,
+    "text": "go? What do I even promote? How do I do"
+  },
+  {
+    "segment_id": "seg-00368",
+    "start_seconds": 864.32,
+    "end_seconds": 868.56,
+    "text": "it? We build a system around it. And"
+  },
+  {
+    "segment_id": "seg-00369",
+    "start_seconds": 866.32,
+    "end_seconds": 870.72,
+    "text": "then for systems, it's all of those"
+  },
+  {
+    "segment_id": "seg-00370",
+    "start_seconds": 868.56,
+    "end_seconds": 872.56,
+    "text": "backend pieces that keep the business"
+  },
+  {
+    "segment_id": "seg-00371",
+    "start_seconds": 870.72,
+    "end_seconds": 875.44,
+    "text": "moving when life gets really busy and"
+  },
+  {
+    "segment_id": "seg-00372",
+    "start_seconds": 872.56,
+    "end_seconds": 877.36,
+    "text": "crazy. And then on Friday of that week,"
+  },
+  {
+    "segment_id": "seg-00373",
+    "start_seconds": 875.44,
+    "end_seconds": 879.519,
+    "text": "we are going to build your 12 month"
+  },
+  {
+    "segment_id": "seg-00374",
+    "start_seconds": 877.36,
+    "end_seconds": 882.72,
+    "text": "income map so you walk away with your"
+  },
+  {
+    "segment_id": "seg-00375",
+    "start_seconds": 879.519,
+    "end_seconds": 885.12,
+    "text": "clear next steps for the next day and"
+  },
+  {
+    "segment_id": "seg-00376",
+    "start_seconds": 882.72,
+    "end_seconds": 887.36,
+    "text": "the entire next 12 months. Paid to make"
+  },
+  {
+    "segment_id": "seg-00377",
+    "start_seconds": 885.12,
+    "end_seconds": 889.279,
+    "text": "music week is one hour a day live with"
+  },
+  {
+    "segment_id": "seg-00378",
+    "start_seconds": 887.36,
+    "end_seconds": 891.519,
+    "text": "me and you're going to walk away feeling"
+  },
+  {
+    "segment_id": "seg-00379",
+    "start_seconds": 889.279,
+    "end_seconds": 893.68,
+    "text": "confident and having clarity around your"
+  },
+  {
+    "segment_id": "seg-00380",
+    "start_seconds": 891.519,
+    "end_seconds": 895.12,
+    "text": "next steps as a musician. If you're"
+  },
+  {
+    "segment_id": "seg-00381",
+    "start_seconds": 893.68,
+    "end_seconds": 896.959,
+    "text": "already making money with your music,"
+  },
+  {
+    "segment_id": "seg-00382",
+    "start_seconds": 895.12,
+    "end_seconds": 899.12,
+    "text": "but you want to build something that"
+  },
+  {
+    "segment_id": "seg-00383",
+    "start_seconds": 896.959,
+    "end_seconds": 900.8,
+    "text": "doesn't drive you crazy, then this is"
+  },
+  {
+    "segment_id": "seg-00384",
+    "start_seconds": 899.12,
+    "end_seconds": 902.32,
+    "text": "for you. The link, the information, the"
+  },
+  {
+    "segment_id": "seg-00385",
+    "start_seconds": 900.8,
+    "end_seconds": 903.839,
+    "text": "tickets are all in the description. Go"
+  },
+  {
+    "segment_id": "seg-00386",
+    "start_seconds": 902.32,
+    "end_seconds": 905.68,
+    "text": "grab it right after this cuz we are"
+  },
+  {
+    "segment_id": "seg-00387",
+    "start_seconds": 903.839,
+    "end_seconds": 908.68,
+    "text": "headed to the next tool which is 11"
+  },
+  {
+    "segment_id": "seg-00388",
+    "start_seconds": 905.68,
+    "end_seconds": 908.68,
+    "text": "Labs."
+  },
+  {
+    "segment_id": "seg-00389",
+    "start_seconds": 909.12,
+    "end_seconds": 912.639,
+    "text": "So 11 Labs here. I did have to subscribe"
+  },
+  {
+    "segment_id": "seg-00390",
+    "start_seconds": 911.199,
+    "end_seconds": 915.04,
+    "text": "to be able to do this, but I'm going to"
+  },
+  {
+    "segment_id": "seg-00391",
+    "start_seconds": 912.639,
+    "end_seconds": 918.32,
+    "text": "upload this voice memo to be able to"
+  },
+  {
+    "segment_id": "seg-00392",
+    "start_seconds": 915.04,
+    "end_seconds": 921.199,
+    "text": "edit it. Okay. Acknowledging I own it."
+  },
+  {
+    "segment_id": "seg-00393",
+    "start_seconds": 918.32,
+    "end_seconds": 923.04,
+    "text": "Yes. Okay. Excellent. Now, something"
+  },
+  {
+    "segment_id": "seg-00394",
+    "start_seconds": 921.199,
+    "end_seconds": 924.079,
+    "text": "that's interesting about 11 Labs as I've"
+  },
+  {
+    "segment_id": "seg-00395",
+    "start_seconds": 923.04,
+    "end_seconds": 927.36,
+    "text": "been digging through the terms and"
+  },
+  {
+    "segment_id": "seg-00396",
+    "start_seconds": 924.079,
+    "end_seconds": 930.72,
+    "text": "conditions is that they actually allow"
+  },
+  {
+    "segment_id": "seg-00397",
+    "start_seconds": 927.36,
+    "end_seconds": 932.88,
+    "text": "you to opt out. So, you can opt out."
+  },
+  {
+    "segment_id": "seg-00398",
+    "start_seconds": 930.72,
+    "end_seconds": 935.6,
+    "text": "However, they are saying like we process"
+  },
+  {
+    "segment_id": "seg-00399",
+    "start_seconds": 932.88,
+    "end_seconds": 937.12,
+    "text": "your input, right? Like and any other"
+  },
+  {
+    "segment_id": "seg-00400",
+    "start_seconds": 935.6,
+    "end_seconds": 940.399,
+    "text": "information you provide in connection"
+  },
+  {
+    "segment_id": "seg-00401",
+    "start_seconds": 937.12,
+    "end_seconds": 941.92,
+    "text": "with your use of the services. However,"
+  },
+  {
+    "segment_id": "seg-00402",
+    "start_seconds": 940.399,
+    "end_seconds": 943.68,
+    "text": "there is an option in there where you"
+  },
+  {
+    "segment_id": "seg-00403",
+    "start_seconds": 941.92,
+    "end_seconds": 945.519,
+    "text": "can opt out to have it not train the"
+  },
+  {
+    "segment_id": "seg-00404",
+    "start_seconds": 943.68,
+    "end_seconds": 947.519,
+    "text": "model, which is really fascinating. And"
+  },
+  {
+    "segment_id": "seg-00405",
+    "start_seconds": 945.519,
+    "end_seconds": 948.88,
+    "text": "so, we've got mighty power of Jesus"
+  },
+  {
+    "segment_id": "seg-00406",
+    "start_seconds": 947.519,
+    "end_seconds": 951.199,
+    "text": "name. We've got it uploaded here. And"
+  },
+  {
+    "segment_id": "seg-00407",
+    "start_seconds": 948.88,
+    "end_seconds": 953.279,
+    "text": "what I'm going to do is to keep it a"
+  },
+  {
+    "segment_id": "seg-00408",
+    "start_seconds": 951.199,
+    "end_seconds": 956.88,
+    "text": "clean test is I am going to upload the"
+  },
+  {
+    "segment_id": "seg-00409",
+    "start_seconds": 953.279,
+    "end_seconds": 958.959,
+    "text": "same prompt here as I did there. So,"
+  },
+  {
+    "segment_id": "seg-00410",
+    "start_seconds": 956.88,
+    "end_seconds": 962.959,
+    "text": "we're going to go back. Here's describe"
+  },
+  {
+    "segment_id": "seg-00411",
+    "start_seconds": 958.959,
+    "end_seconds": 965.199,
+    "text": "the song. And here are my custom lyrics."
+  },
+  {
+    "segment_id": "seg-00412",
+    "start_seconds": 962.959,
+    "end_seconds": 967.12,
+    "text": "All right. And I think it was about two"
+  },
+  {
+    "segment_id": "seg-00413",
+    "start_seconds": 965.199,
+    "end_seconds": 968.88,
+    "text": "minutes before. So we'll do this and"
+  },
+  {
+    "segment_id": "seg-00414",
+    "start_seconds": 967.12,
+    "end_seconds": 971.376,
+    "text": "then we're going to hit go and see what"
+  },
+  {
+    "segment_id": "seg-00415",
+    "start_seconds": 968.88,
+    "end_seconds": 973.36,
+    "text": "happens."
+  },
+  {
+    "segment_id": "seg-00416",
+    "start_seconds": 971.376,
+    "end_seconds": 977.36,
+    "text": "[music]"
+  },
+  {
+    "segment_id": "seg-00417",
+    "start_seconds": 973.36,
+    "end_seconds": 979.44,
+    "text": "Jesus power."
+  },
+  {
+    "segment_id": "seg-00418",
+    "start_seconds": 977.36,
+    "end_seconds": 983.72,
+    "text": "There's victory [music]"
+  },
+  {
+    "segment_id": "seg-00419",
+    "start_seconds": 979.44,
+    "end_seconds": 983.72,
+    "text": "in the name of [singing] Jesus."
+  },
+  {
+    "segment_id": "seg-00420",
+    "start_seconds": 984.24,
+    "end_seconds": 988.04,
+    "text": ">> Let's hear the other one."
+  },
+  {
+    "segment_id": "seg-00421",
+    "start_seconds": 989.716,
+    "end_seconds": 991.736,
+    "text": ">> [music]"
+  },
+  {
+    "segment_id": "seg-00422",
+    "start_seconds": 994.88,
+    "end_seconds": 998.286,
+    "text": ">> uses. [music and singing]"
+  },
+  {
+    "segment_id": "seg-00423",
+    "start_seconds": 999.279,
+    "end_seconds": 1004.639,
+    "text": ">> Okay. So, within 11 Labs, what did we"
+  },
+  {
+    "segment_id": "seg-00424",
+    "start_seconds": 1002.16,
+    "end_seconds": 1006.56,
+    "text": "see? It did not follow my prompt. It"
+  },
+  {
+    "segment_id": "seg-00425",
+    "start_seconds": 1004.639,
+    "end_seconds": 1008.72,
+    "text": "changed the melody. It changed the"
+  },
+  {
+    "segment_id": "seg-00426",
+    "start_seconds": 1006.56,
+    "end_seconds": 1010.72,
+    "text": "tempo. It changed the key. It changed"
+  },
+  {
+    "segment_id": "seg-00427",
+    "start_seconds": 1008.72,
+    "end_seconds": 1013.04,
+    "text": "the instrumentation."
+  },
+  {
+    "segment_id": "seg-00428",
+    "start_seconds": 1010.72,
+    "end_seconds": 1015.68,
+    "text": "However, where could you use this? Could"
+  },
+  {
+    "segment_id": "seg-00429",
+    "start_seconds": 1013.04,
+    "end_seconds": 1017.279,
+    "text": "you use this as an ideiation tool? I"
+  },
+  {
+    "segment_id": "seg-00430",
+    "start_seconds": 1015.68,
+    "end_seconds": 1018.959,
+    "text": "mean, I think so. And I think that's"
+  },
+  {
+    "segment_id": "seg-00431",
+    "start_seconds": 1017.279,
+    "end_seconds": 1021.04,
+    "text": "what a lot of producers are doing."
+  },
+  {
+    "segment_id": "seg-00432",
+    "start_seconds": 1018.959,
+    "end_seconds": 1023.199,
+    "text": "They're using it for ideiation. I talk"
+  },
+  {
+    "segment_id": "seg-00433",
+    "start_seconds": 1021.04,
+    "end_seconds": 1024.88,
+    "text": "with so many producers inside of the"
+  },
+  {
+    "segment_id": "seg-00434",
+    "start_seconds": 1023.199,
+    "end_seconds": 1027.12,
+    "text": "industry who are working with label"
+  },
+  {
+    "segment_id": "seg-00435",
+    "start_seconds": 1024.88,
+    "end_seconds": 1029.919,
+    "text": "artists who are flying all over the"
+  },
+  {
+    "segment_id": "seg-00436",
+    "start_seconds": 1027.12,
+    "end_seconds": 1031.439,
+    "text": "country doing rights and albums and all"
+  },
+  {
+    "segment_id": "seg-00437",
+    "start_seconds": 1029.919,
+    "end_seconds": 1032.88,
+    "text": "the things with different people and"
+  },
+  {
+    "segment_id": "seg-00438",
+    "start_seconds": 1031.439,
+    "end_seconds": 1034.799,
+    "text": "they're like, \"Yeah, I mean, I'm not"
+  },
+  {
+    "segment_id": "seg-00439",
+    "start_seconds": 1032.88,
+    "end_seconds": 1037.76,
+    "text": "going to use a pseudo output for the"
+  },
+  {
+    "segment_id": "seg-00440",
+    "start_seconds": 1034.799,
+    "end_seconds": 1040.0,
+    "text": "final product. However, if everyone's"
+  },
+  {
+    "segment_id": "seg-00441",
+    "start_seconds": 1037.76,
+    "end_seconds": 1042.079,
+    "text": "okay with it, we may use a fully"
+  },
+  {
+    "segment_id": "seg-00442",
+    "start_seconds": 1040.0,
+    "end_seconds": 1043.52,
+    "text": "generative AI app to get ideas.\" And"
+  },
+  {
+    "segment_id": "seg-00443",
+    "start_seconds": 1042.079,
+    "end_seconds": 1045.52,
+    "text": "that's where this could be really"
+  },
+  {
+    "segment_id": "seg-00444",
+    "start_seconds": 1043.52,
+    "end_seconds": 1048.4,
+    "text": "helpful. Now, can you edit the song?"
+  },
+  {
+    "segment_id": "seg-00445",
+    "start_seconds": 1045.52,
+    "end_seconds": 1050.4,
+    "text": "I've not done this here inside before,"
+  },
+  {
+    "segment_id": "seg-00446",
+    "start_seconds": 1048.4,
+    "end_seconds": 1052.0,
+    "text": "but here we go. So, you could go"
+  },
+  {
+    "segment_id": "seg-00447",
+    "start_seconds": 1050.4,
+    "end_seconds": 1053.679,
+    "text": "through, you could do some fine-tuning"
+  },
+  {
+    "segment_id": "seg-00448",
+    "start_seconds": 1052.0,
+    "end_seconds": 1055.52,
+    "text": "edits, which actually that's kind of"
+  },
+  {
+    "segment_id": "seg-00449",
+    "start_seconds": 1053.679,
+    "end_seconds": 1058.08,
+    "text": "cool. If it actually worked, that's"
+  },
+  {
+    "segment_id": "seg-00450",
+    "start_seconds": 1055.52,
+    "end_seconds": 1060.32,
+    "text": "really great. So, you could do that."
+  },
+  {
+    "segment_id": "seg-00451",
+    "start_seconds": 1058.08,
+    "end_seconds": 1062.08,
+    "text": "Now, what is different about 11 Labs?"
+  },
+  {
+    "segment_id": "seg-00452",
+    "start_seconds": 1060.32,
+    "end_seconds": 1064.799,
+    "text": "Well, 11 Labs have from the beginning"
+  },
+  {
+    "segment_id": "seg-00453",
+    "start_seconds": 1062.08,
+    "end_seconds": 1066.4,
+    "text": "talked about how it's not using your"
+  },
+  {
+    "segment_id": "seg-00454",
+    "start_seconds": 1064.799,
+    "end_seconds": 1068.16,
+    "text": "data to train its model. If you want to"
+  },
+  {
+    "segment_id": "seg-00455",
+    "start_seconds": 1066.4,
+    "end_seconds": 1070.72,
+    "text": "turn that off, you can. It's also it was"
+  },
+  {
+    "segment_id": "seg-00456",
+    "start_seconds": 1068.16,
+    "end_seconds": 1073.52,
+    "text": "very clear saying, \"Hey, we are trained"
+  },
+  {
+    "segment_id": "seg-00457",
+    "start_seconds": 1070.72,
+    "end_seconds": 1075.679,
+    "text": "on licensed data.\" And so, that is"
+  },
+  {
+    "segment_id": "seg-00458",
+    "start_seconds": 1073.52,
+    "end_seconds": 1077.36,
+    "text": "number three. Now, I want to go to"
+  },
+  {
+    "segment_id": "seg-00459",
+    "start_seconds": 1075.679,
+    "end_seconds": 1079.28,
+    "text": "number four. And you're probably going"
+  },
+  {
+    "segment_id": "seg-00460",
+    "start_seconds": 1077.36,
+    "end_seconds": 1081.6,
+    "text": "to say, \"What in the world are you"
+  },
+  {
+    "segment_id": "seg-00461",
+    "start_seconds": 1079.28,
+    "end_seconds": 1083.76,
+    "text": "thinking here?\" But stick with me"
+  },
+  {
+    "segment_id": "seg-00462",
+    "start_seconds": 1081.6,
+    "end_seconds": 1085.679,
+    "text": "because I think there's a hidden gem"
+  },
+  {
+    "segment_id": "seg-00463",
+    "start_seconds": 1083.76,
+    "end_seconds": 1088.679,
+    "text": "inside of here that people might be"
+  },
+  {
+    "segment_id": "seg-00464",
+    "start_seconds": 1085.679,
+    "end_seconds": 1088.679,
+    "text": "missing."
+  },
+  {
+    "segment_id": "seg-00465",
+    "start_seconds": 1089.36,
+    "end_seconds": 1094.0,
+    "text": "So, if you hop inside of Chat GPT, and I"
+  },
+  {
+    "segment_id": "seg-00466",
+    "start_seconds": 1092.16,
+    "end_seconds": 1096.16,
+    "text": "know what you're thinking. What are you"
+  },
+  {
+    "segment_id": "seg-00467",
+    "start_seconds": 1094.0,
+    "end_seconds": 1099.039,
+    "text": "talking about? But this is really"
+  },
+  {
+    "segment_id": "seg-00468",
+    "start_seconds": 1096.16,
+    "end_seconds": 1100.88,
+    "text": "interesting. I said to it, I said, \"I'm"
+  },
+  {
+    "segment_id": "seg-00469",
+    "start_seconds": 1099.039,
+    "end_seconds": 1102.88,
+    "text": "going to upload a voice memo. What can"
+  },
+  {
+    "segment_id": "seg-00470",
+    "start_seconds": 1100.88,
+    "end_seconds": 1104.16,
+    "text": "you do? Can you edit it?\" And it says,"
+  },
+  {
+    "segment_id": "seg-00471",
+    "start_seconds": 1102.88,
+    "end_seconds": 1105.919,
+    "text": "\"Yeah, I can do that.\" that. And I said,"
+  },
+  {
+    "segment_id": "seg-00472",
+    "start_seconds": 1104.16,
+    "end_seconds": 1107.919,
+    "text": "\"Really? What do you mean? It's going to"
+  },
+  {
+    "segment_id": "seg-00473",
+    "start_seconds": 1105.919,
+    "end_seconds": 1109.52,
+    "text": "give me text, the key, the BPM, the time"
+  },
+  {
+    "segment_id": "seg-00474",
+    "start_seconds": 1107.919,
+    "end_seconds": 1112.08,
+    "text": "signature, the chords, the melody, the"
+  },
+  {
+    "segment_id": "seg-00475",
+    "start_seconds": 1109.52,
+    "end_seconds": 1114.4,
+    "text": "phrasing.\" Well, all of a sudden, this"
+  },
+  {
+    "segment_id": "seg-00476",
+    "start_seconds": 1112.08,
+    "end_seconds": 1116.559,
+    "text": "could work as an ideiation tool, but"
+  },
+  {
+    "segment_id": "seg-00477",
+    "start_seconds": 1114.4,
+    "end_seconds": 1118.16,
+    "text": "also to give you some pre-production."
+  },
+  {
+    "segment_id": "seg-00478",
+    "start_seconds": 1116.559,
+    "end_seconds": 1119.6,
+    "text": "Have you ever opened up your DAW and"
+  },
+  {
+    "segment_id": "seg-00479",
+    "start_seconds": 1118.16,
+    "end_seconds": 1121.679,
+    "text": "felt like, \"Oh my goodness, I don't even"
+  },
+  {
+    "segment_id": "seg-00480",
+    "start_seconds": 1119.6,
+    "end_seconds": 1123.76,
+    "text": "know where to start.\" Well, could you"
+  },
+  {
+    "segment_id": "seg-00481",
+    "start_seconds": 1121.679,
+    "end_seconds": 1125.12,
+    "text": "use this as a pre-production tool? Let's"
+  },
+  {
+    "segment_id": "seg-00482",
+    "start_seconds": 1123.76,
+    "end_seconds": 1126.96,
+    "text": "find out. So, what we're going to do is"
+  },
+  {
+    "segment_id": "seg-00483",
+    "start_seconds": 1125.12,
+    "end_seconds": 1128.96,
+    "text": "we are just going to upload that voice"
+  },
+  {
+    "segment_id": "seg-00484",
+    "start_seconds": 1126.96,
+    "end_seconds": 1132.0,
+    "text": "memo and we're just going to see what"
+  },
+  {
+    "segment_id": "seg-00485",
+    "start_seconds": 1128.96,
+    "end_seconds": 1135.039,
+    "text": "happens. I'm going to say, \"Okay,"
+  },
+  {
+    "segment_id": "seg-00486",
+    "start_seconds": 1132.0,
+    "end_seconds": 1136.559,
+    "text": "go for it. I want all of that. Okay. So,"
+  },
+  {
+    "segment_id": "seg-00487",
+    "start_seconds": 1135.039,
+    "end_seconds": 1138.72,
+    "text": "we're going to let that process for a"
+  },
+  {
+    "segment_id": "seg-00488",
+    "start_seconds": 1136.559,
+    "end_seconds": 1140.799,
+    "text": "second and we're going to see what"
+  },
+  {
+    "segment_id": "seg-00489",
+    "start_seconds": 1138.72,
+    "end_seconds": 1144.08,
+    "text": "happens."
+  },
+  {
+    "segment_id": "seg-00490",
+    "start_seconds": 1140.799,
+    "end_seconds": 1147.76,
+    "text": "Okay. So, look at this. 205 very"
+  },
+  {
+    "segment_id": "seg-00491",
+    "start_seconds": 1144.08,
+    "end_seconds": 1151.039,
+    "text": "strongly in D major. 108 BPM."
+  },
+  {
+    "segment_id": "seg-00492",
+    "start_seconds": 1147.76,
+    "end_seconds": 1154.96,
+    "text": "Musically, I treat the song as 54 BPM in"
+  },
+  {
+    "segment_id": "seg-00493",
+    "start_seconds": 1151.039,
+    "end_seconds": 1156.559,
+    "text": "halftime. Worship ballad. Okay."
+  },
+  {
+    "segment_id": "seg-00494",
+    "start_seconds": 1154.96,
+    "end_seconds": 1158.96,
+    "text": "Okay."
+  },
+  {
+    "segment_id": "seg-00495",
+    "start_seconds": 1156.559,
+    "end_seconds": 1161.12,
+    "text": "It's got kind of an outline."
+  },
+  {
+    "segment_id": "seg-00496",
+    "start_seconds": 1158.96,
+    "end_seconds": 1163.28,
+    "text": "It actually I didn't tell it anything."
+  },
+  {
+    "segment_id": "seg-00497",
+    "start_seconds": 1161.12,
+    "end_seconds": 1165.28,
+    "text": "Intro chorus. you know, bridge,"
+  },
+  {
+    "segment_id": "seg-00498",
+    "start_seconds": 1163.28,
+    "end_seconds": 1168.08,
+    "text": "whatever. But it kind of f figured out"
+  },
+  {
+    "segment_id": "seg-00499",
+    "start_seconds": 1165.28,
+    "end_seconds": 1171.12,
+    "text": "the outline. Um, modern congregational,"
+  },
+  {
+    "segment_id": "seg-00500",
+    "start_seconds": 1168.08,
+    "end_seconds": 1173.84,
+    "text": "not overproduced CCM. Okay, this is"
+  },
+  {
+    "segment_id": "seg-00501",
+    "start_seconds": 1171.12,
+    "end_seconds": 1176.88,
+    "text": "really interesting. So, what it's doing"
+  },
+  {
+    "segment_id": "seg-00502",
+    "start_seconds": 1173.84,
+    "end_seconds": 1179.76,
+    "text": "is it's basically giving an analysis of"
+  },
+  {
+    "segment_id": "seg-00503",
+    "start_seconds": 1176.88,
+    "end_seconds": 1181.919,
+    "text": "the production that it might hear based"
+  },
+  {
+    "segment_id": "seg-00504",
+    "start_seconds": 1179.76,
+    "end_seconds": 1183.36,
+    "text": "on the lyrics. And it's interesting"
+  },
+  {
+    "segment_id": "seg-00505",
+    "start_seconds": 1181.919,
+    "end_seconds": 1184.96,
+    "text": "because it kind of understands the"
+  },
+  {
+    "segment_id": "seg-00506",
+    "start_seconds": 1183.36,
+    "end_seconds": 1186.32,
+    "text": "assignment like Sunno did. And I didn't"
+  },
+  {
+    "segment_id": "seg-00507",
+    "start_seconds": 1184.96,
+    "end_seconds": 1188.32,
+    "text": "even give it that much. Obviously, it's"
+  },
+  {
+    "segment_id": "seg-00508",
+    "start_seconds": 1186.32,
+    "end_seconds": 1190.24,
+    "text": "not music. It's just text. But this is"
+  },
+  {
+    "segment_id": "seg-00509",
+    "start_seconds": 1188.32,
+    "end_seconds": 1192.32,
+    "text": "really fascinating. It also gave me the"
+  },
+  {
+    "segment_id": "seg-00510",
+    "start_seconds": 1190.24,
+    "end_seconds": 1194.64,
+    "text": "keys. I actually didn't know that"
+  },
+  {
+    "segment_id": "seg-00511",
+    "start_seconds": 1192.32,
+    "end_seconds": 1196.4,
+    "text": "ChachiPT could do that. It gave me the"
+  },
+  {
+    "segment_id": "seg-00512",
+    "start_seconds": 1194.64,
+    "end_seconds": 1198.48,
+    "text": "chords, both the Roman numerals, not"
+  },
+  {
+    "segment_id": "seg-00513",
+    "start_seconds": 1196.4,
+    "end_seconds": 1202.4,
+    "text": "natural numbers, but the Roman numerals"
+  },
+  {
+    "segment_id": "seg-00514",
+    "start_seconds": 1198.48,
+    "end_seconds": 1204.32,
+    "text": "and similar we could write just 1465,"
+  },
+  {
+    "segment_id": "seg-00515",
+    "start_seconds": 1202.4,
+    "end_seconds": 1207.2,
+    "text": "right? To get the natural numbers and"
+  },
+  {
+    "segment_id": "seg-00516",
+    "start_seconds": 1204.32,
+    "end_seconds": 1209.28,
+    "text": "then the regular notation. It gave kind"
+  },
+  {
+    "segment_id": "seg-00517",
+    "start_seconds": 1207.2,
+    "end_seconds": 1212.16,
+    "text": "of the unique chords that I used in my"
+  },
+  {
+    "segment_id": "seg-00518",
+    "start_seconds": 1209.28,
+    "end_seconds": 1214.24,
+    "text": "voice memo. Okay, this is really"
+  },
+  {
+    "segment_id": "seg-00519",
+    "start_seconds": 1212.16,
+    "end_seconds": 1216.0,
+    "text": "interesting. How could you use this?"
+  },
+  {
+    "segment_id": "seg-00520",
+    "start_seconds": 1214.24,
+    "end_seconds": 1218.0,
+    "text": "This could be a great baseline for your"
+  },
+  {
+    "segment_id": "seg-00521",
+    "start_seconds": 1216.0,
+    "end_seconds": 1220.64,
+    "text": "production. you could open up your DAW"
+  },
+  {
+    "segment_id": "seg-00522",
+    "start_seconds": 1218.0,
+    "end_seconds": 1223.12,
+    "text": "and then you would be off to the races"
+  },
+  {
+    "segment_id": "seg-00523",
+    "start_seconds": 1220.64,
+    "end_seconds": 1224.24,
+    "text": "with a general idea. And I think that's"
+  },
+  {
+    "segment_id": "seg-00524",
+    "start_seconds": 1223.12,
+    "end_seconds": 1225.44,
+    "text": "kind of interesting. And honestly,"
+  },
+  {
+    "segment_id": "seg-00525",
+    "start_seconds": 1224.24,
+    "end_seconds": 1226.96,
+    "text": "that's what I was talking about at the"
+  },
+  {
+    "segment_id": "seg-00526",
+    "start_seconds": 1225.44,
+    "end_seconds": 1228.4,
+    "text": "beginning. This is the one tool that I"
+  },
+  {
+    "segment_id": "seg-00527",
+    "start_seconds": 1226.96,
+    "end_seconds": 1230.32,
+    "text": "think everybody might be sleeping on."
+  },
+  {
+    "segment_id": "seg-00528",
+    "start_seconds": 1228.4,
+    "end_seconds": 1231.84,
+    "text": "And I know what you're thinking. Maybe"
+  },
+  {
+    "segment_id": "seg-00529",
+    "start_seconds": 1230.32,
+    "end_seconds": 1233.84,
+    "text": "that's the stupidest thing you've ever"
+  },
+  {
+    "segment_id": "seg-00530",
+    "start_seconds": 1231.84,
+    "end_seconds": 1235.919,
+    "text": "heard. But if you are thinking through"
+  },
+  {
+    "segment_id": "seg-00531",
+    "start_seconds": 1233.84,
+    "end_seconds": 1238.08,
+    "text": "the lens of how could I use AI to make"
+  },
+  {
+    "segment_id": "seg-00532",
+    "start_seconds": 1235.919,
+    "end_seconds": 1240.08,
+    "text": "me smarter, make me faster. What if"
+  },
+  {
+    "segment_id": "seg-00533",
+    "start_seconds": 1238.08,
+    "end_seconds": 1241.44,
+    "text": "you've got a whole bunch of voice memos"
+  },
+  {
+    "segment_id": "seg-00534",
+    "start_seconds": 1240.08,
+    "end_seconds": 1243.039,
+    "text": "that you're like, you know what, I don't"
+  },
+  {
+    "segment_id": "seg-00535",
+    "start_seconds": 1241.44,
+    "end_seconds": 1245.039,
+    "text": "mind uploading a couple of these to Chat"
+  },
+  {
+    "segment_id": "seg-00536",
+    "start_seconds": 1243.039,
+    "end_seconds": 1247.28,
+    "text": "GPT. Now, same thing. it's going to use"
+  },
+  {
+    "segment_id": "seg-00537",
+    "start_seconds": 1245.039,
+    "end_seconds": 1250.0,
+    "text": "your data to train its model and you can"
+  },
+  {
+    "segment_id": "seg-00538",
+    "start_seconds": 1247.28,
+    "end_seconds": 1252.96,
+    "text": "turn that off but I don't fully know if"
+  },
+  {
+    "segment_id": "seg-00539",
+    "start_seconds": 1250.0,
+    "end_seconds": 1255.6,
+    "text": "it's completely turned off you know do"
+  },
+  {
+    "segment_id": "seg-00540",
+    "start_seconds": 1252.96,
+    "end_seconds": 1258.159,
+    "text": "we know I don't know but at the same"
+  },
+  {
+    "segment_id": "seg-00541",
+    "start_seconds": 1255.6,
+    "end_seconds": 1259.919,
+    "text": "time as long as I have the things"
+  },
+  {
+    "segment_id": "seg-00542",
+    "start_seconds": 1258.159,
+    "end_seconds": 1262.08,
+    "text": "protected and I'm comfortable even with"
+  },
+  {
+    "segment_id": "seg-00543",
+    "start_seconds": 1259.919,
+    "end_seconds": 1263.76,
+    "text": "a snippet if it's not the whole thing"
+  },
+  {
+    "segment_id": "seg-00544",
+    "start_seconds": 1262.08,
+    "end_seconds": 1265.6,
+    "text": "this would give me a great baseline to"
+  },
+  {
+    "segment_id": "seg-00545",
+    "start_seconds": 1263.76,
+    "end_seconds": 1269.48,
+    "text": "open up my dot and build something from"
+  },
+  {
+    "segment_id": "seg-00546",
+    "start_seconds": 1265.6,
+    "end_seconds": 1269.48,
+    "text": "which I think is really cool"
+  },
+  {
+    "segment_id": "seg-00547",
+    "start_seconds": 1269.84,
+    "end_seconds": 1273.2,
+    "text": "let's bring this all home because you"
+  },
+  {
+    "segment_id": "seg-00548",
+    "start_seconds": 1271.44,
+    "end_seconds": 1274.48,
+    "text": "might be thinking okay this is cool"
+  },
+  {
+    "segment_id": "seg-00549",
+    "start_seconds": 1273.2,
+    "end_seconds": 1276.559,
+    "text": "there's some options ions here. What"
+  },
+  {
+    "segment_id": "seg-00550",
+    "start_seconds": 1274.48,
+    "end_seconds": 1279.36,
+    "text": "does this mean for me? Well, if you're"
+  },
+  {
+    "segment_id": "seg-00551",
+    "start_seconds": 1276.559,
+    "end_seconds": 1281.52,
+    "text": "looking for that fully generative AI,"
+  },
+  {
+    "segment_id": "seg-00552",
+    "start_seconds": 1279.36,
+    "end_seconds": 1282.64,
+    "text": "whole thing, big package, you want the"
+  },
+  {
+    "segment_id": "seg-00553",
+    "start_seconds": 1281.52,
+    "end_seconds": 1284.4,
+    "text": "whole package. Well, you're going to"
+  },
+  {
+    "segment_id": "seg-00554",
+    "start_seconds": 1282.64,
+    "end_seconds": 1286.799,
+    "text": "want to use Sunno. Now, for me"
+  },
+  {
+    "segment_id": "seg-00555",
+    "start_seconds": 1284.4,
+    "end_seconds": 1288.96,
+    "text": "personally, I'm not using Sununo very"
+  },
+  {
+    "segment_id": "seg-00556",
+    "start_seconds": 1286.799,
+    "end_seconds": 1291.6,
+    "text": "often, and I'm not using it as my"
+  },
+  {
+    "segment_id": "seg-00557",
+    "start_seconds": 1288.96,
+    "end_seconds": 1293.2,
+    "text": "finished product. If I use it, I'm just"
+  },
+  {
+    "segment_id": "seg-00558",
+    "start_seconds": 1291.6,
+    "end_seconds": 1294.64,
+    "text": "going to use it to ideulate. Like, oh"
+  },
+  {
+    "segment_id": "seg-00559",
+    "start_seconds": 1293.2,
+    "end_seconds": 1296.559,
+    "text": "man, I kind of want to hear this voice"
+  },
+  {
+    "segment_id": "seg-00560",
+    "start_seconds": 1294.64,
+    "end_seconds": 1298.4,
+    "text": "note in this style, or I've got an idea."
+  },
+  {
+    "segment_id": "seg-00561",
+    "start_seconds": 1296.559,
+    "end_seconds": 1300.0,
+    "text": "I'm just going to sing this in here and"
+  },
+  {
+    "segment_id": "seg-00562",
+    "start_seconds": 1298.4,
+    "end_seconds": 1301.76,
+    "text": "I want to hear it. What could this"
+  },
+  {
+    "segment_id": "seg-00563",
+    "start_seconds": 1300.0,
+    "end_seconds": 1303.2,
+    "text": "style? What could this style sound like?"
+  },
+  {
+    "segment_id": "seg-00564",
+    "start_seconds": 1301.76,
+    "end_seconds": 1304.64,
+    "text": "Right? and then I'm going to pull it"
+  },
+  {
+    "segment_id": "seg-00565",
+    "start_seconds": 1303.2,
+    "end_seconds": 1306.48,
+    "text": "into my DAW. Which is why at Produce"
+  },
+  {
+    "segment_id": "seg-00566",
+    "start_seconds": 1304.64,
+    "end_seconds": 1309.039,
+    "text": "Like a Boss, we teach you how to build"
+  },
+  {
+    "segment_id": "seg-00567",
+    "start_seconds": 1306.48,
+    "end_seconds": 1310.64,
+    "text": "it in your DAW because you need to have"
+  },
+  {
+    "segment_id": "seg-00568",
+    "start_seconds": 1309.039,
+    "end_seconds": 1312.48,
+    "text": "that skill, right? You can use that"
+  },
+  {
+    "segment_id": "seg-00569",
+    "start_seconds": 1310.64,
+    "end_seconds": 1314.4,
+    "text": "skill forever and that can't be taken"
+  },
+  {
+    "segment_id": "seg-00570",
+    "start_seconds": 1312.48,
+    "end_seconds": 1317.2,
+    "text": "away from you like a machine learning"
+  },
+  {
+    "segment_id": "seg-00571",
+    "start_seconds": 1314.4,
+    "end_seconds": 1318.799,
+    "text": "model's terms could change overnight. So"
+  },
+  {
+    "segment_id": "seg-00572",
+    "start_seconds": 1317.2,
+    "end_seconds": 1321.44,
+    "text": "then if you're going to use something"
+  },
+  {
+    "segment_id": "seg-00573",
+    "start_seconds": 1318.799,
+    "end_seconds": 1324.72,
+    "text": "like u that could be maybe for something"
+  },
+  {
+    "segment_id": "seg-00574",
+    "start_seconds": 1321.44,
+    "end_seconds": 1326.64,
+    "text": "really specific if you wanted a baseline"
+  },
+  {
+    "segment_id": "seg-00575",
+    "start_seconds": 1324.72,
+    "end_seconds": 1328.96,
+    "text": "or a guitar line or something like that"
+  },
+  {
+    "segment_id": "seg-00576",
+    "start_seconds": 1326.64,
+    "end_seconds": 1331.679,
+    "text": "that you wanted to put in there and have"
+  },
+  {
+    "segment_id": "seg-00577",
+    "start_seconds": 1328.96,
+    "end_seconds": 1334.0,
+    "text": "it analyze that or have it give you"
+  },
+  {
+    "segment_id": "seg-00578",
+    "start_seconds": 1331.679,
+    "end_seconds": 1336.32,
+    "text": "ideiation on how to move it forward. You"
+  },
+  {
+    "segment_id": "seg-00579",
+    "start_seconds": 1334.0,
+    "end_seconds": 1339.12,
+    "text": "could do that. Then what about 11 Labs?"
+  },
+  {
+    "segment_id": "seg-00580",
+    "start_seconds": 1336.32,
+    "end_seconds": 1340.88,
+    "text": "Well that one again more ideation. It's"
+  },
+  {
+    "segment_id": "seg-00581",
+    "start_seconds": 1339.12,
+    "end_seconds": 1343.12,
+    "text": "not it doesn't really follow the prompt"
+  },
+  {
+    "segment_id": "seg-00582",
+    "start_seconds": 1340.88,
+    "end_seconds": 1345.44,
+    "text": "very well. At least from my initial"
+  },
+  {
+    "segment_id": "seg-00583",
+    "start_seconds": 1343.12,
+    "end_seconds": 1347.28,
+    "text": "pass. Now, the more you work with it, I"
+  },
+  {
+    "segment_id": "seg-00584",
+    "start_seconds": 1345.44,
+    "end_seconds": 1349.12,
+    "text": "imagine the better it gets. But if you"
+  },
+  {
+    "segment_id": "seg-00585",
+    "start_seconds": 1347.28,
+    "end_seconds": 1351.84,
+    "text": "just want to jump in and do it quick,"
+  },
+  {
+    "segment_id": "seg-00586",
+    "start_seconds": 1349.12,
+    "end_seconds": 1353.52,
+    "text": "well, out of those three options, you're"
+  },
+  {
+    "segment_id": "seg-00587",
+    "start_seconds": 1351.84,
+    "end_seconds": 1355.44,
+    "text": "probably going to choose one over the"
+  },
+  {
+    "segment_id": "seg-00588",
+    "start_seconds": 1353.52,
+    "end_seconds": 1357.039,
+    "text": "other based on what you're looking for."
+  },
+  {
+    "segment_id": "seg-00589",
+    "start_seconds": 1355.44,
+    "end_seconds": 1359.76,
+    "text": "But I think it's interesting if we think"
+  },
+  {
+    "segment_id": "seg-00590",
+    "start_seconds": 1357.039,
+    "end_seconds": 1361.76,
+    "text": "through the lens of using AI with us,"
+  },
+  {
+    "segment_id": "seg-00591",
+    "start_seconds": 1359.76,
+    "end_seconds": 1364.159,
+    "text": "not instead of us as assistive, not"
+  },
+  {
+    "segment_id": "seg-00592",
+    "start_seconds": 1361.76,
+    "end_seconds": 1366.4,
+    "text": "fully generative, but also because I"
+  },
+  {
+    "segment_id": "seg-00593",
+    "start_seconds": 1364.159,
+    "end_seconds": 1368.88,
+    "text": "care about you and about you owning what"
+  },
+  {
+    "segment_id": "seg-00594",
+    "start_seconds": 1366.4,
+    "end_seconds": 1370.4,
+    "text": "you create. And that's why I want us to"
+  },
+  {
+    "segment_id": "seg-00595",
+    "start_seconds": 1368.88,
+    "end_seconds": 1372.799,
+    "text": "pay attention. and I'm paying attention"
+  },
+  {
+    "segment_id": "seg-00596",
+    "start_seconds": 1370.4,
+    "end_seconds": 1375.36,
+    "text": "to what the terms of service say so that"
+  },
+  {
+    "segment_id": "seg-00597",
+    "start_seconds": 1372.799,
+    "end_seconds": 1378.08,
+    "text": "I know am I okay uploading this one? Do"
+  },
+  {
+    "segment_id": "seg-00598",
+    "start_seconds": 1375.36,
+    "end_seconds": 1379.76,
+    "text": "I really want to do that? Or do I just"
+  },
+  {
+    "segment_id": "seg-00599",
+    "start_seconds": 1378.08,
+    "end_seconds": 1381.919,
+    "text": "want to use it to assist me to make me"
+  },
+  {
+    "segment_id": "seg-00600",
+    "start_seconds": 1379.76,
+    "end_seconds": 1384.32,
+    "text": "sharper, faster, better, but then still"
+  },
+  {
+    "segment_id": "seg-00601",
+    "start_seconds": 1381.919,
+    "end_seconds": 1386.559,
+    "text": "build the thing inside of my DAW and"
+  },
+  {
+    "segment_id": "seg-00602",
+    "start_seconds": 1384.32,
+    "end_seconds": 1389.28,
+    "text": "just use this to kind of assist me in"
+  },
+  {
+    "segment_id": "seg-00603",
+    "start_seconds": 1386.559,
+    "end_seconds": 1391.28,
+    "text": "the process. Now, with Chat GBT, I think"
+  },
+  {
+    "segment_id": "seg-00604",
+    "start_seconds": 1389.28,
+    "end_seconds": 1393.2,
+    "text": "it's fascinating where you could upload"
+  },
+  {
+    "segment_id": "seg-00605",
+    "start_seconds": 1391.28,
+    "end_seconds": 1395.2,
+    "text": "this voice memo. It hasn't always been"
+  },
+  {
+    "segment_id": "seg-00606",
+    "start_seconds": 1393.2,
+    "end_seconds": 1396.88,
+    "text": "able to do that, at least as far as I"
+  },
+  {
+    "segment_id": "seg-00607",
+    "start_seconds": 1395.2,
+    "end_seconds": 1398.48,
+    "text": "can tell. It's really interesting that"
+  },
+  {
+    "segment_id": "seg-00608",
+    "start_seconds": 1396.88,
+    "end_seconds": 1401.039,
+    "text": "it's giving production notes. Now, would"
+  },
+  {
+    "segment_id": "seg-00609",
+    "start_seconds": 1398.48,
+    "end_seconds": 1402.96,
+    "text": "I use all of these? No. It got real, you"
+  },
+  {
+    "segment_id": "seg-00610",
+    "start_seconds": 1401.039,
+    "end_seconds": 1406.48,
+    "text": "know, like, oh, it should probably land"
+  },
+  {
+    "segment_id": "seg-00611",
+    "start_seconds": 1402.96,
+    "end_seconds": 1409.76,
+    "text": "around 4:45, not 205. Okay, thank you,"
+  },
+  {
+    "segment_id": "seg-00612",
+    "start_seconds": 1406.48,
+    "end_seconds": 1411.6,
+    "text": "chat. But I do think that it gives me a"
+  },
+  {
+    "segment_id": "seg-00613",
+    "start_seconds": 1409.76,
+    "end_seconds": 1413.76,
+    "text": "starting point that is [music] beyond"
+  },
+  {
+    "segment_id": "seg-00614",
+    "start_seconds": 1411.6,
+    "end_seconds": 1417.12,
+    "text": "the blank page where I'd open my DAW and"
+  },
+  {
+    "segment_id": "seg-00615",
+    "start_seconds": 1413.76,
+    "end_seconds": 1418.799,
+    "text": "say, \"Okay, 108, [music] key of D here."
+  },
+  {
+    "segment_id": "seg-00616",
+    "start_seconds": 1417.12,
+    "end_seconds": 1420.0,
+    "text": "Let me put my markers in. Let me get"
+  },
+  {
+    "segment_id": "seg-00617",
+    "start_seconds": 1418.799,
+    "end_seconds": 1421.44,
+    "text": "this thing built out a little"
+  },
+  {
+    "segment_id": "seg-00618",
+    "start_seconds": 1420.0,
+    "end_seconds": 1423.76,
+    "text": "pre-production.\" [music] And I think"
+  },
+  {
+    "segment_id": "seg-00619",
+    "start_seconds": 1421.44,
+    "end_seconds": 1426.08,
+    "text": "that's pretty cool. So, there's some"
+  },
+  {
+    "segment_id": "seg-00620",
+    "start_seconds": 1423.76,
+    "end_seconds": 1428.4,
+    "text": "ideas for you. That's maybe how I would"
+  },
+  {
+    "segment_id": "seg-00621",
+    "start_seconds": 1426.08,
+    "end_seconds": 1430.48,
+    "text": "use some assistive AI or if I was going"
+  },
+  {
+    "segment_id": "seg-00622",
+    "start_seconds": 1428.4,
+    "end_seconds": 1432.0,
+    "text": "to use fully generative AI, that's the"
+  },
+  {
+    "segment_id": "seg-00623",
+    "start_seconds": 1430.48,
+    "end_seconds": 1434.799,
+    "text": "way [music] that I would do it. But it's"
+  },
+  {
+    "segment_id": "seg-00624",
+    "start_seconds": 1432.0,
+    "end_seconds": 1437.12,
+    "text": "fascinating to see a clean test of the"
+  },
+  {
+    "segment_id": "seg-00625",
+    "start_seconds": 1434.799,
+    "end_seconds": 1438.48,
+    "text": "same voice memo doing completely"
+  },
+  {
+    "segment_id": "seg-00626",
+    "start_seconds": 1437.12,
+    "end_seconds": 1440.72,
+    "text": "different things in four different"
+  },
+  {
+    "segment_id": "seg-00627",
+    "start_seconds": 1438.48,
+    "end_seconds": 1443.52,
+    "text": "platforms. So tell me, which one would"
+  },
+  {
+    "segment_id": "seg-00628",
+    "start_seconds": 1440.72,
+    "end_seconds": 1445.039,
+    "text": "you use and how would you use it? And if"
+  },
+  {
+    "segment_id": "seg-00629",
+    "start_seconds": 1443.52,
+    "end_seconds": 1446.96,
+    "text": "you're still thinking about paid to make"
+  },
+  {
+    "segment_id": "seg-00630",
+    "start_seconds": 1445.039,
+    "end_seconds": 1449.679,
+    "text": "music week, wondering what it's [music]"
+  },
+  {
+    "segment_id": "seg-00631",
+    "start_seconds": 1446.96,
+    "end_seconds": 1451.679,
+    "text": "like and if it's for you, just click"
+  },
+  {
+    "segment_id": "seg-00632",
+    "start_seconds": 1449.679,
+    "end_seconds": 1452.82,
+    "text": "that link in the description and I will"
+  },
+  {
+    "segment_id": "seg-00633",
+    "start_seconds": 1451.679,
+    "end_seconds": 1453.76,
+    "text": "see you there. That's all I've got"
+  },
+  {
+    "segment_id": "seg-00634",
+    "start_seconds": 1452.82,
+    "end_seconds": 1457.159,
+    "text": "[music] for you today and we'll see you"
+  },
+  {
+    "segment_id": "seg-00635",
+    "start_seconds": 1453.76,
+    "end_seconds": 1457.159,
+    "text": "in the next one."
+  }
+]

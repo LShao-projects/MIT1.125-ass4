@@ -1,0 +1,18 @@
+{
+  "stage": "write_articles",
+  "status": "complete",
+  "started_at": "2026-10-13T18:17:44Z",
+  "finished_at": "2026-10-13T18:19:15Z",
+  "input_count": 3,
+  "output_count": 3,
+  "tools_or_models": [
+    "Codex CLI: configured Codex default"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "usage": {
+    "input_tokens": 66233,
+    "output_tokens": 4867
+  },
+  "errors": []
+}

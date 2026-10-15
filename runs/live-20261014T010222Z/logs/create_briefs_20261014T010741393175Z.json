@@ -1,0 +1,18 @@
+{
+  "stage": "create_briefs",
+  "status": "complete",
+  "started_at": "2026-10-14T01:06:00Z",
+  "finished_at": "2026-10-14T01:07:41Z",
+  "input_count": 22,
+  "output_count": 3,
+  "tools_or_models": [
+    "Codex CLI: configured Codex default"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "usage": {
+    "input_tokens": 172292,
+    "output_tokens": 7279
+  },
+  "errors": []
+}

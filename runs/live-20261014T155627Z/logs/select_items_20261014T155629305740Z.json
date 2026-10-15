@@ -1,0 +1,20 @@
+{
+  "stage": "select_items",
+  "status": "incomplete",
+  "input_count": 22,
+  "output_count": 0,
+  "started_at": "2026-10-14T15:56:29Z",
+  "finished_at": "2026-10-14T15:56:29Z",
+  "tools_or_models": [
+    "Codex CLI: configured Codex default"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "errors": [
+    "RuntimeError: Codex CLI exited with 1; check local CLI login and network"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mode": "pilot_policy_rerun",
+  "source_run": "editorial-pilot-20261013",
+  "purpose": "reselect the identical eligible corpus after six student inspections and one policy revision",
+  "not_a_live_complete_run": true,
+  "run_id": "editorial-policy-rerun-20261013",
+  "as_of_date": "2026-10-13"
+}

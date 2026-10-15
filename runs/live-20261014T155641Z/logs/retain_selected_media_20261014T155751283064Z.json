@@ -1,0 +1,15 @@
+{
+  "stage": "retain_selected_media",
+  "started_at": "2026-10-14T15:57:47Z",
+  "finished_at": "2026-10-14T15:57:51Z",
+  "status": "complete",
+  "input_count": 4,
+  "output_count": 4,
+  "tools_or_models": [
+    "yt-dlp audio-only",
+    "Python urllib podcast enclosure"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": []
+}

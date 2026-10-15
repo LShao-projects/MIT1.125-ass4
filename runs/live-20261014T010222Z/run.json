@@ -1,0 +1,9 @@
+{
+  "run_id": "live-20261014T010222Z",
+  "started_at": "2026-10-14T01:02:22Z",
+  "as_of_date": "2026-10-14",
+  "mode": "live",
+  "previous_run_id": "live-20261013T181427Z",
+  "finished_at": "2026-10-14T01:11:29.100Z",
+  "recovered_after_initial_failure": true
+}

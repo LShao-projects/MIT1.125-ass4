@@ -1,0 +1,196 @@
+SPEAKER_00: Hello and welcome to the AI Music Revolution and
+right on cue.
+There you go, you hear it.
+I've got neighborhood dogs barking.
+So that was perfect timing.
+We're just gonna go anyway.
+Uh that's the way we fly around here.
+So this is actually episode 40.
+I can't believe that I've done 40 of these podcasts so far.
+Uh and I feel like I'm just getting started.
+Kind of like that dog is behind me.
+So I'm Josh, I'm the founder of JG Beats Lab.
+And thank you for listening to the podcast.
+So this week's um post on the blog ask a question that I think
+a lot of you have asked yourselves probably quietly.
+You wrote a song, the words are yours, the melody is yours, you
+you wrote it, you created it, maybe a chord progression.
+You've played on the you know the same guitar for years.
+You sang a rough demo into your phone, and then you uploaded it
+into Suno or one of the other AI platforms, and it came back with
+drums and bass and strings and a mix that you could have never
+paid for.
+The question that that then shows up is usually late at
+night as you're laying in bed, thinking to yourself, is it
+still my song?
+I'm gonna answer it, and then I'm going to walk you through
+the exact workflow step by step so that you know what you keep
+and what you hand over at every stage of the process.
+So let's start.
+The instinct is to answer this with a feeling.
+You feel like the song is yours because you know you started it,
+or you feel like a fraud because a machine played every
+instrument.
+I'll tell you, neither feeling tells you much.
+The question has a better answer than that, and you get to it by
+taking the song apart and asking, who made each piece?
+Think of a song like a stack.
+At the bottom of the stack sits the composition, so the lyrics,
+the melody, the chords if you wrote them.
+At the top of that sits the arrangement, which instruments
+play, what they play, you know, when do the drums come in, and
+then above the arrangement are the performances, the actual
+sound of someone singing or something being played.
+And at the very top is the finish, the mix, the master that
+turns a session into a record.
+So write a song on a guitar, hire a band to play it, and
+nobody asks whether it's still your song.
+The drummer made choices, the bass player made choices, the
+engineer made a hundred choices that you've never heard about.
+The song stayed yours because the bottom of that stack was
+yours.
+And everyone understood the rest as work done on your song.
+So the useful version of the question is about the stack.
+Which layer did you make?
+Which layers did sudo make?
+And what did you agree to on the way in?
+So the blog this week makes the other half of the argument.
+The layers tell you what you own, but the decisions tell you
+what you actually authored.
+Every take you reject, every lyric you correct, every time
+you send the arrangement back, that's you writing.
+The stack is where those decisions end up.
+That last part matters more this month than it did last month.
+Suno rewrote its terms of service, effective September
+3rd.
+I'll describe what they say.
+I'm not a lawyer, so definitely read them yourselves before you
+make a decision that depends on them.
+Two things there are worth knowing cold though.
+First, what you upload stays yours.
+The terms say plainly that uploading transfers no
+ownership.
+What you grant instead is a license, and it's it's a very
+wide one.
+Worldwide, royalty free, perpetual, irrevocable, covering
+storage, modification, derivative works, and use to
+improve Suno's models and promote the service.
+If your voice is on the upload, that license reaches your voice
+and your likeness too.
+Second, on Pro or Premiere, Suno assigns you whatever rights it
+holds and the output it generates.
+The same terms also say Suno makes no promise that any
+copyright attaches to that output at all.
+Suno hands you everything it has and says out loud that the
+amount might be zero.
+Set those two facts next to the stack and the picture sharpens.
+The composition you wrote is yours, and uploading it gave
+Suno a license to use it.
+The generated arrangement is yours to use, with no guarantee
+the law protects it.
+Your performance, if you record one, is yours outright.
+So is it still your song?
+The part that makes it a song, the words and the tune, yes.
+The record is a blend of your work and generated work.
+And every layer you make yourself moves more of that
+record onto your side of the line.
+If you only take back one layer, take back the vocal, a listener
+hears it first and remembers it the longest.
+And it's where the distance between generated and performed
+is the widest.
+Suno can give you a singer.
+With a voice model, it can even give you a singer in your own
+timber, and that's still a generated performance wearing
+your voice, with the new license reaching your likeness along
+with it.
+When you sing the take yourself, the breath before the line you
+care about belongs to you, and so does the crack and the note
+you decided to keep.
+A model trained on your voice can copy how you sound.
+What you meant by the line only comes from you.
+The vocal also moves the ownership math more than any
+other layer.
+Your composition plus your own performance puts both layers
+that carry your name on your side of the line.
+The generated arrangement becomes what the hired band used
+to be.
+Work done on your song.
+Now the workflow in plain terms.
+Every step has a keep and a handover, and you should know
+both before you press anything.
+Step one, the demo goes in.
+Before you upload, decide the one element of the demo that has
+to survive.
+For most songwriters, that's the melody and the way the lyric
+sits on it.
+You keep ownership of the demo.
+You hand over the license I just described, including your voice
+if you sang it.
+If you plan to pitch this song to a publisher exclusively,
+pause here.
+Step 2.
+Suno builds the arrangement.
+You run a cover on your demo with audio influence set high.
+A songwriter who published his V6 settings ran Variety Off,
+Audio Influence High, Style Influence Around 80, and
+reported that the result held to his brief.
+You keep the composition, you hand the arrangement decisions
+to the model, and that's the layer where the terms promise
+nothing about copyright.
+Step 3, pull stems.
+A stem from Advanced Split is a new performance of that part,
+rebuilt by the model, so it can drift from what you heard in the
+full mix.
+Keep the full mix on its own track, muted, and compare every
+stem against it.
+You hand nothing over at this step.
+You just need to know the stems are copies.
+Step four, replace the AI vocal with a real one.
+This is a step where you take a layer back.
+Record dry and wired headphones or whatever mic you own.
+If you record inside Suno Studio, that recording counts as
+an upload and a license attaches to it.
+Record in your own DAW, and you your vocal never touches the
+platform then.
+Step five, mix and master outside of Suno.
+You hand over nothing, and the finish is decided by you or
+someone you hire.
+That's where I come in a lot of the times.
+One more habit, and it turns the whole question from a feeling
+into a record.
+Keep a folder for every song.
+Put the original demo in it, dated, add the lyric sheet, the
+settings you used on the cover, the stems you actually kept,
+your raw vocal takes, and the final master.
+Next to each file, write one line.
+I wrote this, Suno generated that, or this is a stem rebuilt
+from Suno's output.
+The folder exists for registration.
+The approach I teach is to register the human-authored part
+of the song, your lyric, your melody, your recorded
+performance.
+And the folder is how you show which part that is.
+When someone asks whether it's still your song, you hand them
+the folder.
+That answer holds up better than any feeling that you could
+describe.
+And last thing before I let you go, JGB Slab actually turns one
+on Friday, October 2nd.
+I'm marking it properly, and there's something for you in
+Friday's post.
+Go read it when it drops.
+If you decided what it's about and wrote the words and the
+tune, it's your song.
+Every layer you build yourself makes the record more yours,
+too.
+Before you go, one thing.
+What I'm testing in the studio that week.
+Tools I've cut and why.
+Real numbers when I have them.
+If you want that in your inbox, sign up at jgbslab.com slash
+newsletter.
+Every Sunday.
+One email, that's it.
+I'll talk to you in the next one.
+Until then, stop gambling.
+Start directing.

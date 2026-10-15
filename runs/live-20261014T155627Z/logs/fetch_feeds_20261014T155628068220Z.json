@@ -1,0 +1,20 @@
+{
+  "stage": "fetch_feeds",
+  "status": "incomplete",
+  "input_count": 5,
+  "output_count": 0,
+  "started_at": "2026-10-14T15:56:28Z",
+  "finished_at": "2026-10-14T15:56:28Z",
+  "tools_or_models": [
+    "Python urllib RSS XML"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [
+    "rss-musicradar-suno: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "rss-dazed-suno: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "rss-mbw-suno: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "rss-latimes-ai-music: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "rss-mbw-latest: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "drafts_ready_for_human_review": true,
+  "assignment_complete": false,
+  "checks": [
+    {
+      "requirement": "Three connected pieces with distinct editorial purposes, arguments, synthesis, and meaningful limitations",
+      "status": "met",
+      "evidence": "Piece 01 examines Studio changes, piece 02 scrutinizes quality and control claims, and piece 03 proposes pre-release checks. Each connects multiple sources and states a substantive limit."
+    },
+    {
+      "requirement": "At least three independent publishers support each article",
+      "status": "met",
+      "evidence": "Piece 01 cites Suno, On a Creative Journey, and MusicRadar; piece 02 cites four publishers; piece 03 cites seven. The supplied publisher IDs are distinct within each piece."
+    },
+    {
+      "requirement": "Traceable claims, accurate scope, and uncertainty",
+      "status": "partial",
+      "evidence": "Claim IDs, source versions, quotations, and media timestamps are supplied. Several narrow claims and reader-facing links need checking against fuller passages before publication."
+    },
+    {
+      "requirement": "Approximately 600–900 article words and paired 3–5 minute spoken scripts",
+      "status": "met",
+      "evidence": "Reported article body counts are 752, 753, and 809 words. Narration counts are 396, 456, and 577 words, consistent with approximately 3–5 minutes at plausible speaking rates. Actual runtimes are not established."
+    },
+    {
+      "requirement": "RSS, YouTube, and podcast evidence across the series",
+      "status": "met",
+      "evidence": "The supplied corpus and decisions show accepted written, YouTube, and podcast items. The articles use written and YouTube evidence; piece 03 also uses podcast evidence."
+    },
+    {
+      "requirement": "As-of date equal to the evidence run’s actual execution date",
+      "status": "unverifiable",
+      "evidence": "All six drafts state 2026-10-13 UTC, matching run_metadata.as_of_date. The supplied records do not independently establish the actual execution date."
+    },
+    {
+      "requirement": "At least 12 distinct substantive items from six independent sources, with two of each input type and a 30-day window",
+      "status": "partial",
+      "evidence": "The supplied summary reports 21 eligible items, 12 accepted publishers, and at least two eligible items of each kind, all dated within the stated window. Original source assets and underlying-item deduplication cannot be inspected under this audit’s constraints."
+    },
+    {
+      "requirement": "Editorial review, policy revision, and repeatability demonstration",
+      "status": "partial",
+      "evidence": "The submission describes a review sample, policy rerun, same-input replay, and simulated collection failure. Final student draft review is explicitly pending, and the required second live run on a different day is pending."
+    },
+    {
+      "requirement": "Three published Substack articles, three Google Vids or HeyGen-produced YouTube videos, cross-links, and a separate technical demonstration",
+      "status": "not_met",
+      "evidence": "The submission labels all three articles unpublished, all three videos unproduced, and the technical demonstration unrecorded. Publication links and access checks are absent."
+    },
+    {
+      "requirement": "Article and script factual consistency",
+      "status": "partial",
+      "evidence": "The pairs follow the same briefs and no material article/script contradiction is apparent. Shared claims with insufficient supplied excerpts still need verification."
+    }
+  ],
+  "findings": [
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Article, “Control needs its own test”; script, “Creative control is a separate test”; claim 02-c5",
+      "issue": "The supplied exact passages support Olsen’s assessment of melody and AI quality, but do not establish that the tested input was an uploaded voice memo.",
+      "support": "The supplied 02-c5 excerpts include “It didn't change the melody” at seg-00207 and “it sound like AI? Yes” at seg-00221. None of the supplied excerpts mentions a voice memo or upload.",
+      "suggested_fix": "Verify the voice-memo description against a timestamped passage and add that locator, or narrow both drafts to the supported account."
+    },
+    {
+      "severity": "important",
+      "piece_id": "03",
+      "location": "Article, “Start with your own contributions”; script, “The contribution record”; claim 03-c6",
+      "issue": "The two supplied transcript fragments do not fully establish Olsen’s stated practice of using Suno only for ideas rather than as a finished product.",
+      "support": "The supplied 03-c6 excerpts begin mid-thought: seg-00557 says “finished product. If I use it, I'm just” and seg-00558 says “going to use it to ideulate. Like, oh”.",
+      "suggested_fix": "Review and cite the adjacent transcript passage that identifies the product and completes the thought, or qualify the statement."
+    },
+    {
+      "severity": "minor",
+      "piece_id": "01",
+      "location": "Brief claim 01-c2",
+      "issue": "The brief specifies “vocal EQ and compression,” while the supplied cited excerpt identifies EQ and compression without saying they were applied to vocals. The article and script omit the vocal qualifier.",
+      "support": "The supplied seg-00424 text is “here, I added a little EQ and compressed”.",
+      "suggested_fix": "Remove “vocal” from the brief claim or cite a passage that identifies the processed track."
+    },
+    {
+      "severity": "important",
+      "piece_id": "01",
+      "location": "Article and script source note for Suno’s October release note",
+      "issue": "The reader-facing source note uses a specific deep link that cannot be checked against the supplied source record.",
+      "support": "The eligible corpus and 01-c1 exact passages identify https://blog.suno.com/release-notes; both draft source notes instead link to https://blog.suno.com/release-notes/studio-updates-oct26. The supplied material does not verify that destination.",
+      "suggested_fix": "Verify the deep link before publication or use the supplied release-notes URL with a clear passage description."
+    },
+    {
+      "severity": "blocking",
+      "piece_id": null,
+      "location": "SUBMISSION.md, “Published Series” and “Evidence and Runs”",
+      "issue": "The full assignment lacks its required publications, production videos, technical demonstration, and second live run.",
+      "support": "The supplied submission says “Not yet published,” “Not yet produced,” “Not yet recorded,” and lists the second live run as pending. The assignment explicitly requires three article/video pairs, a separate demonstration, and two live runs on different days.",
+      "suggested_fix": "Complete student review, produce and publish the six audience-facing items, record the technical demonstration, perform the second live run on another day, and enter verified links and comparison evidence."
+    }
+  ],
+  "strengths": [
+    "The three pieces answer different editorial questions and avoid treating source claims or an investigation as settled findings.",
+    "The drafts connect product notes, creator accounts, measurements, and platform or legal developments while stating what those connections cannot prove.",
+    "Media references generally include timestamps, and the scripts closely track their paired articles."
+  ],
+  "limitations_of_this_audit": [
+    "Per instruction, this audit used only the supplied passages and records; it did not open links, inspect files or full transcripts, run the pipeline, or verify publication access.",
+    "Reported word counts, source dates, publisher independence, run status, and replay results were assessed as supplied rather than independently reproduced."
+  ],
+  "audited_at": "2026-10-13T18:37:55Z",
+  "run_id": "live-20261013T181427Z",
+  "model_usage": {
+    "input_tokens": 58021,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 2709,
+    "reasoning_output_tokens": 1013
+  }
+}

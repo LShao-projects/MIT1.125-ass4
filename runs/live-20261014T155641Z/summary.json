@@ -1,0 +1,68 @@
+{
+  "run_id": "live-20261014T155641Z",
+  "mode": "live",
+  "as_of_date": "2026-10-14",
+  "status": "awaiting_review",
+  "counts": {
+    "discovered": 20,
+    "extracted": 20,
+    "new": 2,
+    "changed": 2,
+    "unchanged": 16,
+    "eligible": 24,
+    "excluded": 0,
+    "accepted": 13,
+    "rejected": 11,
+    "deferred": 0,
+    "articles": 3,
+    "video_scripts": 3
+  },
+  "coverage": {
+    "eligible_by_kind": {
+      "feed": 20,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "eligible_publishers": 12,
+    "accepted_by_kind": {
+      "feed": 9,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "accepted_publishers": 12,
+    "rss_written_eligible": 16,
+    "raw_observations": 20,
+    "duplicate_observations": 0
+  },
+  "failed_or_incomplete_stages": [],
+  "elapsed_seconds": 482.3,
+  "tools_or_models": [
+    "Bash coordination",
+    "Codex CLI: configured Codex default",
+    "Python datetime UTC",
+    "Python sqlite3",
+    "Python urllib RSS XML",
+    "Python urllib original HTML",
+    "Python urllib podcast RSS XML",
+    "Python urllib podcast enclosure",
+    "original webpage HTML text",
+    "publisher podcast:transcript SRT",
+    "reused ASR transcript via data/store.sh get",
+    "yt-dlp audio-only",
+    "yt-dlp metadata + English caption JSON3",
+    "yt-dlp metadata only"
+  ],
+  "known_cost_usd": 0,
+  "unknown_cost_stages": [
+    "collect_sources",
+    "create_briefs",
+    "select_items",
+    "write_articles",
+    "write_video_scripts"
+  ],
+  "review_id": "f75b6a0eba3c3eb92ffc6cca18a96ab10f5c1c80cd781062bded836369c815cc",
+  "remaining_manual_actions": [
+    "Student review of the three articles and three video scripts",
+    "Student approval or revision recorded against the current review_id"
+  ]
+}

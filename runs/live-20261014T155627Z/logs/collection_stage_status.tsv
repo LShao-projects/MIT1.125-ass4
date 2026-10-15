@@ -1,0 +1,10 @@
+store_init	0
+fetch_feeds	1
+fetch_youtube	1
+fetch_podcasts	1
+fetch_web	1
+combine_candidates	0
+extract_content	0
+store_upsert	0
+store_list	0
+filter_items	0

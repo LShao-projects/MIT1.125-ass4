@@ -1,0 +1,313 @@
+Suno v6: generation results, and what Variety and Max Mode actually do … v6 is weak. Is this a copyright move?
+
+On September 9, 2026, Suno released v6. At the same time, all the old models, including the v5 line, disappeared from the model picker.
+
+When v5 came out it was quite a shock. As I kept using it I felt the limit of how much information tags could carry, but I still expected the coming v6 to be something like "an AI that makes all of today's popular music a thing of the past".
+
+I once made a song about that frustration and that expectation (モア・タグ).
+
+But when v6 was actually released and I actually used it, my first impression was "what makes music interesting has broken down", and I felt it was below expectations, or rather below v5. It has no major-label feel.
+
+Looking around online, people all over the world were saying at the same time that "the sound got muffled" and "it's like a blanket was put over the speakers". MusicRadar ran the headline "muffled, generic, soulless garbage", and MusicTech ran "The death of Suno". On the other hand, an engineer with 30 years of experience who holds Recording Academy voting rights compared it with v5.5 using the same lyrics and said "v6 wins on sound".
+
+This blog, ytyng.com, writes lyrics for each post and makes BGM with Suno. So I still have songs that were generated before v6. Here I evaluate v6 by comparing songs generated with v6 against songs I generated with v5 in the past.
+
+Tracks made with each v6 model, compared against v5
+
+I am very unhappy with the quality of the v6 tracks. (They are simply boring.)
+
+v6 track 1 / Three Drawers
+
+I put in the distinctive tags french electro pop, hyperpulse and glitch. The intent is to generate electronic pop with some digital chaos in it.
+
+Among the songs I have made with v5, Frozen Opacity (blog post), Turtle Badge (blog post), Antimatter(Suno), and Undersong(Suno) have the kind of sound I was aiming for.
+
+v6 track 2 / Credential Cereal
+
+The intent is for math rock to come through distinctly and to generate a solid rock sound with complex guitar cutting.
+
+Among the songs I have made with v5, Terabyte Whispers (blog post) and 秒針(Suno) have the kind of sound I was aiming for.
+
+Generation patterns
+
+All of them use Weirdness = 20% and Style Influence = 80%. On top of that, I generated with Variety in two patterns, Off and Max, and with Max Mode in two patterns, On and Off.
+
+A feature where, when a song is generated, the generative AI reinterprets your style prompt, changes it, and then generates the song.
+
+The official v6 FAQ says so.
+
+The Variety slider is designed to introduce variety in your outputs by adjusting and updating your style prompts. If you'd like to retain full control of your style tags, reduce the Variety slider to 0.
+
+So Variety is not a feature that "widens the range of randomness in generation". It is a feature that rewrites the style prompt you wrote. Only at 0 do the tags you wrote go through as they are.
+
+Suno makes two songs per generation, and the prompt is slightly different for each of the two.
+
+This time, with Variety On, I generated several times, listened to the results myself, and arbitrarily picked one per pattern, the one that was the most listenable, to publish.
+
+I enter the style above and generate with Variety = Max.
+
+It gets converted into styles like the ones above.
+
+With the style above,
+
+it gets converted into styles like the ones above.
+
+How the rewriting behaves
+
+With these prompts, the rewriting worked in the direction of making them longer. An input tag list of 10 to 12 words swells into a prose-like instruction of 30 to 50 words. And the swollen part brings in elements I did not write.
+
+In the Three Drawers example, clipped electric guitar, ticket-stamp percussion, distorted tape dropouts, close-mic verses and half-time pulse are not in the input. A vocal gender, female, was also added on its own. On the Credential Cereal side, handclaps, cash-register chimes, brass glissando and male were added.
+
+It seems to infer the arrangement from the content of the lyrics (Three Drawers is a song about drawers and a ticket counter, Credential Cereal is a song about a supermarket), and I understand the aim. But this also means you can no longer decide the style yourself.
+
+On a Korean Suno board, there was a test where someone tried this rewriting about 1000 times (DCinside). It is an anonymous post, so I could not verify it, but the tendencies it reports match the rewrite examples here.
+
+The rewrite priority is genre names > instrument names > general words. The more general a word is, the more likely it is to be replaced
+
+If you write Rock and set Max, the share of electric guitar drops to nearly half, and synths and harmonica get mixed in
+
+If you put in Japanese lyrics, a Japanese style prompt is generated, and quality can drop
+
+The recommendation is "Normal to Max for exploring, OFF for finishing"
+
+In the English-speaking world too, some point out that the rewritten prompt becomes shorter and weaker than the original (roo.beehiiv.com). This is a blog that summarizes Reddit posts, and it does not give the URLs of the original posts. In my examples the prompts got longer instead, so at least it does not seem to get consistently shorter.
+
+An option that increases the amount of computation spent on one generation. The official v6 FAQ explains it like this.
+
+Max Mode is an option you can turn on for any generation when you want v6 to spend more on getting it right. It costs more credits and it's best for: songs longer than two minutes, covers where you want the result to stay close to the original, transferring the style of one song onto another, and keeping vocals and style consistent through the whole track.
+
+The uses the official text lists are all about "consistency" and "fidelity".
+
+Songs longer than 2 minutes
+
+Covers that you want to stay close to the original
+
+Transferring the style of one song onto another
+
+Keeping vocals and style consistent through the whole track
+
+It does not say it is a feature that raises sound quality. It is positioned as "a feature for not missing", not "a feature for making it better".
+
+Token consumption doubles. Subjectively, with v6-wild, I felt that Max Mode = Off gives results even lamer than v5, and Max Mode = On gives results close to v5.
+
+Differences between the models
+
+All three models go up to 8 minutes per generation. v6 and v6-wild are Pro / Premier only, and v6-mini can be used on all plans including the free tier (official help).
+
+Suno describes it in two places, and the wording differs a little.
+
+reliable, precise and consistently delivers polished music across every genre and style
+
+Balanced, expressive, and built for a wide range of styles and prompts. Great for everyday creation.
+
+reliable, precise, consistently, balanced. All of these are words about not missing, and there is not a single word in the direction of "you get amazing songs".
+
+Other people's assessments also concentrate on this blandness. MusicRadar collected the voices of users announcing that they are canceling, under the headline "muffled, generic, soulless garbage". What the article repeats is "the sound is muffled and dull, and strangely lifeless", "the vocals get buried", and "the highs are almost gone". MusicTech's headline is "The death of Suno". On prompt adherence too, reports that the specified tempo, genre, instrumentation and duet roles are missed have been organized as multiple testimonies (jackrighteous.com).
+
+On the other hand, there are also people on the positive side. An engineer with 30 years of experience who holds voting rights in the Recording Academy's Producers & Engineers Wing compared v5.5 and the three v6 models with the same lyrics and the same prompt, and concluded that "on sound itself, v6 wins" (warmer / wider / stronger low end / depth in the mix). At the same time, the engineer also says "people who hear smearing in the vocals are not wrong, and as an engineer I hear it too" (comparison video).
+
+German-language media rate the technical side positively. They write that it understands musical concepts such as instrumentation, vocals and mood far better than the previous version, and that it is polished, radio-compatible (basic-tutorials).
+
+I think this is less a split in assessments than a difference in which axis people are looking at. Judged on "is it finished as a recording", v6 can win. Judged on "is it interesting to listen to", it loses.
+
+My assessment is the latter. Overall, I feel it deviates, in a bad way, from music theory that feels good. It makes songs where I do not feel much commercial quality, or rather much major-label, classic feel, and that keep betraying your expectations in a bad way.
+
+It feels like it has just kept learning from careless songs mass-produced by people who have not staked their lives on music, and generates from that.
+
+It does not feel usable in practice at all.
+
+Suno does not disclose the makeup of its training data. In audits of AI music training data in general, a bias was reported as of 2024: about 86% of data hours are concentrated in music from the Global North, and guitar, piano and drums are present in 52 to 67% of training clips, while sitar, tabla, accordion and bagpipes add up to under 3%. Weak niche genres are not a problem of v6 alone. They are also a structural tendency of this whole field.
+
+less predictable and more varied, producing unexpected, textured and ambitious results
+
+A more experimental take on v6. Leans into unexpected choices, genre-blending, and results that push further from the prompt.
+
+unexpected, genre-blending, push further from the prompt. It is positioned as a model that aims for creative accidents.
+
+Other people's assessments are split. A blog that summarizes Reddit cites a report, as the voice of launch-day testers, that about half of v6-wild's generations were broken and unusable (roo.beehiiv.com). A personal blog from Taiwan writes "wild distorts partway through, so you should listen to the whole thing" (jiuliyue.com). There are posts saying it gave good results with avant-garde and glitch jazz, while criticism of artifacts and repetitive generations is also recorded (jackrighteous.com).
+
+Note that in the WildSongBench scores discussed later, v6-wild is lower than v6 (6.4195 vs 6.5562).
+
+Subjectively, I feel v6-wild is a model close to v5, and it is easy to use. Something like v5.6?
+
+As far as I looked, I found nobody else who assesses it this way. The official explanation is that it is a separate model, and I have nothing that overturns that. This is only my subjective view.
+
+Officially, the line seems to be that it is suited to creative discovery, but that is not my image of it. Having used v5, I find it reassuring.
+
+Or rather, it feels a little lamer than the v5 line. So maybe "v5 minus".
+
+By the way, v5 and v5.5 can no longer be selected, so maybe they retrained on safe material only, out of consideration for commercial music licensing (pulling out the problematic stuff). Thinking of it that way, quite a lot of things make sense.
+
+I put in the tags math rock, hyperpulse and glitch, which were distinctive in the v5 days, but they do not fire very well, so it feels like there is less information, or fewer tags that take effect, than in v5.
+
+I feel v6-wild is closer to my taste than v6, but it is lamer than v5, and I feel I still need time before I can use it well. Or rather, I do not feel like using it.
+
+faster, more efficient version available to everyone … delivers better, faster results than any free model
+
+A lighter, faster variant. Ideal for quick ideas, high-volume generation, and exploring concepts before committing to a full generation.
+
+It is positioned as the only v6-line model you can use on the free tier, and the official text also says it is "for exploring ideas before the real generation". It is not sold as a model that wins on quality.
+
+Assessments mostly follow that line too. A personal blog from Taiwan writes "leaning toward safe trance pop" (jiuliyue.com). On a Korean Suno board there was an assessment that "it has a plain lo-fi feel and is worth using on purpose" (DCinside). On the other hand, some point out that it has more artifacts than the paid flagship. Reports that it surprisingly produces results worth keeping, and that it is good for remixing, are also recorded (jackrighteous.com).
+
+My impression is also that it makes sense as a lower-tier model. Compared with v6 and v6-wild, the relation is "fast and cheap, but rough", and there are situations where that roughness works as plain lo-fi.
+
+Spectrum measurement
+
+As an objective evaluation of sound quality, I also measured the spectrum.
+
+"How good a song is" has little to do with the spectrum, but this was about the only objective difference I could think of that a machine can measure, so I did it.
+
+v6 was down 2 to 3.4dB at 2 to 12kHz, and the spectral centroid was 36% lower. On the other hand, the reputation of "over-compression" was not supported. What got narrower is the bandwidth, not the dynamics.
+
+In the 40 minutes from 23:03 to 23:43 on September 22, 2026, I generated 24 tracks using the lyrics of 2 songs.
+
+Songs: 2, Credential Cereal and Three Drawers (both lyrics were made from posts on this blog)
+
+Models: 3, v6 / v6-wild / v6-mini
+
+Max mode: On / Off
+
+Variety slider: Off / enabled
+
+2 songs × 3 models × 2 × 2 makes 24 tracks. Same account, same 40 minutes, same lyrics, so the conditions other than model and settings are almost the same.
+
+For comparison, I used 12 pre-v6 tracks that are published on this blog. They were generated between July 26 and August 31, 2026, which is 10 or more days before the v6 release on the 9th, so they belong to the v5 line. The generation prompts are different from the ones I used with v6 this time.
+
+For the measurement I decoded with ffmpeg and ran an FFT. Band energy is given in dB relative to the full-band RMS, because with absolute values the ranking would move from loudness differences alone. I used only the middle 80% to avoid the fades at the start and end of each song, and excluded silent frames.
+
+The codec difference
+
+The two sets use different codecs. Suno now lets you download in m4a format, so I tried it. Before, there were only mp3 and wav.
+
+Because of that, this measurement also includes changes in characteristics caused by the codec, so please note that it is not a strict v6 vs v5.
+
+The 24 v6 tracks are Opus 132kbps / 48kHz in an mp4 container. The 12 pre-v6 tracks are MP3 about 180kbps VBR / 48kHz. Both are 48kHz, so the region where the codec's bandwidth limit affects the measurement is above 16kHz.
+
+Averages of the 12 pre-v6 tracks (mp3) and the 24 v6 tracks (m4a).
+
+Averages alone could be pulled by outliers, so I also looked at all 288 pairings among the 36 tracks.
+
+For 8-12kHz, pre-v6 is higher in 260 pairings (90.3%)
+
+For 95% rolloff it is 250 pairings (86.8%), and for spectral centroid 244 pairings (84.7%)
+
+For 2-5kHz it is 206 pairings (71.5%)
+
+True peak is the reverse: v6 is higher in 276 pairings (95.8%)
+
+The v6 side has only 2 songs, so I also split it by song.
+
+Both songs are, independently, darker than pre-v6. 8-12kHz is down by 2.3dB or more in both.
+
+I think this is what the words "muffled" and "like a blanket was put over it" refer to.
+
+However, what "muffled" means does not seem to be one single thing. A Russian-language comparison article (vc.ru) writes that when you listen to the stems alone, the vocals are more natural and the noise is reduced, but once mixed, 600Hz to 3.5kHz gets muddy and separation gets worse, and the drums become plasticky. It also says the drums were tighter in v5.5. Its conclusion is that "the generator has overtaken its own mixing engineer".
+
+What I measured is a loss above 2kHz, and what this article points out is muddiness in the midrange. These are about different bands. At least 2 phenomena are mixed into the same word "muffled".
+
+Changes in dynamics and compression
+
+One complaint repeated online is "overproduced, heavily compressed". The claim is that it has been squashed and gone flat. The audio I have is not like that.
+
+Crest factor is almost the same, 14.53 → 14.70 dB (+0.17dB). The ratio of peak to RMS has not changed = how squashed the waveform is has not changed. In the pairwise comparison too, pre-v6 is higher in 50.7% of pairings and v6 is higher in 49.3%, so there is no difference.
+
+LRA is actually 1.91 wider in v6 (3.74 → 5.65). The swing in loudness within a song has increased. In the pairwise comparison, v6 is wider in 92.0% of pairings.
+
+If compression had become stronger, crest factor should go down and LRA should get narrower. Both came out the opposite way.
+
+So what got narrower is the bandwidth, not the dynamics. Sound with no highs tends to feel "choked" or "squashed", so I understand it as an impression by ear, but the cause is somewhere else. If you stay mistaken about this and suspect the compressor, it will not get fixed.
+
+Changes in peak level
+
+As a clear change separate from compression, true peak went up from -2.35 dBTP to -0.60 dBTP. In the pairwise comparison, v6 is higher in 95.8% of pairings. Integrated LUFS also went up by 1.11dB (87.5%).
+
+Crest factor has not changed, yet only the ceiling went up by 1.75dB. That means the whole thing was raised without changing the shape of the waveform, in other words the mastering/limiter settings on the output changed. Having only 0.6dB left to 0 dBTP is a considerable improvement as far as distribution standards go.
+
+Limits of this measurement
+
+I have put out numbers, so I will also write down their limits.
+
+The biggest one is that the songs and genres are not controlled. The v6 side is 2 songs and the pre-v6 side is 6 songs, each made from a different prompt. Spectral centroid moves a lot with genre, so I have not ruled out the possibility that part of this difference, or all of it, is "because the songs are different". Running the same lyrics and the same prompt through v5 and v6 would settle it, but v5 can no longer be selected.
+
+The next biggest is the codec. As written above, the v6 side is m4a (Opus 132kbps) and the pre-v6 side is mp3 (about 180kbps VBR), and I compare them as they are. This is a deliberate choice to match the state in which they are listened to, but the possibility remains that part of the difference comes from the codec. However, 8-12kHz is a band that both codecs pass through untouched, and a 3.36dB difference shows up there, so I think explaining all of it by the codec is a stretch.
+
+Also, whether the 12 pre-v6 tracks are v5 or v5.5 is only estimated from the generation dates. I have not confirmed it.
+
+Suno's internal master should have more highs than either format, and what I am measuring is only the audio after export.
+
+What is going on with the shift to v6
+
+Where v6 stands is clear if you read Suno's own explanation.
+
+The official blog describes v6 as "reliable, precise and consistently delivers polished music across every genre and style", and puts not missing up front. v6-wild is "less predictable and more varied", and v6-mini is "faster, more efficient". And with "developed with our industry partners, including Warner Music Group, BMG and Believe", it states its collaboration with the labels explicitly.
+
+About the old models: "As v6 rolls out, we will retire our previous models and move Suno entirely onto the v6 generation."
+
+Lined up in time order, this looks less like a musical update and more like carrying out the terms of a rights deal.
+
+The download caps on September 3 and the retirement of the old models on September 9 did not coincide by chance. They were the terms announced in the settlement 10 months earlier, carried out as written. This is in Warner's press release.
+
+The content of the second suit is also interesting. UMG and Sony call v6 "the fruit of the same poisoned tree". The claim is that v6 was built using the old models' outputs, users' preference data and knowledge distillation, so obtaining licenses does not launder the infringement. The complaint lists 60,202 recordings that matched when checked with Audible Magic.
+
+Reading the complaint (PDF), the issue is not only "whether training is fair use". Circumvention of technological protection measures (DMCA §1201) stands as a separate claim.
+
+By "stream ripping" audio files from YouTube, Suno circumvented technological measures implemented by YouTube that effectively control access to copyrighted works in violation of 17 U.S.C. § 1201(a).
+
+YouTube encrypts the URL of the video file itself with an algorithm that changes periodically (rolling cipher in the complaint's words). The claim is that Suno got around it and ripped the audio. What it puts at issue is not the legality of training but how the training data was collected.
+
+The plaintiffs are 12 companies in total: UMG, Capitol and the Sony group. Warner is not among them. In the complaint it is called former plaintiff Warner Music Group, and the complaint says that in November 2025 it signed a license agreement and announced a plan to deprecate the current models. The company that settled is now the one whose history is cited by the remaining plaintiffs.
+
+To be clear, this is the plaintiffs' claim, not a finding by the court. Suno's rebuttal is that it is "fundamentally flawed, both on the facts and on the law".
+
+Still, Suno signed license agreements and moved to a new model, yet the litigation risk with two of the majors has not gone away. This can be stated as fact.
+
+The German GEMA ruling also has a wide reach when you look at its content. The Munich Regional Court applied US law to the training and then rejected fair use, and further found that the fact that songs are memorized inside the model (memorization) is itself reproduction. It also held that the EU TDM exception (§44b) does not apply (the court's press release). It rejects head-on the argument that "training is not reproduction", and although it is not final, its reach is large.
+
+Note that in the 2 weeks since the release, Suno has said nothing officially in response to the criticism of quality. Its blog and its X account carry promotion only. Meanwhile, it put out a rebuttal to the second suit the next day.
+
+Pricing and download limits
+
+Billing also changed around the same time as v6. These are the values I confirmed on the pricing page and in the official help.
+
+The download limit applies from 2026-09-03. There is no rollover (Unused downloads do not roll over.), downloading the same song in multiple formats counts once, and stems are included in that song's download.
+
+For downloads on the free plan, accounts registered before 2026-09-03 get up to 7. For accounts registered after that, no number is stated, and it says may occasionally receive trial downloads. In both cases commercial use is not allowed.
+
+Trial downloads are not eligible for commercial use.
+
+Downloads beyond the limit can be purchased additionally. The unit price is not listed officially.
+
+How generation quality actually changed
+
+The reason "it got worse" and "it got better" can both hold at the same time is that the evaluation conditions are not aligned.
+
+To resolve this, you would run the same prompt through v5 and v6, but once the old models disappeared, nobody can do a same-condition comparison with new generations anymore. People who have past generations can measure afterward, as I did here. But new conditions cannot be aligned.
+
+And Suno has published neither a listening test nor benchmark scores.
+
+The only quantitative data I found is the scores from WildSongBench (192 prompts, 9 automatic metrics, comparing 17 system settings), which the open model YuE2 publishes on its official site.
+
+Within Suno's own lineage, the score goes down from v5 → v6.
+
+However, these numbers were put out by the developers of a competing open model themselves, and I find no independent verification. On top of that, they compare their own model using best-of-8 (generate 8 times and pick by SongBench Musicality) and the other systems using a different selection method. They are also automatic metrics, not a blinded human listening test. The site itself notes that direct comparison is methodologically complicated because the selection procedures are not aligned. It is hard to adopt this as decisive evidence.
+
+If I were to switch
+
+If you want high-quality AI music generation, what should you do from now on? I feel Suno is not among the options.
+
+As far as I looked, the commercial services you could switch to are not promising. Udio has stopped downloads since October 2025, so you cannot take anything out. ElevenLabs Music v2 limits film, TV and game use to Enterprise in its terms.
+
+The realistic direction is to run an open model locally, and after reading the licenses, ACE-Step 1.5 became my first candidate.
+
+"Open weights" means neither "open source" nor "unconditionally usable commercially". If you look only at benchmark scores and go with YuE2, you get stuck on the license when using it at a company.
+
+That said, it is not as if the open models carry no rights risk. The only ones that disclose their training data are about YuE2 (mostly CC0 and synthetic data) and ACE-Step (licensed songs + PD + MIDI synthesis). The others do not disclose it.
+
+The storyline "license cleanup lowered the expressiveness of commercial models, and as a result open models got room to catch up" is interesting as a story, but there is nothing at all that shows causation. It only looks that way.
+
+Summary of the Differences Between Suno AI’s Remix, Inspo, Mashup, and Sample Features
+
+How to Convert wav to m4a with Tags Toyota Car Navigation Can Read
+
+Commercial Use of macOS Say Command (TTS) Output is Prohibited

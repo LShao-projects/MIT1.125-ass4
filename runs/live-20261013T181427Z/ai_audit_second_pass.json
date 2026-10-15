@@ -1,0 +1,152 @@
+{
+  "drafts_ready_for_human_review": true,
+  "assignment_complete": false,
+  "checks": [
+    {
+      "requirement": "Three distinct editorial purposes, arguments, synthesis, and meaningful limitations",
+      "status": "met",
+      "evidence": "Piece 01 examines the October Studio changes, piece 02 scrutinizes quality and control tests, and piece 03 develops pre-release checks. Each connects multiple sources and states what the evidence cannot establish."
+    },
+    {
+      "requirement": "At least three independent publishers support each article",
+      "status": "met",
+      "evidence": "Piece 01 cites Suno, On a Creative Journey, and MusicRadar; piece 02 cites four publishers; piece 03 cites at least seven."
+    },
+    {
+      "requirement": "Traceable claim evidence and media timestamps",
+      "status": "partial",
+      "evidence": "Claim IDs, source versions, exact text passages, and media segment times are supplied. Some reader-facing links differ from the supplied source URLs and cannot be verified here."
+    },
+    {
+      "requirement": "Factual scope and uncertainty",
+      "status": "partial",
+      "evidence": "The drafts generally attribute company claims, distinguish an investigation from a finding, and limit conclusions from small tests. Piece 02 calls WaveDisco's songs 'self-written,' which its supplied method passage does not establish."
+    },
+    {
+      "requirement": "Articles of approximately 600–900 words",
+      "status": "met",
+      "evidence": "Supplied body counts are 752, 754, and 809 words."
+    },
+    {
+      "requirement": "Paired audience-facing scripts of approximately 3–5 minutes",
+      "status": "partial",
+      "evidence": "All three scripts exist and track their articles' central claims. Supplied narration counts are 402, 268, and 266 words; pieces 02 and 03 need a read-through or expansion to substantiate their stated runtimes."
+    },
+    {
+      "requirement": "All input types and minimum source coverage",
+      "status": "partial",
+      "evidence": "The supplied corpus lists 21 eligible items from 12 publishers, including at least two feed, two podcast, and two YouTube items. Feed, YouTube, and podcast evidence appear across the series. Collection, transcript provenance, and publisher independence cannot be independently checked from the supplied passages."
+    },
+    {
+      "requirement": "As-of date and 30-day freshness",
+      "status": "partial",
+      "evidence": "All six drafts state 2026-10-13 UTC, matching the supplied run metadata. Listed supporting publication dates fall within September 14–October 13. Whether those dates and the actual execution date were verified cannot be established here."
+    },
+    {
+      "requirement": "Editorial decisions, student review, and policy revision",
+      "status": "partial",
+      "evidence": "Decisions and a policy rerun are described, but several accepted items assigned to piece 02 do not appear in that piece. The submission says the policy rerun changed reasons but no selections or piece assignments; final student draft review remains pending."
+    },
+    {
+      "requirement": "Two live runs on different days and repeatability demonstration",
+      "status": "not_met",
+      "evidence": "The submission explicitly marks the second live run pending. Its same-input and failure exercises are labeled replays."
+    },
+    {
+      "requirement": "Published articles, videos, cross-links, and technical demonstration",
+      "status": "not_met",
+      "evidence": "The submission lists all three Substack articles as 'Not yet published,' all three YouTube videos as 'Not yet produced,' and the technical demonstration as 'Not yet recorded.'"
+    },
+    {
+      "requirement": "Architecture implementation and saved run artifacts",
+      "status": "unverifiable",
+      "evidence": "The submission describes implemented scripts and artifact paths, but their files and behavior were not supplied for this audit."
+    }
+  ],
+  "findings": [
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Piece 02 video script, timed sections 0:00–4:00",
+      "issue": "The four-minute timing is not substantiated by the amount of narration.",
+      "support": "The supplied count is 268 narration words, about 67 words per minute over the scripted four minutes. The assignment calls for an approximately 3–5 minute audience-facing video.",
+      "suggested_fix": "Time a spoken read-through and add substantive explanation or examples if it falls short."
+    },
+    {
+      "severity": "important",
+      "piece_id": "03",
+      "location": "Piece 03 video script, 'Estimated narration: 3–4 minutes'",
+      "issue": "The estimated runtime is not substantiated by the amount of narration.",
+      "support": "The supplied count is 266 narration words. The assignment calls for an approximately 3–5 minute audience-facing video.",
+      "suggested_fix": "Time a spoken read-through and expand the audience-facing explanation if needed."
+    },
+    {
+      "severity": "important",
+      "piece_id": "02",
+      "location": "Decisions assigned to piece 02 versus brief 02 and its article/script",
+      "issue": "Several accepted, assigned sources never contribute to the stated piece.",
+      "support": "The decisions assign the Suno lawsuit report, MusicRadar's Todd Edwards interview, Dazed's Zemi interview, and the Notes on Work podcast to piece 02. None appears in brief 02's claims or either piece 02 draft. The architecture requires recording which article uses each selected item.",
+      "suggested_fix": "Reconcile the piece assignments with actual use, or develop and cite a relevant claim from an assigned source."
+    },
+    {
+      "severity": "minor",
+      "piece_id": "02",
+      "location": "Article and script, 'WaveDisco’s author regenerated three self-written songs'",
+      "issue": "The supplied passage supports three songs but does not establish that the author wrote them.",
+      "support": "The exact passage for 02-c1 says, 'Three songs, four model versions each, same lyrics and prompt every time.' It does not say 'self-written.'",
+      "suggested_fix": "Remove 'self-written' unless a supporting passage is added."
+    },
+    {
+      "severity": "minor",
+      "piece_id": "01",
+      "location": "Article and script source notes for Suno's October Studio update",
+      "issue": "The reader-facing deep link is not the source URL supplied with the evidence.",
+      "support": "The exact passages identify https://blog.suno.com/release-notes; both drafts cite https://blog.suno.com/release-notes/studio-updates-oct26. The supplied material does not verify that deep link.",
+      "suggested_fix": "Verify the deep link against the retained source or cite the supplied release-notes URL with a clear passage locator."
+    },
+    {
+      "severity": "important",
+      "piece_id": null,
+      "location": "Submission, Editorial Review",
+      "issue": "The documented policy rerun does not yet show the required change in choices or synthesis.",
+      "support": "The assignment asks for a policy revision, rerun, and documentation of how choices or synthesis changed. The submission says the rerun 'changed no accept/reject decisions or piece assignments; it made the reasons more precise.'",
+      "suggested_fix": "Document a demonstrable synthesis change from the revised policy, or make and assess a further targeted revision."
+    },
+    {
+      "severity": "important",
+      "piece_id": null,
+      "location": "Submission, Evidence and Runs table versus supplied run summary",
+      "issue": "The first live run's elapsed time is inconsistent.",
+      "support": "The submission table says 372.6 seconds; the supplied summary for live-20261013T181427Z says 1191.4 seconds.",
+      "suggested_fix": "Reconcile the figures and state clearly if they measure different stages."
+    },
+    {
+      "severity": "blocking",
+      "piece_id": null,
+      "location": "Submission, Published Series and Evidence and Runs",
+      "issue": "The required publications, technical demonstration, final student review, and second live run are outstanding.",
+      "support": "The submission explicitly marks all three articles unpublished, all three audience videos unproduced, the technical demonstration unrecorded, final student review pending, and the different-day second live run pending.",
+      "suggested_fix": "Complete the student review and revisions, run the pipeline on a different day, produce and publish the three pairs, record the technical demonstration, and verify every submitted link."
+    }
+  ],
+  "strengths": [
+    "The three pieces answer different editorial questions and keep conclusions proportionate to the supplied evidence.",
+    "Each article uses at least three independent publishers and includes a meaningful limitation.",
+    "The drafts generally attribute interested parties' claims and provide media timestamps.",
+    "All three article word counts fall within the requested range."
+  ],
+  "limitations_of_this_audit": [
+    "This audit used only the supplied material; no links, files, transcripts beyond the quoted passages, pipeline commands, or publication pages were opened.",
+    "The supplied word counts and run records were treated as representations, not independently recalculated or authenticated.",
+    "Video runtime cannot be confirmed without a spoken read-through or finished videos."
+  ],
+  "audited_at": "2026-10-13T18:35:46Z",
+  "run_id": "live-20261013T181427Z",
+  "model_usage": {
+    "input_tokens": 58032,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3597,
+    "reasoning_output_tokens": 1552
+  }
+}

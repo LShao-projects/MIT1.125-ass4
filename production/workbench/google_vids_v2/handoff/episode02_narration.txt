@@ -1,0 +1,17 @@
+[0:00–0:35]
+You kept that phrase for your demo. Now you have two imaginary exports. A looks louder on a meter. B follows the melody you originally wrote. Which would you send to a collaborator? Don't answer yet. This is an imaginary choice, but it reveals a real problem with the word “better.” Are we judging the exported file, or the music we wanted to make? Let's test those questions separately.
+
+[0:35–1:14]
+Start with the exact file you would send. Loudness measures its average level; True Peak checks brief signal peaks. WaveDisco measured those properties in three songs across four Suno model versions, using the same prompt and lyrics for each song. The measurements did not point in one consistent direction from v5.5 to v6. So the meter beside our version A cannot tell this songwriter that newer is better for the demo. It answers a narrower question about particular files.
+
+[1:14–1:49]
+Even the export setting can complicate that answer. WaveDisco reported a WAV-versus-MP3 loudness gap that disappeared in its v6 comparison, but only two songs had both formats. Imagine sending the wrong file because you assumed every export would behave that way. The practical move is to inspect the exact file you plan to publish. That two-song result is a reason to check, not a guarantee about yours.
+
+[1:49–2:24]
+Then another chart enters the picture. Writer ytyng reported less high-frequency energy in the v6 files they examined. Is that proof our version B sounds worse? No. Their earlier and later songs used different prompts, and the exports used different codecs, or ways of encoding sound. Several things changed at once. The chart describes those files, but it cannot tell us the model alone caused the difference. Our A-versus-B choice is still open.
+
+[2:24–3:04]
+Put the meter aside. What happened to the idea? One creator tried more detailed directions, liked a later vocal better, and also said repeated generations and Studio cleanup may have contributed. Andrea Olson tried an uploaded voice memo and said Suno kept much of its melody, though she still heard an AI quality. These are useful examples of creators listening for something specific. They are individual accounts, not an average result. Olson also promotes her own program; that context belongs with her account.
+
+[3:04–3:48]
+So, back to A or B. I cannot choose for your imaginary song, and these sources cannot choose for your real one. But they give you a better test. First, check the file format you will share. Then compare the result with your original melody, vocal direction, and arrangement. Try more than one generation before calling a prompt a success or failure. A clean meter cannot tell you whether the demo still follows your melody. And a moving melody cannot replace an export check. Once you find a version you want to release, one more question appears: what should you know before you press Publish?

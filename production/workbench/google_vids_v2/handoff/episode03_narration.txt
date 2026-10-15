@@ -1,0 +1,17 @@
+[0:00–0:34]
+The song is ready. Your cursor is one click from Publish. Then a simple question stops you: can you show what you made, what Suno generated, and what you changed afterward? If those pieces are scattered, leave the cursor here for a moment. We are following the same fictional songwriter. Before this song goes out, three questions need answers: who made which parts, what rules apply, and how a listening platform may classify the track.
+
+[0:34–1:18]
+First question: what did you contribute? Artist Zemi described making beats and toplines, singing, using Suno to change the voice, then mixing the result himself. That is one artist's workflow. Josh of JG Beats Lab suggests keeping a folder for each song with a dated demo and lyric sheet, so the steps can be reconstructed. Andrea Olsen describes using Suno to explore ideas rather than calling its output her finished product. Those three creators make different choices. For our musician, the useful action is to save the actual inputs, generated versions, and later edits, with dates.
+
+[1:18–2:02]
+The folder is full, so can we click now? Not yet. A record of your process helps explain it; it does not tell you which rights you have. Italy's Competition Authority opened an investigation into Suno's terms, including a copyright license the authority says the terms impose on consumers. That is an investigation, not a ruling. For this song, the immediate job is more concrete: read the current terms for the account you used, note their date, and check the rules of the service where you plan to release. We do not have those current primary terms or your distributor's rules in this evidence set.
+
+[2:02–2:45]
+A headline about training data flashes on your screen. Is that the same question? No. Suno says v6 used licensed partner content and community interactions, including creations. Sony and Universal allege unlicensed copying of recordings; Suno disputes that. Separately, the Los Angeles Times reported that some AI music licensing deals had not disclosed details such as artist payouts, opt-ins, and individual control. Those disputes matter. They do not tell this musician whether this particular upload meets the terms on their screen. Keep the industry question visible, but do not let it answer a different one.
+
+[2:45–3:23]
+The last question is about discovery. Deezer says it plans a search option that would let listeners filter fully AI-generated music. A listener might choose that setting. But from this report we cannot tell whether the option is already live, or how a song with human input and Suno assistance would be classified. So don't predict lost plays for our musician. Check the destination's actual policy and classification before claiming you know the reach.
+
+[3:23–4:04]
+Now return to Publish. What can we answer? The musician can keep a dated trail of their own work, read the current terms and release service rules, and watch for platform policies that actually take effect. The folder does not grant ownership or legal clearance. It does make the next questions specific. If a rule is still unknown, the click can wait while you verify it. That is the point of this series: start with a musical idea, test what the tools really do for that idea, then decide what you can responsibly release.

@@ -1,0 +1,635 @@
+So, you've got a voice memo [music] on
+your phone that nobody has ever heard. 2
+in the morning, humming into the dark
+because the idea showed up and you
+didn't want to lose it. There are
+probably a hundred of them in there if
+you're [music] anything like me. I just
+took one of mine and I put it into four
+AI models. [music] I'm not talking about
+a finished AI model output. No, the
+rough phone recording of something I
+wrote and never released. These four are
+not doing the same job. [music] Some
+work from your melody. One of them only
+takes the feel of your recording and
+builds [music] something else entirely.
+And it says so in the own documentation
+if you go look for it. And the fourth
+one isn't a music model at all. And
+[music] it really has no business doing
+this. But I'm going to do it anyway.
+Today I'm uploading the same voice memo
+[music] into four different AI models.
+And I'll show you what it did, what it
+didn't, and what surprised me about the
+whole test and what this means for
+musicians, producers, and artists
+wanting to build a career in music
+[music] with longevity. and stick with
+me to the end because there's a hidden
+benefit in here that everyone might be
+missing. Let's get into it.
+I'm going to take [music] one of my
+voice memos. I actually scrolled way
+back from several years ago and I found
+a song that I worked on actually quite a
+bit. [music] I have several voice memos
+and I just never released it. I didn't
+think it was good enough or I just it
+didn't make the cut when I went to the
+writing room for whatever reason. It's
+still in there. And I went back and
+listened to it. And this is the
+interesting thing about being a musician
+distance from it. I came back to it and
+I'm like, "Huh, there's actually some
+pretty good stuff in there. I like this
+one." And so, I'm going to upload this
+to four different models. And I want us
+to see and test what the model actually
+gives us and what we can learn from it
+as producers. Now, if you're new here,
+my name is Andrea Olsen. I own Produce
+Like a Boss. I'm an artist, a musician,
+and a producer. And my goal is to help
+you produce, protect, and profit from
+your music so it never becomes something
+that you used to do. We talk a lot about
+AI and music on this channel because I
+do think that it can be a valuable tool,
+but it can also be a very risky one. And
+so, we have to be aware of what we're
+feeding into these models, the terms of
+service, the conditions, all of those
+things before we begin to upload our
+songs. So, first of all, what I'm going
+to do is I'm going to show you a way
+that you can actually protect your stuff
+before you put it in. Now, of course, we
+always recommend going to the US
+copyright office, getting that
+registered copyright before you do any
+sort of uploading, whether it's just the
+lyrics, etc. So, here's what I love to
+do. In addition to the registered
+copyright and making sure that you have
+those official registrations, I also
+like to use instant IP. This uses
+timestamped blockchain technology to
+protect your idea. you can actually
+upload the file. And so what I do is I
+come into Instant IP into my portal. I
+grab the file, the voice memo. I just
+hit upload here and I'm going to go into
+my downloads. It's right here. The song
+is called the mighty power of Jesus
+name. The music that I write is in the
+Christian music genre. And so this song
+is called the mighty power of Jesus
+name. This is a song written in 2019 by
+Andrew Olsen. There we go. Now, name,
+description, and files cannot be changed
+once it's protected. So, you always want
+to make sure that your information is
+accurate. And then you just hit next
+step and it walks you through the
+process of getting that finished. And
+boom, you're done. If you want to do
+this and learn more about it, you can go
+to instantip.app
+and actually if you use the link in our
+description, you can get a free
+contract. So after I've done that, then
+I'm going to go into Sunno and run this
+first model on this voice memo.
+Okay. So now we are inside of Suno. And
+what I'm going to do is I'm going to
+grab the audio. So I'm just going to hit
+upload after I've got this protected and
+registered. And now when I talk about
+being comfortable with uploading this
+here, this is what I want to draw your
+attention to while this is uploading is
+it's so important for us to understand
+the terms and conditions. And now Sunno
+has been under a lot of fire. And if
+you've watched our other videos, you
+know that. And if not, go ahead and
+watch those because they have had a lot
+going on over the last couple of years
+with lawsuits. They've been training
+their model on stolen data. But also,
+the really important thing to understand
+is that in their terms and conditions,
+they say whatever you upload, we can use
+it to train our model. Okay. Now, here,
+what rights do I have with a paid
+subscription? Okay. You can use your
+monthly a lotment of credits. You can
+download your tracks. You can monetize
+them. However, keep in mind granting
+commercial use rights does not guarantee
+copyright protection. And this is we've
+talked about this a lot that a fully
+generative AI output may not qualify or
+right now does not qualify for a
+registered copyright in the United
+States. And so it's important for us to
+understand in addition to everything you
+upload trains its model to also pay
+attention to what rights you have with
+the music once it's uploaded. Okay, so
+here is the deal. So, it pulled the
+lyrics for me. These are my lyrics. And
+so, I'm just going to go in and edit
+them here. Okay. So, now because it
+analyzed the audio, it also gave me a
+style from the voice memo. But I want to
+create something different, right? So,
+here's what we're going to do. We're
+going to write a prompt that gives a
+little bit of a faster BPM. But before I
+do that, I want you to hear a little bit
+of this raw voice memo. We're talking me
+sitting at my piano just belting it out.
+Nothing pretty, nothing polished, but
+this is what we've got that we're
+working with.
+[singing]
+>> There's power in the name of Jesus.
+There's victory in [singing] the name of
+Jesus
+and this [singing] is the name we
+praise.
+[music]
+Okay, so that gives you an idea of the
+song. So now what we're going to do is
+we are going to write a prompt here.
+We're going to get some styles. Okay. So
+this is going to be a beatdriven worship
+song mid-tempo. Probably like a little
+faster than that.
+One, two, three, four. That's like a Let
+me pull up my metronome here.
+108. Okay. So, we're going to say
+mid-tempo 108 BPM,
+female vocal. Don't change the melody. I
+want full band acoustic guitar driven
+with
+uh piano, bass, electric guitar, fast
+opener, worship song for corporate
+church setting.
+So, let's go with that. And then we want
+female. And then I'm just going to leave
+these standard here. Just kind of leave
+it as it is. So now let's see what it
+creates. Okay.
+[singing]
+>> Jesus. [music]
+Jesus.
+And this [music and singing] is the name
+we praise
+Jesus. [music]
+Dark runs away from Jesus.
+Fear cannot stay with Jesus.
+And this [music] is the name we praise.
+Oh, the [singing] mighty power of Jesus
+name.
+[music]
+>> [music]
+>> So Sunno understood the assignment for
+the most part, right? I mean, it still
+sounds like AI, but when you say fast
+opening worship song for corporate
+church setting, it understood the
+assignment. I said, "Don't change the
+melody." It didn't change the melody.
+And there was a couple typos in my
+lyrics, which obviously then the robot
+doesn't know that. So, it's singing the
+a little bit of the wrong lyrics here
+and there. Full band, acoustic guitar
+driven. It It did a pretty good job. But
+here's the thing. Now, you still have a
+fully generative AI output, and that's a
+whole separate conversation in and of
+itself. But did it understand the
+assignment? Yes, it did. Did it follow
+my directions? Yes, it did. Did it stick
+with the melody? Yes, it did. But does
+it sound like AI? Yes, it does. So, that
+is Sunno. But now, I have to be okay
+with the terms of service. I had to be
+all right knowing like, hey, I'm
+uploading this thing. It's training the
+model. Obviously, it's still mine. I
+still own it. I have it registered. I
+have it protected. All the things. But
+at the same time, I have to be okay with
+that. And so, for me personally, I'm
+mindful what I would upload to an app
+like because it's using it to train its
+model, which then means everybody's
+songs are somewhat derivative. Even if
+even though I'm putting the melody and
+the lyrics in and that's mine, the
+instrumentation, right? Like I said, it
+understood the assignment. It's
+derivative.
+So, what I'm going to do is I am going
+to use the exact same prompt over here
+so we really have a clean test. And then
+I'm going to upload audio.
+Okay. So, I went to try to do that and I
+had to pay. So, taking one for the team
+here, guys. By uploading this file, you
+attest you have the right to use and
+distribute this file. So that's
+important, right? And so here's what I
+am going to do is I am going to do a
+remix of this song. So I'm uploading.
+It's processing. Okay. So it's only
+going to use a short section of this.
+And it also is asking, do I want to put
+my lyrics in? So yes, I want to put my
+custom lyrics in. So I'm going to grab
+those because actually Sunno pulled them
+out for me. And so here are my lyrics.
+All right. So it asked me to select a
+voice. And so I just picked one of their
+pop voices and I'm very interested to
+see what this does. Now, as we're
+waiting for this, I want to point out
+the terms of service here with UIO.
+Okay, so one of the things with UIO is
+that it's very clear saying you have to
+make sure that what you're uploading
+that you own it. Okay, so you represent
+that you've obtained the rights, the
+licenses, you own it, right? So also
+UDIO is saying that it does not claim
+ownership in your content. Okay. So,
+let's see what we've got here. [music]
+[singing]
+[music]
+>> There's victory in the name
+[music]
+Jesus.
+Power in the name [singing] of [music]
+Jesus.
+Victory in the name of Jesus.
+>> Okay. So basically what it did is just
+right out of the gate what I gave it the
+exact same thing that I gave Suno, it
+just used my voice memo and it put a
+different voice over it. So what we
+learned with Ude is that when you use
+that model for just a remix, it just
+takes your your voice memo your song and
+basically does exactly that remix. So
+it's a little bit of different language
+than that word means inside of Sunno.
+However, it's interesting to note that I
+know there are more capabilities within
+Udio, but it's also a very different
+model. So, maybe you've got your
+finished song and you are going to use
+something like UIO to try to master it,
+right? Or maybe you are just going to
+upload a bass part or a piano part and
+it's less finished product than it is
+one piece of the process. So Sunno seems
+to give you a finished product and UDIO
+is like one piece of the process. Now I
+understand for those of you who are
+power users inside of UDIO that there's
+a lot more options, but I just wanted
+face value. Get in there real quick.
+Let's see what happens and talk about
+how we could use it. Now the other thing
+to note with UIO is that while it is
+trained on licensed data, you also are
+uploading your music to let it train its
+model. And so it's the same kind of
+conversation that we just had about
+Sunno.
+Now, I want us to sit here with this for
+a second because we're talking about
+similar tools that have very different
+purposes. And when it all comes down to
+it, the reality is that a lot of this
+takes a lot of work and a lot of skill.
+And there are skills that you need to
+build as a producer, as an artist, as a
+musician, not only inside of a DAW, not
+only as a musician within your craft,
+but also on the business side of it. And
+that's why Produce Like a Boss exists.
+We exist to help you build a life in
+music that you love. So music never
+becomes something that you used to do.
+And so whether you are using a fully
+generative AI app or you are choosing to
+use assistive AI only, the issue is that
+we can get lost and bogged down by all
+of this information and then we just get
+overwhelmed and we want to throw in the
+towel. And that's because there are so
+many jobs that you have to do by
+yourself as an artist, as a musician, as
+a producer, that other people, if
+they're signed with a label, they get
+those done for them. You still need the
+jobs done, but you just don't have
+anyone to do them for you. So, I created
+Paid toMake Music Week, which is going
+to help you build those jobs for your
+business. Why does it matter? because
+you need all four of them working in
+tandem so that you can continue to do
+the thing you love to do and that's make
+music. We call it MAPS at Produce Like a
+Boss. It stands for music, admin,
+promotion, and systems. And what we're
+going to do at paid to make music week
+is we are going to take one day on each
+of those jobs and we're going to dive
+deeper and put a system around it so
+that you know for music when music is
+actually done. For admin, you know what
+needs to be registered, when, and how.
+Just like I did at the beginning, I know
+what needs to be registered. I know
+when, I know where, and I know how. And
+it's fast. Then we go to the promotion.
+The promotion is, well, where do I even
+go? What do I even promote? How do I do
+it? We build a system around it. And
+then for systems, it's all of those
+backend pieces that keep the business
+moving when life gets really busy and
+crazy. And then on Friday of that week,
+we are going to build your 12 month
+income map so you walk away with your
+clear next steps for the next day and
+the entire next 12 months. Paid to make
+music week is one hour a day live with
+me and you're going to walk away feeling
+confident and having clarity around your
+next steps as a musician. If you're
+already making money with your music,
+but you want to build something that
+doesn't drive you crazy, then this is
+for you. The link, the information, the
+tickets are all in the description. Go
+grab it right after this cuz we are
+headed to the next tool which is 11
+Labs.
+So 11 Labs here. I did have to subscribe
+to be able to do this, but I'm going to
+upload this voice memo to be able to
+edit it. Okay. Acknowledging I own it.
+Yes. Okay. Excellent. Now, something
+that's interesting about 11 Labs as I've
+been digging through the terms and
+conditions is that they actually allow
+you to opt out. So, you can opt out.
+However, they are saying like we process
+your input, right? Like and any other
+information you provide in connection
+with your use of the services. However,
+there is an option in there where you
+can opt out to have it not train the
+model, which is really fascinating. And
+so, we've got mighty power of Jesus
+name. We've got it uploaded here. And
+what I'm going to do is to keep it a
+clean test is I am going to upload the
+same prompt here as I did there. So,
+we're going to go back. Here's describe
+the song. And here are my custom lyrics.
+All right. And I think it was about two
+minutes before. So we'll do this and
+then we're going to hit go and see what
+happens.
+[music]
+Jesus power.
+There's victory [music]
+in the name of [singing] Jesus.
+>> Let's hear the other one.
+>> [music]
+>> uses. [music and singing]
+>> Okay. So, within 11 Labs, what did we
+see? It did not follow my prompt. It
+changed the melody. It changed the
+tempo. It changed the key. It changed
+the instrumentation.
+However, where could you use this? Could
+you use this as an ideiation tool? I
+mean, I think so. And I think that's
+what a lot of producers are doing.
+They're using it for ideiation. I talk
+with so many producers inside of the
+industry who are working with label
+artists who are flying all over the
+country doing rights and albums and all
+the things with different people and
+they're like, "Yeah, I mean, I'm not
+going to use a pseudo output for the
+final product. However, if everyone's
+okay with it, we may use a fully
+generative AI app to get ideas." And
+that's where this could be really
+helpful. Now, can you edit the song?
+I've not done this here inside before,
+but here we go. So, you could go
+through, you could do some fine-tuning
+edits, which actually that's kind of
+cool. If it actually worked, that's
+really great. So, you could do that.
+Now, what is different about 11 Labs?
+Well, 11 Labs have from the beginning
+talked about how it's not using your
+data to train its model. If you want to
+turn that off, you can. It's also it was
+very clear saying, "Hey, we are trained
+on licensed data." And so, that is
+number three. Now, I want to go to
+number four. And you're probably going
+to say, "What in the world are you
+thinking here?" But stick with me
+because I think there's a hidden gem
+inside of here that people might be
+missing.
+So, if you hop inside of Chat GPT, and I
+know what you're thinking. What are you
+talking about? But this is really
+interesting. I said to it, I said, "I'm
+going to upload a voice memo. What can
+you do? Can you edit it?" And it says,
+"Yeah, I can do that." that. And I said,
+"Really? What do you mean? It's going to
+give me text, the key, the BPM, the time
+signature, the chords, the melody, the
+phrasing." Well, all of a sudden, this
+could work as an ideiation tool, but
+also to give you some pre-production.
+Have you ever opened up your DAW and
+felt like, "Oh my goodness, I don't even
+know where to start." Well, could you
+use this as a pre-production tool? Let's
+find out. So, what we're going to do is
+we are just going to upload that voice
+memo and we're just going to see what
+happens. I'm going to say, "Okay,
+go for it. I want all of that. Okay. So,
+we're going to let that process for a
+second and we're going to see what
+happens.
+Okay. So, look at this. 205 very
+strongly in D major. 108 BPM.
+Musically, I treat the song as 54 BPM in
+halftime. Worship ballad. Okay.
+Okay.
+It's got kind of an outline.
+It actually I didn't tell it anything.
+Intro chorus. you know, bridge,
+whatever. But it kind of f figured out
+the outline. Um, modern congregational,
+not overproduced CCM. Okay, this is
+really interesting. So, what it's doing
+is it's basically giving an analysis of
+the production that it might hear based
+on the lyrics. And it's interesting
+because it kind of understands the
+assignment like Sunno did. And I didn't
+even give it that much. Obviously, it's
+not music. It's just text. But this is
+really fascinating. It also gave me the
+keys. I actually didn't know that
+ChachiPT could do that. It gave me the
+chords, both the Roman numerals, not
+natural numbers, but the Roman numerals
+and similar we could write just 1465,
+right? To get the natural numbers and
+then the regular notation. It gave kind
+of the unique chords that I used in my
+voice memo. Okay, this is really
+interesting. How could you use this?
+This could be a great baseline for your
+production. you could open up your DAW
+and then you would be off to the races
+with a general idea. And I think that's
+kind of interesting. And honestly,
+that's what I was talking about at the
+beginning. This is the one tool that I
+think everybody might be sleeping on.
+And I know what you're thinking. Maybe
+that's the stupidest thing you've ever
+heard. But if you are thinking through
+the lens of how could I use AI to make
+me smarter, make me faster. What if
+you've got a whole bunch of voice memos
+that you're like, you know what, I don't
+mind uploading a couple of these to Chat
+GPT. Now, same thing. it's going to use
+your data to train its model and you can
+turn that off but I don't fully know if
+it's completely turned off you know do
+we know I don't know but at the same
+time as long as I have the things
+protected and I'm comfortable even with
+a snippet if it's not the whole thing
+this would give me a great baseline to
+open up my dot and build something from
+which I think is really cool
+let's bring this all home because you
+might be thinking okay this is cool
+there's some options ions here. What
+does this mean for me? Well, if you're
+looking for that fully generative AI,
+whole thing, big package, you want the
+whole package. Well, you're going to
+want to use Sunno. Now, for me
+personally, I'm not using Sununo very
+often, and I'm not using it as my
+finished product. If I use it, I'm just
+going to use it to ideulate. Like, oh
+man, I kind of want to hear this voice
+note in this style, or I've got an idea.
+I'm just going to sing this in here and
+I want to hear it. What could this
+style? What could this style sound like?
+Right? and then I'm going to pull it
+into my DAW. Which is why at Produce
+Like a Boss, we teach you how to build
+it in your DAW because you need to have
+that skill, right? You can use that
+skill forever and that can't be taken
+away from you like a machine learning
+model's terms could change overnight. So
+then if you're going to use something
+like u that could be maybe for something
+really specific if you wanted a baseline
+or a guitar line or something like that
+that you wanted to put in there and have
+it analyze that or have it give you
+ideiation on how to move it forward. You
+could do that. Then what about 11 Labs?
+Well that one again more ideation. It's
+not it doesn't really follow the prompt
+very well. At least from my initial
+pass. Now, the more you work with it, I
+imagine the better it gets. But if you
+just want to jump in and do it quick,
+well, out of those three options, you're
+probably going to choose one over the
+other based on what you're looking for.
+But I think it's interesting if we think
+through the lens of using AI with us,
+not instead of us as assistive, not
+fully generative, but also because I
+care about you and about you owning what
+you create. And that's why I want us to
+pay attention. and I'm paying attention
+to what the terms of service say so that
+I know am I okay uploading this one? Do
+I really want to do that? Or do I just
+want to use it to assist me to make me
+sharper, faster, better, but then still
+build the thing inside of my DAW and
+just use this to kind of assist me in
+the process. Now, with Chat GBT, I think
+it's fascinating where you could upload
+this voice memo. It hasn't always been
+able to do that, at least as far as I
+can tell. It's really interesting that
+it's giving production notes. Now, would
+I use all of these? No. It got real, you
+know, like, oh, it should probably land
+around 4:45, not 205. Okay, thank you,
+chat. But I do think that it gives me a
+starting point that is [music] beyond
+the blank page where I'd open my DAW and
+say, "Okay, 108, [music] key of D here.
+Let me put my markers in. Let me get
+this thing built out a little
+pre-production." [music] And I think
+that's pretty cool. So, there's some
+ideas for you. That's maybe how I would
+use some assistive AI or if I was going
+to use fully generative AI, that's the
+way [music] that I would do it. But it's
+fascinating to see a clean test of the
+same voice memo doing completely
+different things in four different
+platforms. So tell me, which one would
+you use and how would you use it? And if
+you're still thinking about paid to make
+music week, wondering what it's [music]
+like and if it's for you, just click
+that link in the description and I will
+see you there. That's all I've got
+[music] for you today and we'll see you
+in the next one.

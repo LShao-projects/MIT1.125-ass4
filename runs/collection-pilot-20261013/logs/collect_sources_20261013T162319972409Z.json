@@ -1,0 +1,31 @@
+{
+  "stage": "collect_sources",
+  "status": "complete",
+  "stage_exit_codes": {
+    "store_init": 0,
+    "fetch_feeds": 0,
+    "fetch_youtube": 0,
+    "fetch_podcasts": 0,
+    "fetch_web": 0,
+    "combine_candidates": 0,
+    "extract_content": 0,
+    "store_upsert": 0,
+    "store_list": 0,
+    "filter_items": 0
+  },
+  "counts": {
+    "candidates.jsonl": 12,
+    "items.jsonl": 12,
+    "changes.jsonl": 12,
+    "corpus.jsonl": 12,
+    "eligible.jsonl": 12,
+    "exclusions.jsonl": 0
+  },
+  "finished_at": "2026-10-13T16:23:19Z",
+  "tools_or_models": [
+    "Bash coordination"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "errors": []
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "store_upsert",
+  "status": "complete",
+  "input_count": 20,
+  "output_count": 20,
+  "started_at": "2026-10-13T18:14:52Z",
+  "finished_at": "2026-10-13T18:14:52Z",
+  "tools_or_models": [
+    "Python sqlite3"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": []
+}

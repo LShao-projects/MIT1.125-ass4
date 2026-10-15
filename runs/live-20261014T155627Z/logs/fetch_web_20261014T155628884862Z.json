@@ -1,0 +1,19 @@
+{
+  "stage": "fetch_web",
+  "status": "incomplete",
+  "input_count": 4,
+  "output_count": 0,
+  "started_at": "2026-10-14T15:56:28Z",
+  "finished_at": "2026-10-14T15:56:28Z",
+  "tools_or_models": [
+    "Python urllib original HTML"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [
+    "web-suno-release-notes: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "web-ytyng-v6-test: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "web-wavedisco-v6-test: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "web-agcm-investigation: URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  ]
+}

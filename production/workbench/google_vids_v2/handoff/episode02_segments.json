@@ -1,0 +1,56 @@
+[
+  {
+    "time": "0:00–0:35",
+    "narration": "You kept that phrase for your demo. Now you have two imaginary exports. A looks louder on a meter. B follows the melody you originally wrote. Which would you send to a collaborator? Don't answer yet. This is an imaginary choice, but it reveals a real problem with the word “better.” Are we judging the exported file, or the music we wanted to make? Let's test those questions separately.",
+    "visual_action": "Split the recurring illustrated clip into A and B. Ask viewers to choose; the meter rises on A while the drawn melody line remains intact on B. Freeze the choice.",
+    "on_screen_text": "“A or B: which is better?”",
+    "audio_cue": "Original, quiet click; NO SUNO AUDIO.",
+    "asset_notes": "Label both versions “illustration”; show “Evidence as of October 13, 2026”; no invented listening reaction.",
+    "claim_ids": "[02-c6] H"
+  },
+  {
+    "time": "0:35–1:14",
+    "narration": "Start with the exact file you would send. Loudness measures its average level; True Peak checks brief signal peaks. WaveDisco measured those properties in three songs across four Suno model versions, using the same prompt and lyrics for each song. The measurements did not point in one consistent direction from v5.5 to v6. So the meter beside our version A cannot tell this songwriter that newer is better for the demo. It answers a narrower question about particular files.",
+    "visual_action": "Zoom into A's fictional export file. A ruler measures level and catches a peak; four version labels pass over three song icons. The “better” stamp disappears.",
+    "on_screen_text": "“The meter measures the file.”",
+    "audio_cue": "Narration; NO AUDIO DEMO.",
+    "asset_notes": "Redraw method only; attribute WaveDisco on screen.",
+    "claim_ids": "[02-c1] M; [02-c2] M"
+  },
+  {
+    "time": "1:14–1:49",
+    "narration": "Even the export setting can complicate that answer. WaveDisco reported a WAV-versus-MP3 loudness gap that disappeared in its v6 comparison, but only two songs had both formats. Imagine sending the wrong file because you assumed every export would behave that way. The practical move is to inspect the exact file you plan to publish. That two-song result is a reason to check, not a guarantee about yours.",
+    "visual_action": "A file goes toward an upload arrow; stop it, swap between WAV and MP3 icons, then return the actual chosen file to the meter. Put “two songs with both formats” below the reported result.",
+    "on_screen_text": "“Check the export you will use.”",
+    "audio_cue": "Short original stop cue; NO AUDIO DEMO.",
+    "asset_notes": "No fake file measurements.",
+    "claim_ids": "[02-c2] M; [02-c6] H"
+  },
+  {
+    "time": "1:49–2:24",
+    "narration": "Then another chart enters the picture. Writer ytyng reported less high-frequency energy in the v6 files they examined. Is that proof our version B sounds worse? No. Their earlier and later songs used different prompts, and the exports used different codecs, or ways of encoding sound. Several things changed at once. The chart describes those files, but it cannot tell us the model alone caused the difference. Our A-versus-B choice is still open.",
+    "visual_action": "A new chart slides over the frozen A/B choice. Prompt, song, and codec labels peel off into separate paths, leaving the cause box empty.",
+    "on_screen_text": "“What actually caused the difference?”",
+    "audio_cue": "Narration; NO AUDIO DEMO.",
+    "asset_notes": "Show the comparison limit on screen; attribute ytyng.",
+    "claim_ids": "[02-c3] M; [02-c6] H"
+  },
+  {
+    "time": "2:24–3:04",
+    "narration": "Put the meter aside. What happened to the idea? One creator tried more detailed directions, liked a later vocal better, and also said repeated generations and Studio cleanup may have contributed. Andrea Olson tried an uploaded voice memo and said Suno kept much of its melody, though she still heard an AI quality. These are useful examples of creators listening for something specific. They are individual accounts, not an average result. Olson also promotes her own program; that context belongs with her account.",
+    "visual_action": "Meter slides out. Return to B's hand-drawn melody. One path shows repeated generations and cleanup; another begins with a generic voice-memo icon. Both stop at a creator choice, not a winner badge.",
+    "on_screen_text": "“Did it keep your idea?”",
+    "audio_cue": "NO THIRD-PARTY AUDIO.",
+    "asset_notes": "Attribute both creators; no copied recordings.",
+    "claim_ids": "[02-c4] T; [02-c5] T; [02-c6] H"
+  },
+  {
+    "time": "3:04–3:48",
+    "narration": "So, back to A or B. I cannot choose for your imaginary song, and these sources cannot choose for your real one. But they give you a better test. First, check the file format you will share. Then compare the result with your original melody, vocal direction, and arrangement. Try more than one generation before calling a prompt a success or failure. A clean meter cannot tell you whether the demo still follows your melody. And a moving melody cannot replace an export check. Once you find a version you want to release, one more question appears: what should you know before you press Publish?",
+    "visual_action": "A and B recombine into one decision screen with two gates: file and intention. The chosen fictional clip moves into a release folder, but the Publish button remains untouched.",
+    "on_screen_text": "“Two checks. Your own decision.”",
+    "audio_cue": "Original transition sting; NO SUNO AUDIO.",
+    "asset_notes": "Gates are a proposed editorial test, not observed results.",
+    "claim_ids": "[02-c1] M; [02-c3] M; [02-c4] T; [02-c5] T; [02-c6] H"
+  }
+]

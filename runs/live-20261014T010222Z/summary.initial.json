@@ -1,0 +1,67 @@
+{
+  "run_id": "live-20261014T010222Z",
+  "mode": "live",
+  "as_of_date": "2026-10-14",
+  "status": "failed",
+  "counts": {
+    "discovered": 20,
+    "extracted": 20,
+    "new": 1,
+    "changed": 1,
+    "unchanged": 18,
+    "eligible": 22,
+    "excluded": 0,
+    "accepted": 13,
+    "rejected": 9,
+    "deferred": 0,
+    "articles": null,
+    "video_scripts": null
+  },
+  "coverage": {
+    "eligible_by_kind": {
+      "feed": 18,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "eligible_publishers": 12,
+    "accepted_by_kind": {
+      "feed": 9,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "accepted_publishers": 12,
+    "rss_written_eligible": 14,
+    "raw_observations": 20,
+    "duplicate_observations": 0
+  },
+  "failed_or_incomplete_stages": [
+    "create_briefs"
+  ],
+  "elapsed_seconds": 67.5,
+  "tools_or_models": [
+    "Bash coordination",
+    "Codex CLI: configured Codex default",
+    "Python datetime UTC",
+    "Python sqlite3",
+    "Python urllib RSS XML",
+    "Python urllib original HTML",
+    "Python urllib podcast RSS XML",
+    "Python urllib podcast enclosure",
+    "original webpage HTML text",
+    "publisher podcast:transcript SRT",
+    "reused ASR transcript via data/store.sh get",
+    "yt-dlp audio-only",
+    "yt-dlp metadata + English caption JSON3",
+    "yt-dlp metadata only"
+  ],
+  "known_cost_usd": 0,
+  "unknown_cost_stages": [
+    "collect_sources",
+    "create_briefs",
+    "select_items"
+  ],
+  "review_id": null,
+  "remaining_manual_actions": [
+    "Repair incomplete or failing pipeline stages and rerun content checks"
+  ]
+}

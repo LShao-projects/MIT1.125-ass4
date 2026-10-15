@@ -1,0 +1,65 @@
+‘Suno is the new auto-tune’: Meet the artists using AI to go viral
+
+The AI music apocalypse is already here, but it’s not as clear-cut as it first appears
+
+Every time I open up TikTok at the moment, I am met with the same song: “40’s” by masked rapper Kilo Kent. Be it fans lip-syncing, social media ‘journalists’ branding him ‘next up’, or his own anonymised promo videos, the track is inescapable. Granted, it’s a banger – the exact sort of hooky, super-produced trap-pop record that would fit right in on any FIFA soundtrack of the last ten years. There’s just one catch: TikTok commenters are convinced it’s AI.
+
+Kilo’s song is not the only one. Scrolling further, I find dozens of masked, deliberately hard-to-place (and, bizarrely, often Francophone Afro-RnB) ‘artists’ making music that, to put it bluntly, seems too good to be true. They boast streams in the hundreds of thousands, and even millions, their vocals are pitch-perfect and their finished tracks come complete with a cellophane-like sheen that feels almost otherworldly – like the voice acting in a fantasy video game.
+
+In many cases, their music is explicitly promoted with AI-generated visuals. For example, Kilo’s top recommended artist on Spotify, Zemi, is fronted by a muscular, vaguely North African-looking AI avatar, whose face is obscured by a keffiyeh and frequently sings his French-language love songs in the middle of a desert. Of course, there’s a number of commenters pointing out the obvious – this is AI – but far more commenters seem to have either not noticed, or not care. “It’s wonderful how I always fall in love with you and your art,” wrote one fan on Zemi’s Instagram profile.
+
+This is slop, right? Mass-generated machine music destined to scrape what few streaming royalties they can from gullible listeners? Well, it’s not quite that simple.
+
+When I reach out to Zemi and Kilo for an interview, I am met with a surprise – they are both signed to the same label: Isekai Records (Japanese for ‘another world’). They’re a self-described ‘next-gen label’ who pride themselves on their ability to “convert social media hype into tangible streams” and first rose to prominence after signing controversial producer Haven last year. The move came amid allegations that vocals on Haven’s viral hit “I Run” had impersonated Jorja Smith through the use of AI music platform Suno. Spotify removed the track in November 2025, citing concerns over impersonation, and Isekai subsequently re-released it with a human vocalist instead. The new version now stands at over 250 million streams. ‘Converting social media hype’ is certainly one way of putting it. “No one does marketing like us,” a representative told me.
+
+“Think of AI-assisted music like an oven. You prepare the dish, you chop the vegetables, you salt it, you do everything. That’s not oven-generated food.” – Kilo Kent
+
+When I am finally granted separate interviews with Kilo and Zemi, I am met with another surprise: while they join our video calls with their cameras off, they at least seem to be real people. Both are open about their use of Suno to modify their vocals, but, crucially, they insist that it’s not that deep – it’s just like reverb or auto-tune. “Yes, the voice is AI, but all the rest is produced by me – the beats, the top lines, the production,” Zemi explains. “I sing the songs, bring it over into Suno to change the voice, and then mix it myself. The entire process behind it is human.”
+
+You see, Zemi, who was born in Paris of Albanian heritage, tells me that he actually had an extensive music career before launching his AI avatar. He claims to have racked up “almost one billion streams” as a producer working with – in his words – “Marshmello, Justin Bieber, all those guys” but eventually grew tired of the ego-management that accompanies working with pop stars. So, in 2025, Zemi turned to Suno to more directly execute his creative vision. He declines to share his previous production alias: “I want people to think to themselves, ‘I can be Zemi, too’, not like, ‘Oh, it’s some guy doing it in a studio’.”
+
+Kilo tells me a similar story. He has been obsessed with songwriting from a young age and has written songs for “big rappers” in the UK, but never wanted the fame that came with his skills. So, after his friends begged him not to “deprive the world of his talent”, in early 2025, Kilo turned to Suno to “mask his voice”.
+
+“Think of AI-assisted music like an oven,” he tells me, drawing a distinction between using AI as a tool within his musical process, and using it to replace that process completely. “You prepare the dish, you chop the vegetables, you salt it, you do everything, right? Then, you pop it in the oven. That’s not oven-generated food. AI-generated slop, meanwhile, is like a microwave meal. You’ve gone to the freezer aisle in Tesco, you’ve popped it in the microwave, and, boom, there’s your lasagna. That shit is disgusting to me.”
+
+It’s a convincing point. In many ways, ever since songs could be recorded and listened back to, listeners have had to grapple with just how much synthesis – or ‘fakeness’ – they are comfortable with in their music. In 1965, American folk legend Pete Seeger threatened to cut Bob Dylan’s electric guitar cable with an axe on-stage at Newport Folk Festival over his decision to leave acoustic instruments behind. In 1993, Nirvana’s In Utero producer Steve Albini ranted that electronic dance music was “completely brain dead” and devoid of artistic merit. And, in 2013, RnB singer Usher told auto-tune pioneer T-Pain that he had “ruined music by popularising that auto-tune bullshit”.
+
+Take the ‘freestyle rap video’ format that is all over social media today. Few among us will be surprised to hear that these tracks are not really ‘freestyles’ in the truest, improvised sense, but rather lip-synced, pre-written performances, recorded in a studio using the ‘punch-in’ method, processed using plugins like auto-tune and reverb, and produced using synthesised, machine-made instruments. In other words, they’re fakes. But music evolves with the times. New technologies have gradually been embraced to push sound forward. Are AI technologies like Suno truly any different?
+
+After all, both Kilo and Zemi certainly speak like artists to me. “I don’t give a fuck about the money,” says Zemi, who has since cast a real-life actor to play the role of Zemi on social media. “Things are pretty fucked up for this generation, the people are in a depression, and I just want to help them with my music. If I only had 100 monthly listeners, I would still be making music. That’s 100 people who might get better by listening to it.” Kilo, meanwhile, demonstrates his artistry in a different way: “Anyone can go on a browser and access [Suno], it’s even more accessible than auto-tune ever was. So, why am I outshining everyone?” Ultimately, Kilo concludes, he must be doing something right.
+
+But AI isn’t just auto-tune. Its proliferation over the past few years has come complete with the construction of massive data centres that guzzle up millions of gallons of water (which cumulatively have cost households in Ireland an estimated $1.2 billion in raised electricity prices); it has been accompanied by IP infringement that has led the voices of hardworking, human artists like Jorja Smith to be appropriated without their consent, and raises key questions about cultural appropriation – enabling anonymous producers like Zemi to confidently wear and profit off racialised aesthetics while maintaining plausible deniability about their own backgrounds.
+
+For Oliver Bown, a music technology expert and associate professor at the University of New South Wales in Sydney, however, the examples of Zemi and Kilo point to an even “more concerning idea” – a future in which “corporate actors or, worse, people with political motivations, can simply press a few buttons and hook a generation on new cultural content”. He continues over email: “It has potential to be Orwellian: the cultural fabric of society being replaced by forms of top down vertical control. Perhaps such fears make reaction to milder use of AI by modern artists more visceral.”
+
+I reached out to Bown to learn more about how Suno might be used to modify vocals, and am surprised to learn that there isn’t, really, a clear distinction between AI-assisted and AI-generated music in the way that Kilo and Zemi describe. Rather it’s a continuum that stretches from minor, auto-tune-like adjustments, right through to the mass-generated slop that most members of the public are opposed to. “These can be fun experiments but they can also be very cynical commercial enterprises: if the musician doesn’t exist, the entire persona becomes a commodity,” Bown explains. “I couldn’t comment if this is the case with Kilo Kent and Zemi. But not showing the artist’s face is certainly inspiring that view.”
+
+It strikes me that all of this boils down to how much I trust Kilo and Zemi – two artists whose faces they refuse to show and whose real names they don’t disclose – to respect the line between moderate, artistic use of Suno, and what I imagine is a tempting impulse to hit generate when inspiration wears thin. I definitely want to believe them. But, just as I am grappling with these questions, I receive another email from Isekai: they are demanding to vet the article before it’s published. When I inform them that this is not how journalism works, they accuse me of trying to create a “false narrative” and instruct me to cancel the article (also not how journalism works). They were right about one thing though: I’ve certainly never seen marketing like this before.
+
+“It has potential to be Orwellian: the cultural fabric of society being replaced by forms of top down vertical control.” – Oliver Bown, associate professor at the University of New South Wales
+
+I’m not sure why Isekai became so suspicious: as far as I was concerned, Zemi and Kilo made good points. Maybe they wanted to disclose their use of Suno on their own terms, to monetise the narrative in the same way they did with Haven and the Jorja Smith controversy. But their secrecy did point to a deeper issue in all of this. The public are rightfully anxious about AI right now: it has so far generated extreme profits for tech CEOs and led to layoffs and rising utility bills for the rest of us. In music, meanwhile, it threatens to disconnect us from the very fabric of our society, the cultures that bind communities together. People are scared, and, from where I’m sitting, putting on a mask and misleading the general public doesn’t seem like the best way to deal with people that are frightened.
+
+For what it’s worth, I do believe Kilo and Zemi when they tell me that they take their artistry very seriously. Towards the end of our conversation, I press Zemi about where, exactly, the line is between healthy and lazy use of AI. His answer is simple: “I actually tried to only [hit] generate and not do anything human, but people could notice.” Meanwhile, I’d be lying if I said that Kilo’s infectious rap hooks had not been playing on repeat in my head these past few weeks. His music is undeniable.
+
+With the results these two have received so far, it’d be naïve to believe that the use of AI in music is going away anytime soon, and there are plentiful applications beyond just vocal manipulation. None other than Paul Mcartney has already praised its application in cleaning up samples and helping to subtly improve the overall quality of their music, while Bown himself describes limited applications in helping to “quickly vibecode a new digital instrument or analyse a mix”. The history of Bob Dylan, T-Pain and the rest shows us that music will change with the times. But, in each of those cases, it took a whole lot more than mass-generated promo videos and flimsy ‘new age’ marketing-speak to convince people that those changes were for the better. If Kilo and Zemi truly believe they’re the future of music, they’ve got an uphill battle ahead of them.
+
+‘Do you smell like a bi millennial?’: Everyone is talking about gay perfume
+
+As scent-based gay anthropology explodes on social media and more queer-marketed perfumes are released than ever, we explore the history of fragrance as a sexuality signifier
+
+Dazed and Dover Street Market Paris stage a magazine drop
+
+Skate Sounds is the crew bringing the noise to London’s roller skate scene
+
+What went down at Dazed’s New Idols issue mag drop
+
+‘I argue with everyone’: The rise of the chaotic burner account
+
+Our Hero, Balthazar: A dark comedy on incel culture and gun violence
+
+Watch: Inside the world’s largest Helmut Lang archive
+
+These were the wildest trends from the SS27 runways
+
+Calling US writers and photographers! Get your first byline at Dazed

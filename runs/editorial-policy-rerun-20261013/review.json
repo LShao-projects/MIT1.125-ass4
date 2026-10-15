@@ -1,0 +1,24 @@
+{
+  "review_id": "111b8326c49dfd6297c8f7594565ceacec3c77b06a90d88c63c6455b7cc5eec5",
+  "passed": true,
+  "issues": [
+    {
+      "piece_id": "01",
+      "artifact": "human_review",
+      "severity": "warning",
+      "explanation": "Student must review factual scope, synthesis, source attribution, and article/script consistency"
+    },
+    {
+      "piece_id": "02",
+      "artifact": "human_review",
+      "severity": "warning",
+      "explanation": "Student must review factual scope, synthesis, source attribution, and article/script consistency"
+    },
+    {
+      "piece_id": "03",
+      "artifact": "human_review",
+      "severity": "warning",
+      "explanation": "Student must review factual scope, synthesis, source attribution, and article/script consistency"
+    }
+  ]
+}

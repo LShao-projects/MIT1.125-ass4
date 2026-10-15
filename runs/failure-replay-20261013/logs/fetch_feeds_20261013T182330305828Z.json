@@ -1,0 +1,16 @@
+{
+  "stage": "fetch_feeds",
+  "status": "incomplete",
+  "input_count": 6,
+  "output_count": 12,
+  "started_at": "2026-10-13T18:23:28Z",
+  "finished_at": "2026-10-13T18:23:30Z",
+  "tools_or_models": [
+    "Python urllib RSS XML"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [
+    "intentional-broken-feed-replay: URLError: <urlopen error [Errno 61] Connection refused>"
+  ]
+}

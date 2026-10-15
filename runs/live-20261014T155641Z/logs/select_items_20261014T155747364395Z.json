@@ -1,0 +1,18 @@
+{
+  "stage": "select_items",
+  "status": "complete",
+  "input_count": 24,
+  "output_count": 24,
+  "started_at": "2026-10-14T15:57:02Z",
+  "finished_at": "2026-10-14T15:57:47Z",
+  "tools_or_models": [
+    "Codex CLI: configured Codex default"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "usage": {
+    "input_tokens": 122242,
+    "output_tokens": 2741
+  },
+  "errors": []
+}

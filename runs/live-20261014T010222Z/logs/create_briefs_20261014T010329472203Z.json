@@ -1,0 +1,20 @@
+{
+  "stage": "create_briefs",
+  "status": "incomplete",
+  "started_at": "2026-10-14T01:03:29Z",
+  "finished_at": "2026-10-14T01:03:29Z",
+  "input_count": 22,
+  "output_count": 0,
+  "tools_or_models": [
+    "Codex CLI: configured Codex default"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "usage": {
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "errors": [
+    "ValueError: piece 01: fewer than three accepted independent publishers"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "stage": "collect_sources",
+  "status": "incomplete",
+  "started_at": "2026-10-14T15:56:27Z",
+  "stage_exit_codes": {
+    "store_init": 0,
+    "fetch_feeds": 1,
+    "fetch_youtube": 1,
+    "fetch_podcasts": 1,
+    "fetch_web": 1,
+    "combine_candidates": 0,
+    "extract_content": 0,
+    "store_upsert": 0,
+    "store_list": 0,
+    "filter_items": 0
+  },
+  "counts": {
+    "candidates.jsonl": 0,
+    "items.jsonl": 0,
+    "changes.jsonl": 0,
+    "corpus.jsonl": 22,
+    "eligible.jsonl": 22,
+    "exclusions.jsonl": 0
+  },
+  "finished_at": "2026-10-14T15:56:29Z",
+  "tools_or_models": [
+    "Bash coordination"
+  ],
+  "cost_usd": null,
+  "cost_estimate": false,
+  "errors": [
+    "fetch_feeds",
+    "fetch_youtube",
+    "fetch_podcasts",
+    "fetch_web"
+  ]
+}

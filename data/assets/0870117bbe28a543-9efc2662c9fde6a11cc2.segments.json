@@ -1,0 +1,1178 @@
+[
+  {
+    "segment_id": "seg-00001",
+    "start_seconds": 24.969,
+    "end_seconds": 29.849,
+    "text": "SPEAKER_00: Hello and welcome to the AI Music Revolution and"
+  },
+  {
+    "segment_id": "seg-00002",
+    "start_seconds": 29.849,
+    "end_seconds": 31.289,
+    "text": "right on cue."
+  },
+  {
+    "segment_id": "seg-00003",
+    "start_seconds": 32.489,
+    "end_seconds": 33.769,
+    "text": "There you go, you hear it."
+  },
+  {
+    "segment_id": "seg-00004",
+    "start_seconds": 33.849,
+    "end_seconds": 35.53,
+    "text": "I've got neighborhood dogs barking."
+  },
+  {
+    "segment_id": "seg-00005",
+    "start_seconds": 35.609,
+    "end_seconds": 37.129,
+    "text": "So that was perfect timing."
+  },
+  {
+    "segment_id": "seg-00006",
+    "start_seconds": 37.45,
+    "end_seconds": 38.89,
+    "text": "We're just gonna go anyway."
+  },
+  {
+    "segment_id": "seg-00007",
+    "start_seconds": 38.969,
+    "end_seconds": 40.81,
+    "text": "Uh that's the way we fly around here."
+  },
+  {
+    "segment_id": "seg-00008",
+    "start_seconds": 40.89,
+    "end_seconds": 43.289,
+    "text": "So this is actually episode 40."
+  },
+  {
+    "segment_id": "seg-00009",
+    "start_seconds": 43.369,
+    "end_seconds": 46.73,
+    "text": "I can't believe that I've done 40 of these podcasts so far."
+  },
+  {
+    "segment_id": "seg-00010",
+    "start_seconds": 46.89,
+    "end_seconds": 48.969,
+    "text": "Uh and I feel like I'm just getting started."
+  },
+  {
+    "segment_id": "seg-00011",
+    "start_seconds": 49.209,
+    "end_seconds": 51.209,
+    "text": "Kind of like that dog is behind me."
+  },
+  {
+    "segment_id": "seg-00012",
+    "start_seconds": 51.45,
+    "end_seconds": 54.81,
+    "text": "So I'm Josh, I'm the founder of JG Beats Lab."
+  },
+  {
+    "segment_id": "seg-00013",
+    "start_seconds": 55.209,
+    "end_seconds": 58.17,
+    "text": "And thank you for listening to the podcast."
+  },
+  {
+    "segment_id": "seg-00014",
+    "start_seconds": 58.489,
+    "end_seconds": 64.81,
+    "text": "So this week's um post on the blog ask a question that I think"
+  },
+  {
+    "segment_id": "seg-00015",
+    "start_seconds": 64.81,
+    "end_seconds": 69.209,
+    "text": "a lot of you have asked yourselves probably quietly."
+  },
+  {
+    "segment_id": "seg-00016",
+    "start_seconds": 69.849,
+    "end_seconds": 75.289,
+    "text": "You wrote a song, the words are yours, the melody is yours, you"
+  },
+  {
+    "segment_id": "seg-00017",
+    "start_seconds": 75.609,
+    "end_seconds": 78.81,
+    "text": "you wrote it, you created it, maybe a chord progression."
+  },
+  {
+    "segment_id": "seg-00018",
+    "start_seconds": 78.89,
+    "end_seconds": 82.73,
+    "text": "You've played on the you know the same guitar for years."
+  },
+  {
+    "segment_id": "seg-00019",
+    "start_seconds": 82.969,
+    "end_seconds": 87.93,
+    "text": "You sang a rough demo into your phone, and then you uploaded it"
+  },
+  {
+    "segment_id": "seg-00020",
+    "start_seconds": 87.93,
+    "end_seconds": 92.57,
+    "text": "into Suno or one of the other AI platforms, and it came back with"
+  },
+  {
+    "segment_id": "seg-00021",
+    "start_seconds": 92.57,
+    "end_seconds": 96.969,
+    "text": "drums and bass and strings and a mix that you could have never"
+  },
+  {
+    "segment_id": "seg-00022",
+    "start_seconds": 96.969,
+    "end_seconds": 97.93,
+    "text": "paid for."
+  },
+  {
+    "segment_id": "seg-00023",
+    "start_seconds": 98.57,
+    "end_seconds": 103.21000000000001,
+    "text": "The question that that then shows up is usually late at"
+  },
+  {
+    "segment_id": "seg-00024",
+    "start_seconds": 103.21000000000001,
+    "end_seconds": 106.969,
+    "text": "night as you're laying in bed, thinking to yourself, is it"
+  },
+  {
+    "segment_id": "seg-00025",
+    "start_seconds": 106.969,
+    "end_seconds": 108.25,
+    "text": "still my song?"
+  },
+  {
+    "segment_id": "seg-00026",
+    "start_seconds": 108.72999999999999,
+    "end_seconds": 111.93,
+    "text": "I'm gonna answer it, and then I'm going to walk you through"
+  },
+  {
+    "segment_id": "seg-00027",
+    "start_seconds": 111.93,
+    "end_seconds": 116.81,
+    "text": "the exact workflow step by step so that you know what you keep"
+  },
+  {
+    "segment_id": "seg-00028",
+    "start_seconds": 116.81,
+    "end_seconds": 120.81,
+    "text": "and what you hand over at every stage of the process."
+  },
+  {
+    "segment_id": "seg-00029",
+    "start_seconds": 122.25,
+    "end_seconds": 123.689,
+    "text": "So let's start."
+  },
+  {
+    "segment_id": "seg-00030",
+    "start_seconds": 124.01,
+    "end_seconds": 127.85,
+    "text": "The instinct is to answer this with a feeling."
+  },
+  {
+    "segment_id": "seg-00031",
+    "start_seconds": 128.169,
+    "end_seconds": 132.969,
+    "text": "You feel like the song is yours because you know you started it,"
+  },
+  {
+    "segment_id": "seg-00032",
+    "start_seconds": 133.289,
+    "end_seconds": 138.09,
+    "text": "or you feel like a fraud because a machine played every"
+  },
+  {
+    "segment_id": "seg-00033",
+    "start_seconds": 138.09,
+    "end_seconds": 138.969,
+    "text": "instrument."
+  },
+  {
+    "segment_id": "seg-00034",
+    "start_seconds": 139.609,
+    "end_seconds": 143.37,
+    "text": "I'll tell you, neither feeling tells you much."
+  },
+  {
+    "segment_id": "seg-00035",
+    "start_seconds": 143.609,
+    "end_seconds": 148.969,
+    "text": "The question has a better answer than that, and you get to it by"
+  },
+  {
+    "segment_id": "seg-00036",
+    "start_seconds": 148.969,
+    "end_seconds": 153.77,
+    "text": "taking the song apart and asking, who made each piece?"
+  },
+  {
+    "segment_id": "seg-00037",
+    "start_seconds": 154.65,
+    "end_seconds": 157.21,
+    "text": "Think of a song like a stack."
+  },
+  {
+    "segment_id": "seg-00038",
+    "start_seconds": 157.61,
+    "end_seconds": 162.32999999999998,
+    "text": "At the bottom of the stack sits the composition, so the lyrics,"
+  },
+  {
+    "segment_id": "seg-00039",
+    "start_seconds": 162.56900000000002,
+    "end_seconds": 166.00900000000001,
+    "text": "the melody, the chords if you wrote them."
+  },
+  {
+    "segment_id": "seg-00040",
+    "start_seconds": 166.32999999999998,
+    "end_seconds": 171.689,
+    "text": "At the top of that sits the arrangement, which instruments"
+  },
+  {
+    "segment_id": "seg-00041",
+    "start_seconds": 171.689,
+    "end_seconds": 176.56900000000002,
+    "text": "play, what they play, you know, when do the drums come in, and"
+  },
+  {
+    "segment_id": "seg-00042",
+    "start_seconds": 176.56900000000002,
+    "end_seconds": 181.53,
+    "text": "then above the arrangement are the performances, the actual"
+  },
+  {
+    "segment_id": "seg-00043",
+    "start_seconds": 181.53,
+    "end_seconds": 185.61,
+    "text": "sound of someone singing or something being played."
+  },
+  {
+    "segment_id": "seg-00044",
+    "start_seconds": 185.93,
+    "end_seconds": 192.17,
+    "text": "And at the very top is the finish, the mix, the master that"
+  },
+  {
+    "segment_id": "seg-00045",
+    "start_seconds": 192.17,
+    "end_seconds": 195.37,
+    "text": "turns a session into a record."
+  },
+  {
+    "segment_id": "seg-00046",
+    "start_seconds": 196.17000000000002,
+    "end_seconds": 201.37,
+    "text": "So write a song on a guitar, hire a band to play it, and"
+  },
+  {
+    "segment_id": "seg-00047",
+    "start_seconds": 201.37,
+    "end_seconds": 204.25,
+    "text": "nobody asks whether it's still your song."
+  },
+  {
+    "segment_id": "seg-00048",
+    "start_seconds": 204.49,
+    "end_seconds": 209.21,
+    "text": "The drummer made choices, the bass player made choices, the"
+  },
+  {
+    "segment_id": "seg-00049",
+    "start_seconds": 209.21,
+    "end_seconds": 213.849,
+    "text": "engineer made a hundred choices that you've never heard about."
+  },
+  {
+    "segment_id": "seg-00050",
+    "start_seconds": 214.09,
+    "end_seconds": 218.969,
+    "text": "The song stayed yours because the bottom of that stack was"
+  },
+  {
+    "segment_id": "seg-00051",
+    "start_seconds": 218.969,
+    "end_seconds": 219.61,
+    "text": "yours."
+  },
+  {
+    "segment_id": "seg-00052",
+    "start_seconds": 220.09,
+    "end_seconds": 226.409,
+    "text": "And everyone understood the rest as work done on your song."
+  },
+  {
+    "segment_id": "seg-00053",
+    "start_seconds": 227.21,
+    "end_seconds": 232.81,
+    "text": "So the useful version of the question is about the stack."
+  },
+  {
+    "segment_id": "seg-00054",
+    "start_seconds": 233.129,
+    "end_seconds": 235.53,
+    "text": "Which layer did you make?"
+  },
+  {
+    "segment_id": "seg-00055",
+    "start_seconds": 236.00900000000001,
+    "end_seconds": 238.81,
+    "text": "Which layers did sudo make?"
+  },
+  {
+    "segment_id": "seg-00056",
+    "start_seconds": 239.289,
+    "end_seconds": 243.05,
+    "text": "And what did you agree to on the way in?"
+  },
+  {
+    "segment_id": "seg-00057",
+    "start_seconds": 244.25,
+    "end_seconds": 249.129,
+    "text": "So the blog this week makes the other half of the argument."
+  },
+  {
+    "segment_id": "seg-00058",
+    "start_seconds": 249.449,
+    "end_seconds": 255.449,
+    "text": "The layers tell you what you own, but the decisions tell you"
+  },
+  {
+    "segment_id": "seg-00059",
+    "start_seconds": 255.449,
+    "end_seconds": 257.61,
+    "text": "what you actually authored."
+  },
+  {
+    "segment_id": "seg-00060",
+    "start_seconds": 258.25,
+    "end_seconds": 263.689,
+    "text": "Every take you reject, every lyric you correct, every time"
+  },
+  {
+    "segment_id": "seg-00061",
+    "start_seconds": 263.689,
+    "end_seconds": 268.17,
+    "text": "you send the arrangement back, that's you writing."
+  },
+  {
+    "segment_id": "seg-00062",
+    "start_seconds": 268.81,
+    "end_seconds": 272.409,
+    "text": "The stack is where those decisions end up."
+  },
+  {
+    "segment_id": "seg-00063",
+    "start_seconds": 274.81,
+    "end_seconds": 279.37,
+    "text": "That last part matters more this month than it did last month."
+  },
+  {
+    "segment_id": "seg-00064",
+    "start_seconds": 280.009,
+    "end_seconds": 284.649,
+    "text": "Suno rewrote its terms of service, effective September"
+  },
+  {
+    "segment_id": "seg-00065",
+    "start_seconds": 284.649,
+    "end_seconds": 285.37,
+    "text": "3rd."
+  },
+  {
+    "segment_id": "seg-00066",
+    "start_seconds": 285.689,
+    "end_seconds": 287.61,
+    "text": "I'll describe what they say."
+  },
+  {
+    "segment_id": "seg-00067",
+    "start_seconds": 287.93,
+    "end_seconds": 292.25,
+    "text": "I'm not a lawyer, so definitely read them yourselves before you"
+  },
+  {
+    "segment_id": "seg-00068",
+    "start_seconds": 292.25,
+    "end_seconds": 294.569,
+    "text": "make a decision that depends on them."
+  },
+  {
+    "segment_id": "seg-00069",
+    "start_seconds": 295.05,
+    "end_seconds": 298.329,
+    "text": "Two things there are worth knowing cold though."
+  },
+  {
+    "segment_id": "seg-00070",
+    "start_seconds": 298.649,
+    "end_seconds": 302.329,
+    "text": "First, what you upload stays yours."
+  },
+  {
+    "segment_id": "seg-00071",
+    "start_seconds": 302.569,
+    "end_seconds": 307.209,
+    "text": "The terms say plainly that uploading transfers no"
+  },
+  {
+    "segment_id": "seg-00072",
+    "start_seconds": 307.209,
+    "end_seconds": 308.329,
+    "text": "ownership."
+  },
+  {
+    "segment_id": "seg-00073",
+    "start_seconds": 308.649,
+    "end_seconds": 312.81,
+    "text": "What you grant instead is a license, and it's it's a very"
+  },
+  {
+    "segment_id": "seg-00074",
+    "start_seconds": 312.81,
+    "end_seconds": 313.689,
+    "text": "wide one."
+  },
+  {
+    "segment_id": "seg-00075",
+    "start_seconds": 314.009,
+    "end_seconds": 321.85,
+    "text": "Worldwide, royalty free, perpetual, irrevocable, covering"
+  },
+  {
+    "segment_id": "seg-00076",
+    "start_seconds": 321.85,
+    "end_seconds": 327.449,
+    "text": "storage, modification, derivative works, and use to"
+  },
+  {
+    "segment_id": "seg-00077",
+    "start_seconds": 327.449,
+    "end_seconds": 331.85,
+    "text": "improve Suno's models and promote the service."
+  },
+  {
+    "segment_id": "seg-00078",
+    "start_seconds": 332.329,
+    "end_seconds": 339.37,
+    "text": "If your voice is on the upload, that license reaches your voice"
+  },
+  {
+    "segment_id": "seg-00079",
+    "start_seconds": 339.37,
+    "end_seconds": 341.37,
+    "text": "and your likeness too."
+  },
+  {
+    "segment_id": "seg-00080",
+    "start_seconds": 342.089,
+    "end_seconds": 349.209,
+    "text": "Second, on Pro or Premiere, Suno assigns you whatever rights it"
+  },
+  {
+    "segment_id": "seg-00081",
+    "start_seconds": 349.209,
+    "end_seconds": 351.85,
+    "text": "holds and the output it generates."
+  },
+  {
+    "segment_id": "seg-00082",
+    "start_seconds": 352.569,
+    "end_seconds": 356.97,
+    "text": "The same terms also say Suno makes no promise that any"
+  },
+  {
+    "segment_id": "seg-00083",
+    "start_seconds": 356.97,
+    "end_seconds": 360.009,
+    "text": "copyright attaches to that output at all."
+  },
+  {
+    "segment_id": "seg-00084",
+    "start_seconds": 360.329,
+    "end_seconds": 365.129,
+    "text": "Suno hands you everything it has and says out loud that the"
+  },
+  {
+    "segment_id": "seg-00085",
+    "start_seconds": 365.129,
+    "end_seconds": 367.61,
+    "text": "amount might be zero."
+  },
+  {
+    "segment_id": "seg-00086",
+    "start_seconds": 368.49,
+    "end_seconds": 374.009,
+    "text": "Set those two facts next to the stack and the picture sharpens."
+  },
+  {
+    "segment_id": "seg-00087",
+    "start_seconds": 374.569,
+    "end_seconds": 379.689,
+    "text": "The composition you wrote is yours, and uploading it gave"
+  },
+  {
+    "segment_id": "seg-00088",
+    "start_seconds": 379.689,
+    "end_seconds": 382.25,
+    "text": "Suno a license to use it."
+  },
+  {
+    "segment_id": "seg-00089",
+    "start_seconds": 382.569,
+    "end_seconds": 388.009,
+    "text": "The generated arrangement is yours to use, with no guarantee"
+  },
+  {
+    "segment_id": "seg-00090",
+    "start_seconds": 388.089,
+    "end_seconds": 389.689,
+    "text": "the law protects it."
+  },
+  {
+    "segment_id": "seg-00091",
+    "start_seconds": 390.089,
+    "end_seconds": 395.209,
+    "text": "Your performance, if you record one, is yours outright."
+  },
+  {
+    "segment_id": "seg-00092",
+    "start_seconds": 396.009,
+    "end_seconds": 398.49,
+    "text": "So is it still your song?"
+  },
+  {
+    "segment_id": "seg-00093",
+    "start_seconds": 398.889,
+    "end_seconds": 433.97,
+    "text": "The part that makes it a song, the words and the tune, yes."
+  },
+  {
+    "segment_id": "seg-00094",
+    "start_seconds": 434.53,
+    "end_seconds": 440.53,
+    "text": "The record is a blend of your work and generated work."
+  },
+  {
+    "segment_id": "seg-00095",
+    "start_seconds": 441.01,
+    "end_seconds": 446.61,
+    "text": "And every layer you make yourself moves more of that"
+  },
+  {
+    "segment_id": "seg-00096",
+    "start_seconds": 446.61,
+    "end_seconds": 450.05,
+    "text": "record onto your side of the line."
+  },
+  {
+    "segment_id": "seg-00097",
+    "start_seconds": 452.129,
+    "end_seconds": 459.01,
+    "text": "If you only take back one layer, take back the vocal, a listener"
+  },
+  {
+    "segment_id": "seg-00098",
+    "start_seconds": 459.01,
+    "end_seconds": 463.17,
+    "text": "hears it first and remembers it the longest."
+  },
+  {
+    "segment_id": "seg-00099",
+    "start_seconds": 463.57,
+    "end_seconds": 468.21,
+    "text": "And it's where the distance between generated and performed"
+  },
+  {
+    "segment_id": "seg-00100",
+    "start_seconds": 468.21,
+    "end_seconds": 469.65,
+    "text": "is the widest."
+  },
+  {
+    "segment_id": "seg-00101",
+    "start_seconds": 470.29,
+    "end_seconds": 472.53,
+    "text": "Suno can give you a singer."
+  },
+  {
+    "segment_id": "seg-00102",
+    "start_seconds": 473.01,
+    "end_seconds": 477.49,
+    "text": "With a voice model, it can even give you a singer in your own"
+  },
+  {
+    "segment_id": "seg-00103",
+    "start_seconds": 477.49,
+    "end_seconds": 482.61,
+    "text": "timber, and that's still a generated performance wearing"
+  },
+  {
+    "segment_id": "seg-00104",
+    "start_seconds": 482.61,
+    "end_seconds": 487.97,
+    "text": "your voice, with the new license reaching your likeness along"
+  },
+  {
+    "segment_id": "seg-00105",
+    "start_seconds": 487.97,
+    "end_seconds": 488.61,
+    "text": "with it."
+  },
+  {
+    "segment_id": "seg-00106",
+    "start_seconds": 489.73,
+    "end_seconds": 495.41,
+    "text": "When you sing the take yourself, the breath before the line you"
+  },
+  {
+    "segment_id": "seg-00107",
+    "start_seconds": 495.41,
+    "end_seconds": 501.09,
+    "text": "care about belongs to you, and so does the crack and the note"
+  },
+  {
+    "segment_id": "seg-00108",
+    "start_seconds": 501.09,
+    "end_seconds": 502.61,
+    "text": "you decided to keep."
+  },
+  {
+    "segment_id": "seg-00109",
+    "start_seconds": 502.85,
+    "end_seconds": 507.33,
+    "text": "A model trained on your voice can copy how you sound."
+  },
+  {
+    "segment_id": "seg-00110",
+    "start_seconds": 507.65,
+    "end_seconds": 511.33,
+    "text": "What you meant by the line only comes from you."
+  },
+  {
+    "segment_id": "seg-00111",
+    "start_seconds": 512.529,
+    "end_seconds": 517.169,
+    "text": "The vocal also moves the ownership math more than any"
+  },
+  {
+    "segment_id": "seg-00112",
+    "start_seconds": 517.169,
+    "end_seconds": 518.129,
+    "text": "other layer."
+  },
+  {
+    "segment_id": "seg-00113",
+    "start_seconds": 518.529,
+    "end_seconds": 524.529,
+    "text": "Your composition plus your own performance puts both layers"
+  },
+  {
+    "segment_id": "seg-00114",
+    "start_seconds": 524.529,
+    "end_seconds": 528.45,
+    "text": "that carry your name on your side of the line."
+  },
+  {
+    "segment_id": "seg-00115",
+    "start_seconds": 528.769,
+    "end_seconds": 533.25,
+    "text": "The generated arrangement becomes what the hired band used"
+  },
+  {
+    "segment_id": "seg-00116",
+    "start_seconds": 533.25,
+    "end_seconds": 533.809,
+    "text": "to be."
+  },
+  {
+    "segment_id": "seg-00117",
+    "start_seconds": 534.129,
+    "end_seconds": 536.85,
+    "text": "Work done on your song."
+  },
+  {
+    "segment_id": "seg-00118",
+    "start_seconds": 537.809,
+    "end_seconds": 540.37,
+    "text": "Now the workflow in plain terms."
+  },
+  {
+    "segment_id": "seg-00119",
+    "start_seconds": 540.529,
+    "end_seconds": 546.209,
+    "text": "Every step has a keep and a handover, and you should know"
+  },
+  {
+    "segment_id": "seg-00120",
+    "start_seconds": 546.209,
+    "end_seconds": 548.609,
+    "text": "both before you press anything."
+  },
+  {
+    "segment_id": "seg-00121",
+    "start_seconds": 548.929,
+    "end_seconds": 551.569,
+    "text": "Step one, the demo goes in."
+  },
+  {
+    "segment_id": "seg-00122",
+    "start_seconds": 551.969,
+    "end_seconds": 557.249,
+    "text": "Before you upload, decide the one element of the demo that has"
+  },
+  {
+    "segment_id": "seg-00123",
+    "start_seconds": 557.249,
+    "end_seconds": 558.369,
+    "text": "to survive."
+  },
+  {
+    "segment_id": "seg-00124",
+    "start_seconds": 558.609,
+    "end_seconds": 562.929,
+    "text": "For most songwriters, that's the melody and the way the lyric"
+  },
+  {
+    "segment_id": "seg-00125",
+    "start_seconds": 563.249,
+    "end_seconds": 564.449,
+    "text": "sits on it."
+  },
+  {
+    "segment_id": "seg-00126",
+    "start_seconds": 564.769,
+    "end_seconds": 567.169,
+    "text": "You keep ownership of the demo."
+  },
+  {
+    "segment_id": "seg-00127",
+    "start_seconds": 567.409,
+    "end_seconds": 571.729,
+    "text": "You hand over the license I just described, including your voice"
+  },
+  {
+    "segment_id": "seg-00128",
+    "start_seconds": 571.889,
+    "end_seconds": 573.169,
+    "text": "if you sang it."
+  },
+  {
+    "segment_id": "seg-00129",
+    "start_seconds": 573.569,
+    "end_seconds": 577.169,
+    "text": "If you plan to pitch this song to a publisher exclusively,"
+  },
+  {
+    "segment_id": "seg-00130",
+    "start_seconds": 577.409,
+    "end_seconds": 578.289,
+    "text": "pause here."
+  },
+  {
+    "segment_id": "seg-00131",
+    "start_seconds": 579.409,
+    "end_seconds": 580.2090000000001,
+    "text": "Step 2."
+  },
+  {
+    "segment_id": "seg-00132",
+    "start_seconds": 580.449,
+    "end_seconds": 582.849,
+    "text": "Suno builds the arrangement."
+  },
+  {
+    "segment_id": "seg-00133",
+    "start_seconds": 583.169,
+    "end_seconds": 588.049,
+    "text": "You run a cover on your demo with audio influence set high."
+  },
+  {
+    "segment_id": "seg-00134",
+    "start_seconds": 588.2090000000001,
+    "end_seconds": 592.529,
+    "text": "A songwriter who published his V6 settings ran Variety Off,"
+  },
+  {
+    "segment_id": "seg-00135",
+    "start_seconds": 593.009,
+    "end_seconds": 597.729,
+    "text": "Audio Influence High, Style Influence Around 80, and"
+  },
+  {
+    "segment_id": "seg-00136",
+    "start_seconds": 597.729,
+    "end_seconds": 601.089,
+    "text": "reported that the result held to his brief."
+  },
+  {
+    "segment_id": "seg-00137",
+    "start_seconds": 601.489,
+    "end_seconds": 605.969,
+    "text": "You keep the composition, you hand the arrangement decisions"
+  },
+  {
+    "segment_id": "seg-00138",
+    "start_seconds": 605.969,
+    "end_seconds": 609.889,
+    "text": "to the model, and that's the layer where the terms promise"
+  },
+  {
+    "segment_id": "seg-00139",
+    "start_seconds": 609.889,
+    "end_seconds": 611.889,
+    "text": "nothing about copyright."
+  },
+  {
+    "segment_id": "seg-00140",
+    "start_seconds": 612.529,
+    "end_seconds": 614.689,
+    "text": "Step 3, pull stems."
+  },
+  {
+    "segment_id": "seg-00141",
+    "start_seconds": 615.169,
+    "end_seconds": 620.449,
+    "text": "A stem from Advanced Split is a new performance of that part,"
+  },
+  {
+    "segment_id": "seg-00142",
+    "start_seconds": 620.689,
+    "end_seconds": 624.929,
+    "text": "rebuilt by the model, so it can drift from what you heard in the"
+  },
+  {
+    "segment_id": "seg-00143",
+    "start_seconds": 624.929,
+    "end_seconds": 625.969,
+    "text": "full mix."
+  },
+  {
+    "segment_id": "seg-00144",
+    "start_seconds": 626.289,
+    "end_seconds": 631.169,
+    "text": "Keep the full mix on its own track, muted, and compare every"
+  },
+  {
+    "segment_id": "seg-00145",
+    "start_seconds": 631.169,
+    "end_seconds": 632.289,
+    "text": "stem against it."
+  },
+  {
+    "segment_id": "seg-00146",
+    "start_seconds": 632.529,
+    "end_seconds": 635.169,
+    "text": "You hand nothing over at this step."
+  },
+  {
+    "segment_id": "seg-00147",
+    "start_seconds": 635.329,
+    "end_seconds": 638.289,
+    "text": "You just need to know the stems are copies."
+  },
+  {
+    "segment_id": "seg-00148",
+    "start_seconds": 639.329,
+    "end_seconds": 643.889,
+    "text": "Step four, replace the AI vocal with a real one."
+  },
+  {
+    "segment_id": "seg-00149",
+    "start_seconds": 644.129,
+    "end_seconds": 647.009,
+    "text": "This is a step where you take a layer back."
+  },
+  {
+    "segment_id": "seg-00150",
+    "start_seconds": 647.329,
+    "end_seconds": 652.769,
+    "text": "Record dry and wired headphones or whatever mic you own."
+  },
+  {
+    "segment_id": "seg-00151",
+    "start_seconds": 653.009,
+    "end_seconds": 658.289,
+    "text": "If you record inside Suno Studio, that recording counts as"
+  },
+  {
+    "segment_id": "seg-00152",
+    "start_seconds": 658.289,
+    "end_seconds": 661.889,
+    "text": "an upload and a license attaches to it."
+  },
+  {
+    "segment_id": "seg-00153",
+    "start_seconds": 662.289,
+    "end_seconds": 667.329,
+    "text": "Record in your own DAW, and you your vocal never touches the"
+  },
+  {
+    "segment_id": "seg-00154",
+    "start_seconds": 667.329,
+    "end_seconds": 668.369,
+    "text": "platform then."
+  },
+  {
+    "segment_id": "seg-00155",
+    "start_seconds": 669.329,
+    "end_seconds": 673.249,
+    "text": "Step five, mix and master outside of Suno."
+  },
+  {
+    "segment_id": "seg-00156",
+    "start_seconds": 673.969,
+    "end_seconds": 679.0889999999999,
+    "text": "You hand over nothing, and the finish is decided by you or"
+  },
+  {
+    "segment_id": "seg-00157",
+    "start_seconds": 679.0889999999999,
+    "end_seconds": 680.289,
+    "text": "someone you hire."
+  },
+  {
+    "segment_id": "seg-00158",
+    "start_seconds": 680.449,
+    "end_seconds": 682.929,
+    "text": "That's where I come in a lot of the times."
+  },
+  {
+    "segment_id": "seg-00159",
+    "start_seconds": 683.649,
+    "end_seconds": 688.609,
+    "text": "One more habit, and it turns the whole question from a feeling"
+  },
+  {
+    "segment_id": "seg-00160",
+    "start_seconds": 688.609,
+    "end_seconds": 689.729,
+    "text": "into a record."
+  },
+  {
+    "segment_id": "seg-00161",
+    "start_seconds": 689.969,
+    "end_seconds": 692.2090000000001,
+    "text": "Keep a folder for every song."
+  },
+  {
+    "segment_id": "seg-00162",
+    "start_seconds": 692.529,
+    "end_seconds": 697.329,
+    "text": "Put the original demo in it, dated, add the lyric sheet, the"
+  },
+  {
+    "segment_id": "seg-00163",
+    "start_seconds": 697.329,
+    "end_seconds": 702.289,
+    "text": "settings you used on the cover, the stems you actually kept,"
+  },
+  {
+    "segment_id": "seg-00164",
+    "start_seconds": 702.609,
+    "end_seconds": 706.529,
+    "text": "your raw vocal takes, and the final master."
+  },
+  {
+    "segment_id": "seg-00165",
+    "start_seconds": 706.849,
+    "end_seconds": 710.369,
+    "text": "Next to each file, write one line."
+  },
+  {
+    "segment_id": "seg-00166",
+    "start_seconds": 710.609,
+    "end_seconds": 716.2090000000001,
+    "text": "I wrote this, Suno generated that, or this is a stem rebuilt"
+  },
+  {
+    "segment_id": "seg-00167",
+    "start_seconds": 716.2090000000001,
+    "end_seconds": 718.2090000000001,
+    "text": "from Suno's output."
+  },
+  {
+    "segment_id": "seg-00168",
+    "start_seconds": 718.689,
+    "end_seconds": 721.809,
+    "text": "The folder exists for registration."
+  },
+  {
+    "segment_id": "seg-00169",
+    "start_seconds": 722.049,
+    "end_seconds": 726.689,
+    "text": "The approach I teach is to register the human-authored part"
+  },
+  {
+    "segment_id": "seg-00170",
+    "start_seconds": 726.689,
+    "end_seconds": 730.849,
+    "text": "of the song, your lyric, your melody, your recorded"
+  },
+  {
+    "segment_id": "seg-00171",
+    "start_seconds": 730.849,
+    "end_seconds": 731.489,
+    "text": "performance."
+  },
+  {
+    "segment_id": "seg-00172",
+    "start_seconds": 731.649,
+    "end_seconds": 735.169,
+    "text": "And the folder is how you show which part that is."
+  },
+  {
+    "segment_id": "seg-00173",
+    "start_seconds": 735.569,
+    "end_seconds": 739.969,
+    "text": "When someone asks whether it's still your song, you hand them"
+  },
+  {
+    "segment_id": "seg-00174",
+    "start_seconds": 739.969,
+    "end_seconds": 740.769,
+    "text": "the folder."
+  },
+  {
+    "segment_id": "seg-00175",
+    "start_seconds": 741.009,
+    "end_seconds": 744.049,
+    "text": "That answer holds up better than any feeling that you could"
+  },
+  {
+    "segment_id": "seg-00176",
+    "start_seconds": 744.049,
+    "end_seconds": 745.009,
+    "text": "describe."
+  },
+  {
+    "segment_id": "seg-00177",
+    "start_seconds": 745.329,
+    "end_seconds": 750.529,
+    "text": "And last thing before I let you go, JGB Slab actually turns one"
+  },
+  {
+    "segment_id": "seg-00178",
+    "start_seconds": 750.769,
+    "end_seconds": 753.249,
+    "text": "on Friday, October 2nd."
+  },
+  {
+    "segment_id": "seg-00179",
+    "start_seconds": 753.569,
+    "end_seconds": 757.249,
+    "text": "I'm marking it properly, and there's something for you in"
+  },
+  {
+    "segment_id": "seg-00180",
+    "start_seconds": 757.249,
+    "end_seconds": 758.2090000000001,
+    "text": "Friday's post."
+  },
+  {
+    "segment_id": "seg-00181",
+    "start_seconds": 758.609,
+    "end_seconds": 760.369,
+    "text": "Go read it when it drops."
+  },
+  {
+    "segment_id": "seg-00182",
+    "start_seconds": 760.769,
+    "end_seconds": 765.809,
+    "text": "If you decided what it's about and wrote the words and the"
+  },
+  {
+    "segment_id": "seg-00183",
+    "start_seconds": 765.809,
+    "end_seconds": 767.809,
+    "text": "tune, it's your song."
+  },
+  {
+    "segment_id": "seg-00184",
+    "start_seconds": 768.049,
+    "end_seconds": 772.929,
+    "text": "Every layer you build yourself makes the record more yours,"
+  },
+  {
+    "segment_id": "seg-00185",
+    "start_seconds": 773.169,
+    "end_seconds": 773.809,
+    "text": "too."
+  },
+  {
+    "segment_id": "seg-00186",
+    "start_seconds": 774.689,
+    "end_seconds": 776.049,
+    "text": "Before you go, one thing."
+  },
+  {
+    "segment_id": "seg-00187",
+    "start_seconds": 781.169,
+    "end_seconds": 783.409,
+    "text": "What I'm testing in the studio that week."
+  },
+  {
+    "segment_id": "seg-00188",
+    "start_seconds": 783.569,
+    "end_seconds": 785.489,
+    "text": "Tools I've cut and why."
+  },
+  {
+    "segment_id": "seg-00189",
+    "start_seconds": 785.809,
+    "end_seconds": 787.569,
+    "text": "Real numbers when I have them."
+  },
+  {
+    "segment_id": "seg-00190",
+    "start_seconds": 787.729,
+    "end_seconds": 792.129,
+    "text": "If you want that in your inbox, sign up at jgbslab.com slash"
+  },
+  {
+    "segment_id": "seg-00191",
+    "start_seconds": 792.129,
+    "end_seconds": 793.009,
+    "text": "newsletter."
+  },
+  {
+    "segment_id": "seg-00192",
+    "start_seconds": 793.169,
+    "end_seconds": 794.129,
+    "text": "Every Sunday."
+  },
+  {
+    "segment_id": "seg-00193",
+    "start_seconds": 794.289,
+    "end_seconds": 795.729,
+    "text": "One email, that's it."
+  },
+  {
+    "segment_id": "seg-00194",
+    "start_seconds": 795.889,
+    "end_seconds": 797.649,
+    "text": "I'll talk to you in the next one."
+  },
+  {
+    "segment_id": "seg-00195",
+    "start_seconds": 797.809,
+    "end_seconds": 799.889,
+    "text": "Until then, stop gambling."
+  },
+  {
+    "segment_id": "seg-00196",
+    "start_seconds": 800.129,
+    "end_seconds": 801.169,
+    "text": "Start directing."
+  }
+]

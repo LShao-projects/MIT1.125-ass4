@@ -1,0 +1,8 @@
+{
+  "run_id": "failure-replay-20261013",
+  "started_at": "2026-10-13T18:23:20Z",
+  "as_of_date": "2026-10-13",
+  "mode": "replay",
+  "previous_run_id": "live-20261013T181427Z",
+  "purpose": "intentionally failed RSS endpoint while preserving partial collection"
+}

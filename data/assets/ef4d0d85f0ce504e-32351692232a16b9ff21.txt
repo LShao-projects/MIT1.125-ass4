@@ -1,0 +1,571 @@
+Hi, and welcome back to another making
+music or making songs or making songs
+using AI. That's what we'll call it this
+week. [laughter]
+I can never remember the title of the
+channel. So, this week I thought I would
+extend on what we talked about last
+week. We're going to start adding some
+production information or some direction
+directly into the song or directly into
+the lyrics. So, last week we talked
+about styles. This week we're looking at
+extending the lyrics box to have some
+performance information for how the song
+is performed. If that makes sense. Yeah,
+I think so. First of all though, big
+thank you to everybody who has
+subscribed and has been watching and
+commenting on the current videos that
+are on the channel. Really, really
+appreciate your time and I really
+appreciate the comments. Obviously, I
+don't work for Sunno and I'm no expert.
+This journey is very much just my
+experience of using the application. So
+if I am doing it wrong, feel free to
+tell me in the comments, but it's just
+how I've used it. That's all. That's how
+I'm doing it. So yeah, thank you for
+being part of the channel. Thank you for
+being part of the community. And I hope
+you enjoy this one. Last week I talked
+about styles and using or extending the
+style box and using all of the
+characters in the styles and getting
+more definition of how the vocals
+sounded, how the instruments sound, how
+the performance should be carried out by
+Sunno. This week, what I'm going to do
+is start to look at expanding on the
+lyrics. So, originally I used to put a
+block at the top of my lyrics to define
+what the instruments were. So, I I've
+now extended that. So, I've still got my
+block at the top, but I'm actually right
+throughout the song, I'm adding sort of
+vocal instruments, performance detail
+for the AI or Sunno's AI to pick up that
+information. It's got this new language
+model and hopefully that will structure
+the song better in the output. That's
+the intended sort of purpose of this
+video. So, there is a demonstration and
+there are four demos. one with no
+direction and then the next few have
+more and more direction. So hopefully
+you can see the difference in how the
+song is performed and what the output
+sounds like. Okay, I guess there's only
+one thing to do is get on with the demo.
+So please leave a comment. I hope you
+find the demo useful. Okay, and welcome
+back. Let's get on with the demo part of
+this video. Following on from last week
+when I was looking at styles, I thought
+what I'd do this week is start to add
+some direction into the lyrics section.
+There's quite a bit of talk on the
+interwebs that if you add some direction
+into the lyric section of your song,
+then you'll get a better sounding
+output. So, we're going to give that a
+test. I've got five demonstrations for
+you. And I'm going to start with one
+that has no direction at all. like zero
+direction. So, I'll just bring that up
+on screen and I'll show you what I mean.
+So, I'm using the song Heartbroken Soul.
+This is by Isabella Delgado. And all
+I've got in this section is literally
+the intro with my spaces on and a few
+carriage returns, first verse, pre
+chorus, chorus, followed on by the verse
+two, pre and again the chorus, and then
+a bridge and then my outro. So there's
+absolutely no direction in this song.
+All I've done is let no handle it. I've
+got the style down here. If I just go to
+my style section, this is the style I'm
+using. So I've got sort of extended
+vocals. I don't think I can pop that
+out, but what I can do actually is just
+bring that down a little bit. So you can
+see we're using nearly nearly all 1,00
+characters. I've got my young husky
+Hispanic female. I've got my
+performance. It's emotional. It's human,
+vulnerable. all of those kind of things.
+I've got my instruments, warm piano,
+Spanish acoustic guitar. Um, and then
+I've defined my backing singers to keep
+in the harmony. And then I've just set
+my tempo with an R&B pulse. So, let's
+see what it sounds like. So, this is
+number one. This is heartbroken soul
+with absolutely no direction. So, this
+is what I built on top of. This is the
+first generation output from Sunno. So,
+let's have a listen.
+>> [music]
+>> I'll sit alone
+and let the tears flow [music]
+every memory.
+Now tainted by
+the way you're treating me. [singing]
+You [music] could be so loving
+and tell me no.
+[singing] Now I don't know
+what I have to do.
+[music] Was it something I said or
+something I did? [music] Now heartbroken
+as you said,
+I [singing] was no longer [music]
+the one.
+>> Okay, so that was with absolutely no
+direction. You can I've left it I'm
+going to play about a minute of each
+demonstration so you actually get a feel
+for the song. I mean, but they will be
+chaptered in the end output. So, if you
+want to skip to the end, that's okay.
+Um, but you get a feel for the how the
+song sounds. It starts off slowly and it
+starts to build. That was my general
+intention, but obviously there's no
+direction. So, we're going to look at
+number two now, which is here. So, I
+just need to hit the remix button on
+that to get the lyrics. And what you'll
+see now is I've filled in quite a lot in
+the lyrics section. I'm not going to
+scroll through there. What we'll do,
+we'll just open that up again in the
+window now. Same lyrics, pretty much the
+same song. Still got my intro and my
+verses, but there's a lot more
+definition around the song. So, I've got
+this block at the top. And don't worry,
+you don't need to read all of this. I
+will post it in the comments as before.
+So, you'll get each of the prompts that
+I've used and then maybe you can use
+bits of them or you can change them for
+your own own ideas. But, I've got a
+block at the top. Uh and then for each
+section I've given some direction. Now
+this is just direction on how the song
+should be sung because what I do later
+on is go into defining instruments and
+vocals. So we'll see how much it
+changes. Uh and you might be surprised,
+you might not. You might think, well, it
+just sounds exactly the same. And that's
+absolutely fine. Uh so I've got my
+verse, I've got clear storytelling. Uh,
+and I go down and you can see I've got
+sort of definition and direction all the
+way through the song. So, I'm writing a
+bit of an essay really. I'm giving Suno
+more of a an instruction based instead
+of just giving it some song lyrics. I'm
+saying, well, these are the instructions
+basically. So, like any AI, you're
+you're giving it some sort of direction.
+Say, I want this and I want this and I
+want that. So, as you can see, I've got
+that on screen and I've got my sort of
+bridge. And again we start to uh we
+start to describe each of those and then
+we come to the end and the final
+instruction is to just naturally decay
+and fade the song. Okay. So let me just
+click okay on that or done on that. And
+what I'm going to do now is just play
+number two for you with that sort of
+direction that I've got in here. And
+again let me just scroll down. I am
+using exactly the same style as before.
+Nothing has changed. and the the more
+settings in the more settings for every
+song I've set it to female and I've set
+the max mode on and these are set for
+each one to 23 and to 73 74 and each one
+of the well I didn't use musical
+influence only on the second songs but
+where I have used musical influence
+where I've sort of done as a cover for 2
+three four and five well five is a
+studio mix but for two three four and
+five. I set the audio influence down to
+20. Anyway, let's play number two and
+see what you think. Again, I'll play
+about a minute of this, so let me know.
+[music]
+M
+I'll sit alone [music]
+and let the tears flow [singing]
+every memory.
+[music]
+Now tainted [singing]
+by
+the way you treated me. [music]
+You could be so [singing]
+loving.
+Then tell me no.
+[singing and music]
+Now I don't know
+what I have to do. [music]
+Was it something [singing] I said or
+something I did?
+Now heartbroken as you said
+I was no longer
+the one. [music]
+Okay. What you can see in or what you
+can hear in that version, I can't see
+anything really apart from me clicking a
+few buttons. What you can hear in that
+is the how the the pre chorus after the
+intro or how it started to build with uh
+the sort of section that goes into that
+sort of like what should I do sort of
+thing. So you get that natural control
+of actual vocals or that's what it
+sounds like to me. So then in number
+three I thought I'd go a step further
+and what I would do let me just remix
+that again. I'm using the same style and
+everything, but this time I've changed
+the uh the input uh around each section
+to be the vocal, the instruments, and
+the performance. So, before it was just
+the performance and guiding the song.
+Now, I'm giving it even more detail. So,
+we'll just open that up again in the big
+window. And then you can see for
+yourself how much sort of detail is
+going into this and how much sort of
+prompting I'm actually doing to get the
+sound that I want or to get the song I
+want. Now, I should have mentioned
+probably at the start Isabella Delgado
+or the idea of Isabella, the Isabella
+Delgado music project was very much a
+husky R&B type younger female voice. And
+if you actually go to the channel,
+listen to the current three albums that
+are out, you'll hear it sounds very
+similar with version 5.5.
+So, I think we're sort of getting there.
+I think I'm achieving the sound that I
+want to achieve for the fourth album.
+But I'll I'll just scroll down this as
+well. Um, you can see I've got the
+topping the the the top piece. Then for
+the intro, I've done the the same. Um,
+little bit of extra here. For the verse,
+I've done done the same and so on for
+the pre chorus and the chorus. And all
+the way through the song, I'm giving it
+direction of how I want the song to be
+sung.
+Sorry, I need to have a drink. Um,
+have a bit of a drink. It's all this
+talking, you know. Right. So, I'm giving
+it sort of direction. I've again I've
+defined the bridge. I've defined the
+outro. So, I'm treating Sunno now more
+as an AI just like I would chat GPT or
+Gemini. I'm sort of step by step. I'm
+giving it instructions to say this is
+what I want you to do instead of just
+giving it a list of lyrics and saying go
+and produce that. And I think that is
+actually one of the differences in
+version six as well. So, let's have a
+listen to number three and see how much
+that changes because this is the first
+one where we're actually saying this is
+how I want the vocal. This is how I want
+the instruments. This is what I want the
+performance to be. So again, I'll do
+about a minute. Again, you I'll cut this
+up so you should be able to skip to the
+end if you don't want to listen to the
+whole thing. Here we go. This is number
+three.
+[music]
+M
+I'll sit alone
+and let the tears flow [singing]
+[music]
+every memory.
+Now tainted by
+the way you treated me. [music]
+[singing] You could be so loving.
+[music]
+Then tell me no. [singing]
+Now I don't know
+what I have to do. [music]
+Was it something I said or something I
+did?
+Now heartbroken as you [singing] said
+I was no longer
+the one
+hurting now.
+So hopefully you can see that number
+three has got a little bit more clarity
+in the vocals and it's a little bit or
+it it has a slightly smoother delivery
+of the vocal section and it feels a
+little bit more controlled. I don't
+know. Put it in the comments if you
+think I'm absolutely crazy and it
+doesn't sound any different. I I think
+it does. I think it does sound slightly
+more controlled. So, one thing I did
+notice with that version was that the
+backing singers sounded a bit harsh as
+well, and I hadn't really defined in the
+song what the backing singers should
+sound like. So, the only difference
+really with number four, and I'll just
+do the remix again. The only difference
+with number four is that I've started to
+add in the backing vocals. Um, and if I
+just pop that open again on the big
+screen, you'll see at the start I've
+actually said backing vocals none. But
+then when we get further down, I've
+actually introduced the backing vocals
+with soft female harmonies. And that
+also is in the style prompt as well.
+Otherwise, everything else is pretty
+much the same. All I've done is is given
+some sort of strength to the actual, you
+know, backing vocals so you can hear the
+harmonies that are in place. Okay. So,
+let's try number four. I'll play a
+little bit more of this. probably about
+a minute 30 because you should then hear
+the backing singer's piece as it comes
+into the chorus. But yeah, let's give it
+a go. See what you think.
+I'll sit alone.
+And let the tears flow.
+Every memory [music]
+now tainted [singing]
+by
+the way you treated me. [singing]
+You could [music] be so loving.
+[music] Then tell me no.
+[singing]
+Now I don't know
+what I have to do.
+Was it something I said [music] or
+something I did?
+Now heartbroken as you said
+I [music and singing] was no longer
+the one
+[music]
+hurting now as you tore
+me apart.
+A heartbroken
+soul
+just wanting to be love.
+Tell me what you need me to do.
+Heartbroken.
+Tell me what you want me to say.
+Heartbroken.
+Hopefully you can pick up on the backing
+singers that came in there. I in version
+three, I'm not going to play you the
+backing singers in version three. It
+sounded pretty pretty ropey to be
+honest. When I played it through, I was
+like, I really love that song, but the
+backing singers sound awful. So all I
+did was with number four was sharpen up
+how the backing singers should sound. So
+then what I did in playing version 4, I
+did notice some noise on the track, some
+some hiss and some general FX noise in
+the background. So I then dropped it
+into studio, cleaned up all the the
+tracks, uh clipped clipped the tracks
+where they needed to be clipped and
+removed any of the noise tracks like the
+FX channel. So I'll just nip over into
+studio so you can have a look what I
+did. Okay, so this is the same song.
+I've loaded it into studio. It's a
+typical blue peter. This is one I made
+earlier. I've still got my main track at
+the top, but what I've done is taken the
+five main stems and I've cut out the
+little bits that were noisy and that
+weren't needed and I've also then added
+Oh, no. Sorry. I've got more than that,
+haven't I? I've got seven stems. My bad.
+Yeah, you can see what I did there. I
+didn't scroll down. So, I've got my
+stems and I've cleaned out the bits. of
+only with the backing singers actually
+included the the bits they're involved
+with. So the rest of the track that was
+here was actually just had hiss on it.
+It had, you know, if you played it solo
+on its own, it was just kind of, you
+know, just all this extra backing noise.
+It's like microphone noise. So I've got
+rid of that and some bits off the drums
+as well and off the guitar and so on and
+so on. I then with the vocal uh channel
+here, I added a little EQ and compressed
+it a little bit just to give it a bit
+more clarity. Um so what we'll do, we'll
+go back to Sunno now and we'll play
+number five or version number five which
+is basically this. I also uplifted the
+you can see here I uplifted the vocals
+by uh a little bit uh to just give it a
+slightly higher sort of vocal sound. Uh
+anyway, let's go back and let's have a
+look at number five. Okay, so we're back
+into my playlist. This is just for the
+demo and I'm going to play you number
+five. This is the studio version um of
+the same song. So this is after cleanup
+basically. So let me know what you
+think.
+[music]
+M
+I'll sit alone
+and let the tears flow
+every memory.
+Now tainted by
+the way you treated me. [singing]
+You could be so loving.
+Then tell me no.
+Now I don't know
+what I have to do. [music]
+Was it something I said or something I
+did?
+Now heartbroken as you said
+I was no longer
+the one [music and singing]
+hurting now.
+>> Okay. So that was number five the studio
+mix. Now what I usually do at this point
+I usually download this file and I put
+it into something like eastered. And
+eastered allows me to remaster the whole
+wav file which is kind of here. I've
+called it the heartbreak and heartbroken
+soul super full mix. And what I've done
+in here, I loaded that w file from
+studio. Uh I set the mastering options
+on equalization.
+Uh so my mid is at increased level. I've
+left my low to normal and I've lowered
+the high bits in the in the mix. And
+I've also added the stereo width and
+I've pushed out the stereo width to the
+widest as well inside e- mastered. Oh,
+actually I can just play it from here.
+Okay. So, what I'm going to do now is
+just play that version, that full mix.
+[music]
+M
+I'll sit alone
+and let the tears flow
+every memory.
+[music]
+Now tainted by
+the way you treated me. [singing]
+You could be so loving.
+[music]
+Then tell me no.
+No, I don't know
+what I have to do. [music]
+Was it something I said or something I
+did?
+Now heartbroken.
+[singing]
+>> Okay, I think that's enough of that.
+I'll just pop back to Sunno.
+I think what we've done in this demo is
+to prove that if you actually give your
+song a little bit more direction, now
+you don't need to go as crazy as I've
+gone and you don't need to have all of
+the sort of vocals and piece, but I
+think if you actually extend the lyric
+window with how you want the song to be
+performed and how you want to get the
+output, then I think you're going to get
+a better version. I think Sunno is
+generally moving in a new direction
+where we used to just be able to throw
+the lyrics in and a very basic style and
+get really good output. I think now what
+you have to do is work for it a little
+bit more to get the sound that you want
+on your song. So instead of saying, "Hey
+computer, hey AI, just make this a good
+song." I think now you're basically
+saying, "Hey, here's my lyrics and this
+is the direction and the delivery. this
+is the style I want to use. And
+obviously the style is a lot more
+weighted these days than it was with
+version five and 5.5. I will put the
+prompts in the comments so you can have
+a look at those in a little bit more
+detail. Just so you know, I worked with
+ChatG to actually get a lot of that. So
+I defined some of it and I sort of told
+it where I wanted it to be. So verse
+one, chorus and then any highlights in
+the song and it scripted it for me and
+put the square brackets in with the
+detail. Okay. So hopefully that was
+again some use and for now it's back to
+the studio I guess. And back to the
+studio. Yeah, I hope that demo was
+useful. Uh and I hope you can see how
+extending your lyrics with some
+direction may improve the songs that you
+write. From listening back to the
+different versions, I think I have
+better control over the vocals and the
+delivery was smoother. But again, feel
+free to comment and tell me that they
+all sound the same and that I'm I'm just
+old. I'm going scenile. All of the
+prompts that I used and the arrangement
+of the lyrics is going to be in the
+comments below this video. I will do
+number two, three, and four. And there's
+no point doing number one. It had no
+direction. And studio, the studio
+version was exactly the same. So, I hope
+you find the prompts useful. Not that
+you would copy it directly, but you can
+maybe get some ideas for your own songs
+and maybe that will help as well. I'd
+love to hear actually if adding extra
+things into your lyrics, extra direction
+and performance actually does improve
+your output. I think I got a, as I say
+at the start, a better controlled vocal.
+It might just be Sunno doing iterations
+of the song, but I do think it did sound
+better. Okay, that's probably it for
+this one. I know the demo was quite
+long, so thanks for watching. Really do
+appreciate it. I do appreciate all your
+comments and, you know, feel free to
+comment on the way that you're doing
+things as well. I'll probably see you
+for the next

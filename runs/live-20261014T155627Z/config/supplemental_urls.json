@@ -1,0 +1,39 @@
+[
+  {
+    "source_id": "web-suno-release-notes",
+    "publisher_id": "suno",
+    "kind": "web",
+    "url": "https://blog.suno.com/release-notes",
+    "target_section": "Tighter timing",
+    "publication_date": "2026-10-08",
+    "piece_ids": ["01"],
+    "note": "Official product statement; the September 9 v6 entry on the same page is older background. This is supplemental web material, not an RSS item."
+  },
+  {
+    "source_id": "web-ytyng-v6-test",
+    "publisher_id": "ytyng",
+    "kind": "web",
+    "url": "https://www.ytyng.com/en/blog/suno-v6-review-variety-max-mode-spectrum",
+    "publication_date": "2026-09-25",
+    "piece_ids": ["02"],
+    "note": "English-language original test; verify methods and comparison limits. This is supplemental web material, not an RSS item."
+  },
+  {
+    "source_id": "web-wavedisco-v6-test",
+    "publisher_id": "wavedisco",
+    "kind": "web",
+    "url": "https://blog.wavedisco.com/blog/suno-v6-vs-v55-audio-test",
+    "publication_date": "2026-09-20",
+    "piece_ids": ["02"],
+    "note": "Original small-sample measurement write-up; verify the setup and figures. This is supplemental web material, not an RSS item."
+  },
+  {
+    "source_id": "web-agcm-investigation",
+    "publisher_id": "italian-competition-authority-agcm",
+    "kind": "web",
+    "url": "https://en.agcm.it/en/media/press-releases/2026/10/CV278",
+    "publication_date": "2026-10-06",
+    "piece_ids": ["03"],
+    "note": "Primary announcement that an investigation opened; not a finding. This is supplemental web material, not an RSS item."
+  }
+]

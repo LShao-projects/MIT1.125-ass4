@@ -1,0 +1,69 @@
+{
+  "run_id": "live-20261013T181427Z",
+  "mode": "live",
+  "as_of_date": "2026-10-13",
+  "status": "ready_for_production",
+  "counts": {
+    "discovered": 20,
+    "extracted": 20,
+    "new": 1,
+    "changed": 0,
+    "unchanged": 19,
+    "eligible": 21,
+    "excluded": 0,
+    "accepted": 13,
+    "rejected": 8,
+    "deferred": 0,
+    "articles": 3,
+    "video_scripts": 3
+  },
+  "coverage": {
+    "eligible_by_kind": {
+      "feed": 17,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "eligible_publishers": 12,
+    "accepted_by_kind": {
+      "feed": 9,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "accepted_publishers": 12,
+    "rss_written_eligible": 13,
+    "raw_observations": 20,
+    "duplicate_observations": 0
+  },
+  "failed_or_incomplete_stages": [],
+  "elapsed_seconds": 372.6,
+  "tools_or_models": [
+    "Bash coordination",
+    "Codex CLI: configured Codex default",
+    "Python datetime UTC",
+    "Python sqlite3",
+    "Python urllib RSS XML",
+    "Python urllib original HTML",
+    "Python urllib podcast RSS XML",
+    "Python urllib podcast enclosure",
+    "original webpage HTML text",
+    "publisher podcast:transcript SRT",
+    "reused ASR transcript via data/store.sh get",
+    "yt-dlp audio-only",
+    "yt-dlp metadata + English caption JSON3",
+    "yt-dlp metadata only"
+  ],
+  "known_cost_usd": 0,
+  "unknown_cost_stages": [
+    "collect_sources",
+    "create_briefs",
+    "select_items",
+    "write_articles",
+    "write_video_scripts"
+  ],
+  "review_id": "ed0071363587f6a5e78365822ee1f26850147a62c5c8922558730024e409243a",
+  "remaining_manual_actions": [
+    "Produce three Google Vids or HeyGen videos from reviewed scripts",
+    "Publish three Substack articles and three YouTube videos",
+    "Fill real publication links and verify access"
+  ]
+}

@@ -1,0 +1,440 @@
+1
+00:00:00,320 --> 00:00:03,000
+The  song  is  ready.  Your  cursor  is
+
+2
+00:00:03,000 --> 00:00:05,319
+one  click  from  publish.
+
+3
+00:00:05,319 --> 00:00:07,960
+Then  a  simple  question  stops  you.
+
+4
+00:00:07,960 --> 00:00:10,120
+Can  you  show  what  you  made,  what
+
+5
+00:00:10,120 --> 00:00:11,880
+Suno  generated  and  what  you
+
+6
+00:00:11,880 --> 00:00:13,799
+changed  afterward?
+
+7
+00:00:13,799 --> 00:00:16,039
+If  those  pieces  are  scattered,
+
+8
+00:00:16,039 --> 00:00:17,160
+leave  the  cursor  here  for  a
+
+9
+00:00:17,160 --> 00:00:19,480
+moment.  We  are  following  the  same
+
+10
+00:00:19,480 --> 00:00:21,240
+fictional  songwriter.
+
+11
+00:00:21,240 --> 00:00:23,240
+Before  this  song  goes  out,  three
+
+12
+00:00:23,240 --> 00:00:25,480
+questions  need  answers.  Who  made
+
+13
+00:00:25,480 --> 00:00:28,240
+which  parts,  what  rules  apply,  and
+
+14
+00:00:28,240 --> 00:00:30,000
+how  a  listening  platform  may
+
+15
+00:00:30,000 --> 00:00:31,440
+classify  the  track.
+
+16
+00:00:31,440 --> 00:00:32,560
+First question,
+
+17
+00:00:32,920 --> 00:00:34,400
+what did you contribute?
+
+18
+00:00:34,760 --> 00:00:37,320
+Artist Zemi described making beats and
+
+19
+00:00:37,320 --> 00:00:40,400
+top lines, singing, using Suno to change
+
+20
+00:00:40,400 --> 00:00:42,440
+the voice, then mixing the result
+
+21
+00:00:42,440 --> 00:00:43,120
+himself.
+
+22
+00:00:43,600 --> 00:00:45,560
+That is one artist's workflow.
+
+23
+00:00:46,160 --> 00:00:48,720
+Josh of JG Beats Lab suggests keeping a
+
+24
+00:00:48,720 --> 00:00:50,960
+folder for each song with a dated demo
+
+25
+00:00:50,960 --> 00:00:52,840
+and lyric sheet, so the steps can be
+
+26
+00:00:52,840 --> 00:00:53,760
+reconstructed.
+
+27
+00:00:54,080 --> 00:00:56,120
+Andrea Olsen describes using Suno to
+
+28
+00:00:56,120 --> 00:00:58,320
+explore ideas rather than calling its
+
+29
+00:00:58,320 --> 00:00:59,840
+output her finished product.
+
+30
+00:01:00,320 --> 00:01:01,800
+Those three creators make different
+
+31
+00:01:01,800 --> 00:01:02,320
+choices.
+
+32
+00:01:02,680 --> 00:01:05,000
+For our musician, the useful action is to
+
+33
+00:01:05,000 --> 00:01:07,240
+save the actual inputs, generated
+
+34
+00:01:07,240 --> 00:01:09,640
+versions, and later edits with dates.
+
+35
+00:01:10,140 --> 00:01:13,460
+The folder is full. So, can we click now?
+
+36
+00:01:13,980 --> 00:01:14,620
+Not yet.
+
+37
+00:01:15,100 --> 00:01:17,420
+A record of your process helps explain
+
+38
+00:01:17,420 --> 00:01:19,700
+it. It does not tell you which rights you
+
+39
+00:01:19,700 --> 00:01:20,140
+have.
+
+40
+00:01:21,260 --> 00:01:23,460
+Italy's Competition Authority opened an
+
+41
+00:01:23,460 --> 00:01:25,420
+investigation into Suno's terms,
+
+42
+00:01:25,740 --> 00:01:27,660
+including a copyright license, the
+
+43
+00:01:27,660 --> 00:01:29,580
+authority says the terms impose on
+
+44
+00:01:29,580 --> 00:01:30,340
+consumers.
+
+45
+00:01:30,820 --> 00:01:33,740
+That is an investigation, not a ruling.
+
+46
+00:01:34,180 --> 00:01:36,380
+For this song, the immediate job is more
+
+47
+00:01:36,380 --> 00:01:37,100
+concrete.
+
+48
+00:01:37,420 --> 00:01:39,340
+Read the current terms for the account
+
+49
+00:01:39,340 --> 00:01:42,100
+you used Note their date and check the
+
+50
+00:01:42,100 --> 00:01:43,820
+rules of the service where you plan to
+
+51
+00:01:43,820 --> 00:01:44,340
+release.
+
+52
+00:01:44,820 --> 00:01:46,660
+We do not have those current primary
+
+53
+00:01:46,660 --> 00:01:48,900
+terms or your distributors rules in this
+
+54
+00:01:48,900 --> 00:01:49,660
+evidence set.
+
+55
+00:01:49,940 --> 00:01:51,899
+A  headline  about  training  data
+
+56
+00:01:51,899 --> 00:01:53,780
+flashes  on  your  screen.
+
+57
+00:01:53,780 --> 00:01:55,900
+Is  that  the  same  question?
+
+58
+00:01:55,900 --> 00:01:59,020
+No.  Suno  says  V6  used  licensed
+
+59
+00:01:59,020 --> 00:02:00,699
+partner  content  and  community
+
+60
+00:02:00,699 --> 00:02:03,340
+interactions,  including  creations.
+
+61
+00:02:03,340 --> 00:02:05,380
+Sony  and  Universal  allege
+
+62
+00:02:05,380 --> 00:02:07,580
+unlicensed  copying  of  recordings.
+
+63
+00:02:07,580 --> 00:02:09,580
+Suno  disputes  that.
+
+64
+00:02:09,580 --> 00:02:11,540
+Separately,  the  Los  Angeles  Times
+
+65
+00:02:11,540 --> 00:02:13,299
+reported  that  some  AI  music
+
+66
+00:02:13,299 --> 00:02:14,860
+licensing  deals  had  not  to
+
+67
+00:02:14,860 --> 00:02:17,020
+disclose  details  such  as  artist
+
+68
+00:02:17,020 --> 00:02:19,100
+payouts,  optins  and  individual
+
+69
+00:02:19,100 --> 00:02:20,219
+control.
+
+70
+00:02:20,219 --> 00:02:22,420
+Those  disputes  matter.  They  do  not
+
+71
+00:02:22,420 --> 00:02:24,019
+tell  this  musician  whether  this
+
+72
+00:02:24,019 --> 00:02:25,860
+particular  upload  meets  the  terms
+
+73
+00:02:25,860 --> 00:02:27,179
+on  their  screen.
+
+74
+00:02:27,179 --> 00:02:29,140
+Keep  the  industry  question  visible,
+
+75
+00:02:29,140 --> 00:02:30,540
+but  do  not  let  it  answer  a
+
+76
+00:02:30,540 --> 00:02:31,620
+different  one.
+
+77
+00:02:32,277 --> 00:02:34,277
+The  last  question  is  about
+
+78
+00:02:34,277 --> 00:02:37,036
+discovery.  Deezer  says  it  plans  a
+
+79
+00:02:37,036 --> 00:02:38,676
+search  option  that  would  let
+
+80
+00:02:38,676 --> 00:02:41,357
+listeners  filter  fully  AI  generated
+
+81
+00:02:41,357 --> 00:02:43,477
+music.  A  listener  might  choose
+
+82
+00:02:43,477 --> 00:02:44,717
+that  setting,
+
+83
+00:02:44,717 --> 00:02:46,717
+but  from  this  report  we  cannot
+
+84
+00:02:46,717 --> 00:02:48,476
+tell  whether  the  option  is  already
+
+85
+00:02:48,476 --> 00:02:50,877
+live  or  how  a  song  with  human
+
+86
+00:02:50,877 --> 00:02:53,077
+input  and  sumo  assistance  would  be
+
+87
+00:02:53,077 --> 00:02:56,396
+classified.  So,  don't  predict  lost
+
+88
+00:02:56,396 --> 00:02:58,517
+plays  for  our  musician.  Check  the
+
+89
+00:02:58,517 --> 00:03:00,677
+destination's  actual  policy  and
+
+90
+00:03:00,677 --> 00:03:02,796
+classification  before  claiming  you
+
+91
+00:03:02,796 --> 00:03:03,917
+know  the  reach.
+
+92
+00:03:04,777 --> 00:03:07,656
+Now  return  to  publish.  What  can  we
+
+93
+00:03:07,656 --> 00:03:08,897
+answer?
+
+94
+00:03:08,897 --> 00:03:10,536
+The  musician  can  keep  a  dated
+
+95
+00:03:10,536 --> 00:03:12,897
+trail  of  their  own  work,  read  the
+
+96
+00:03:12,897 --> 00:03:14,737
+current  terms  and  release  service
+
+97
+00:03:14,737 --> 00:03:17,057
+rules  and  watch  for  platform
+
+98
+00:03:17,057 --> 00:03:19,897
+policies  that  actually  take  effect.
+
+99
+00:03:19,897 --> 00:03:21,417
+The  folder  does  not  grant
+
+100
+00:03:21,417 --> 00:03:23,976
+ownership  or  legal  clearance.  It
+
+101
+00:03:23,976 --> 00:03:25,816
+does  make  the  next  questions
+
+102
+00:03:25,816 --> 00:03:27,857
+specific.  If  a  rule  is  still
+
+103
+00:03:27,857 --> 00:03:30,376
+unknown,  the  click  can  wait  while
+
+104
+00:03:30,376 --> 00:03:31,857
+you  verify  it.
+
+105
+00:03:31,857 --> 00:03:34,056
+That  is  the  point  of  this  series.
+
+106
+00:03:34,056 --> 00:03:36,456
+Start  with  a musical  idea,  test
+
+107
+00:03:36,456 --> 00:03:38,097
+what  the  tools  really  do  for  that
+
+108
+00:03:38,097 --> 00:03:39,137
+idea,
+
+109
+00:03:39,137 --> 00:03:40,417
+then  decide  what  you  can
+
+110
+00:03:40,417 --> 00:03:42,137
+responsibly  release.
+

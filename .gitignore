@@ -1,1 +1,7 @@
 /data/media/
+__pycache__/
+*.pyc
+.DS_Store
+/production/workbench/**/*.mp4
+/production/workbench/**/*.png
+/production/workbench/**/*.jpg

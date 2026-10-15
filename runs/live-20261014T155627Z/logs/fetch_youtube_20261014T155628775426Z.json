@@ -1,0 +1,18 @@
+{
+  "stage": "fetch_youtube",
+  "status": "incomplete",
+  "input_count": 2,
+  "output_count": 0,
+  "started_at": "2026-10-14T15:56:28Z",
+  "finished_at": "2026-10-14T15:56:28Z",
+  "tools_or_models": [
+    "yt-dlp metadata only"
+  ],
+  "cost_usd": 0,
+  "cost_estimate": true,
+  "errors": [
+    "youtube-produce-like-a-boss-voice-memo: CalledProcessError: Command '['yt-dlp', '-J', '--skip-download', '--no-warnings', 'https://www.youtube.com/watch?v=Nl-dGFi5ebw']' returned non-zero exit status 1.",
+    "youtube-on-a-creative-journey-test: CalledProcessError: Command '['yt-dlp', '-J', '--skip-download', '--no-warnings', 'https://www.youtube.com/watch?v=3l1FvHVuLnU']' returned non-zero exit status 1."
+  ],
+  "media_downloaded": false
+}
