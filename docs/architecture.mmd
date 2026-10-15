@@ -1,0 +1,46 @@
+flowchart TB
+  R["run.sh<br/>Entry point"] --> CW
+
+  subgraph COLLECT["1. Collect and preserve evidence"]
+    direction TB
+    CW["collect_sources.sh"] --> INPUTS(("Sources"))
+    INPUTS --> RSS["RSS"]
+    INPUTS --> YT["YouTube"]
+    INPUTS --> POD["Podcasts"]
+    INPUTS --> WEB["Supplemental web<br/>4 configured pages"]
+    RSS --> EX["extract_content.sh"]
+    YT --> EX
+    POD --> EX
+    WEB --> EX
+    EX --> DB["store.sh + Python helper<br/>Versioned SQLite index"]
+    DB --> FRESH["filter_items.sh<br/>30-day window"]
+  end
+
+  FRESH --> SW
+  subgraph SERIES["2. Select, draft, and check"]
+    direction TB
+    SW["create_series.sh"] --> SELECT["select_items.sh<br/>AI editorial decisions"]
+    SELECT --> MEDIA["extract_content.sh<br/>Retain accepted audio"]
+    MEDIA --> BRIEFS["create_briefs.sh<br/>Three arguments"]
+    BRIEFS --> DRAFTS(("Drafts"))
+    DRAFTS --> ARTICLES["write_articles.sh"]
+    DRAFTS --> SCRIPTS["write_video_scripts.sh"]
+    ARTICLES --> CHECK["check_content.sh"]
+    SCRIPTS --> CHECK
+  end
+
+  CHECK --> REPORT["summarize_run.sh<br/>Run report"]
+  REPORT --> REVIEW["My review and approval"]
+  REVIEW --> PACKAGE["prepare_package.sh<br/>Approved texts and source notes"]
+  PACKAGE --> RELEASE(("Manual"))
+  RELEASE --> VIDEO["Google Vids and YouTube<br/>Production and upload"]
+  RELEASE --> POSTS["Substack<br/>Publication"]
+
+  classDef workflow fill:#dbeafe,stroke:#2563eb,color:#172554
+  classDef evidence fill:#ecfdf5,stroke:#059669,color:#064e3b
+  classDef editorial fill:#f5f3ff,stroke:#7c3aed,color:#3b0764
+  classDef human fill:#fff7ed,stroke:#ea580c,color:#7c2d12
+  class R,CW,SW,REPORT workflow
+  class INPUTS,RSS,YT,POD,WEB,EX,DB,FRESH evidence
+  class SELECT,MEDIA,BRIEFS,DRAFTS,ARTICLES,SCRIPTS,CHECK editorial
+  class REVIEW,PACKAGE,RELEASE,VIDEO,POSTS human

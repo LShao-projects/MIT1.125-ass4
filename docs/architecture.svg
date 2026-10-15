@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1950" viewBox="0 0 1200 1950" role="img" aria-labelledby="title desc">
+<title id="title">Suno in Practice pipeline architecture</title>
+<desc id="desc">A centered vertical flow from run.sh through collection, extraction, storage, selection, drafting, review, packaging, and manual publication. Four evidence sources and two draft formats branch symmetrically around the center line.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/></marker></defs>
+<rect width="1200" height="1950" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#172033}.title{font-size:27px;font-weight:700}.phase{font-size:16px;font-weight:700;letter-spacing:.4px;fill:#51647b}.node{font-size:19px;font-weight:600}.sub{font-size:16px;font-weight:400}.edge{fill:none;stroke:#64748b;stroke-width:2.3;stroke-linecap:round;stroke-linejoin:round}.workflow{fill:#e9f1ff;stroke:#2563eb}.evidence{fill:#eaf8f2;stroke:#059669}.editorial{fill:#f2edff;stroke:#7c3aed}.human{fill:#fff2e8;stroke:#ea580c}.card{stroke-width:2;rx:13;ry:13}</style>
+<text x="600" y="39" text-anchor="middle" class="title">Suno in Practice · Pipeline architecture</text>
+<path class="edge" d="M 600 122 V 182" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 238 V 266" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 528 V 562" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 618 V 652" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 708 V 762" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 818 V 852" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 908 V 942" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 998 V 1032" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1088 V 1126" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1363 V 1397" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1453 V 1497" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1553 V 1587" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1643 V 1681" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 314 V 335"/>
+<path class="edge" d="M 150 335 H 1050"/>
+<path class="edge" d="M 150 335 V 354" marker-end="url(#arrow)"/>
+<path class="edge" d="M 450 335 V 354" marker-end="url(#arrow)"/>
+<path class="edge" d="M 750 335 V 354" marker-end="url(#arrow)"/>
+<path class="edge" d="M 1050 335 V 354" marker-end="url(#arrow)"/>
+<path class="edge" d="M 150 418 V 444"/>
+<path class="edge" d="M 450 418 V 444"/>
+<path class="edge" d="M 750 418 V 444"/>
+<path class="edge" d="M 1050 418 V 444"/>
+<path class="edge" d="M 150 444 H 1050"/>
+<path class="edge" d="M 600 444 V 472" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1174 V 1193"/>
+<path class="edge" d="M 390 1193 H 810"/>
+<path class="edge" d="M 390 1193 V 1212" marker-end="url(#arrow)"/>
+<path class="edge" d="M 810 1193 V 1212" marker-end="url(#arrow)"/>
+<path class="edge" d="M 390 1268 V 1292"/>
+<path class="edge" d="M 810 1268 V 1292"/>
+<path class="edge" d="M 390 1292 H 810"/>
+<path class="edge" d="M 600 1292 V 1307" marker-end="url(#arrow)"/>
+<path class="edge" d="M 600 1729 V 1770"/>
+<path class="edge" d="M 390 1770 H 810"/>
+<path class="edge" d="M 390 1770 V 1815" marker-end="url(#arrow)"/>
+<path class="edge" d="M 810 1770 V 1815" marker-end="url(#arrow)"/>
+<rect x="420" y="68" width="360" height="54" class="card workflow"/>
+<text x="600" y="89" text-anchor="middle" class="node">
+<tspan x="600">run.sh</tspan>
+<tspan x="600" dy="23" class="sub">Entry point</tspan>
+</text>
+<rect x="420" y="182" width="360" height="56" class="card workflow"/>
+<text x="600" y="216" text-anchor="middle" class="node">
+<tspan x="600">collect_sources.sh</tspan>
+</text>
+<rect x="500" y="266" width="200" height="48" class="card evidence"/>
+<text x="600" y="296" text-anchor="middle" class="node">
+<tspan x="600">Sources</tspan>
+</text>
+<rect x="47.5" y="354" width="205" height="64" class="card evidence"/>
+<text x="150" y="380" text-anchor="middle" class="node">
+<tspan x="150">Supplemental web</tspan>
+<tspan x="150" dy="23" class="sub">4 configured pages</tspan>
+</text>
+<rect x="347.5" y="354" width="205" height="64" class="card evidence"/>
+<text x="450" y="392" text-anchor="middle" class="node">
+<tspan x="450">RSS</tspan>
+</text>
+<rect x="647.5" y="354" width="205" height="64" class="card evidence"/>
+<text x="750" y="392" text-anchor="middle" class="node">
+<tspan x="750">YouTube</tspan>
+</text>
+<rect x="947.5" y="354" width="205" height="64" class="card evidence"/>
+<text x="1050" y="392" text-anchor="middle" class="node">
+<tspan x="1050">Podcasts</tspan>
+</text>
+<rect x="420" y="472" width="360" height="56" class="card evidence"/>
+<text x="600" y="506" text-anchor="middle" class="node">
+<tspan x="600">extract_content.sh</tspan>
+</text>
+<rect x="420" y="562" width="360" height="56" class="card evidence"/>
+<text x="600" y="584" text-anchor="middle" class="node">
+<tspan x="600">store.sh + Python helper</tspan>
+<tspan x="600" dy="23" class="sub">Versioned SQLite index</tspan>
+</text>
+<rect x="420" y="652" width="360" height="56" class="card evidence"/>
+<text x="600" y="674" text-anchor="middle" class="node">
+<tspan x="600">filter_items.sh</tspan>
+<tspan x="600" dy="23" class="sub">30-day window</tspan>
+</text>
+<rect x="420" y="762" width="360" height="56" class="card workflow"/>
+<text x="600" y="796" text-anchor="middle" class="node">
+<tspan x="600">create_series.sh</tspan>
+</text>
+<rect x="420" y="852" width="360" height="56" class="card editorial"/>
+<text x="600" y="874" text-anchor="middle" class="node">
+<tspan x="600">select_items.sh</tspan>
+<tspan x="600" dy="23" class="sub">AI editorial decisions</tspan>
+</text>
+<rect x="420" y="942" width="360" height="56" class="card editorial"/>
+<text x="600" y="964" text-anchor="middle" class="node">
+<tspan x="600">extract_content.sh</tspan>
+<tspan x="600" dy="23" class="sub">Retain accepted audio</tspan>
+</text>
+<rect x="420" y="1032" width="360" height="56" class="card editorial"/>
+<text x="600" y="1054" text-anchor="middle" class="node">
+<tspan x="600">create_briefs.sh</tspan>
+<tspan x="600" dy="23" class="sub">Three arguments</tspan>
+</text>
+<rect x="500" y="1126" width="200" height="48" class="card editorial"/>
+<text x="600" y="1156" text-anchor="middle" class="node">
+<tspan x="600">Drafts</tspan>
+</text>
+<rect x="235" y="1212" width="310" height="56" class="card editorial"/>
+<text x="390" y="1246" text-anchor="middle" class="node">
+<tspan x="390">write_articles.sh</tspan>
+</text>
+<rect x="655" y="1212" width="310" height="56" class="card editorial"/>
+<text x="810" y="1246" text-anchor="middle" class="node">
+<tspan x="810">write_video_scripts.sh</tspan>
+</text>
+<rect x="420" y="1307" width="360" height="56" class="card editorial"/>
+<text x="600" y="1341" text-anchor="middle" class="node">
+<tspan x="600">check_content.sh</tspan>
+</text>
+<rect x="420" y="1397" width="360" height="56" class="card workflow"/>
+<text x="600" y="1419" text-anchor="middle" class="node">
+<tspan x="600">summarize_run.sh</tspan>
+<tspan x="600" dy="23" class="sub">Run report</tspan>
+</text>
+<rect x="420" y="1497" width="360" height="56" class="card human"/>
+<text x="600" y="1531" text-anchor="middle" class="node">
+<tspan x="600">My review and approval</tspan>
+</text>
+<rect x="420" y="1587" width="360" height="56" class="card human"/>
+<text x="600" y="1609" text-anchor="middle" class="node">
+<tspan x="600">prepare_package.sh</tspan>
+<tspan x="600" dy="23" class="sub">Approved texts and source notes</tspan>
+</text>
+<rect x="500" y="1681" width="200" height="48" class="card human"/>
+<text x="600" y="1711" text-anchor="middle" class="node">
+<tspan x="600">Manual</tspan>
+</text>
+<rect x="235" y="1815" width="310" height="64" class="card human"/>
+<text x="390" y="1841" text-anchor="middle" class="node">
+<tspan x="390">Google Vids and YouTube</tspan>
+<tspan x="390" dy="23" class="sub">Production and upload</tspan>
+</text>
+<rect x="655" y="1815" width="310" height="64" class="card human"/>
+<text x="810" y="1841" text-anchor="middle" class="node">
+<tspan x="810">Substack</tspan>
+<tspan x="810" dy="23" class="sub">Publication</tspan>
+</text>
+<rect x="439" y="133" width="322" height="31" rx="15" fill="#fff" stroke="#d7e0eb"/>
+<text x="600" y="155" text-anchor="middle" class="phase">1 · Collect and preserve evidence</text>
+<rect x="439" y="723" width="322" height="31" rx="15" fill="#fff" stroke="#d7e0eb"/>
+<text x="600" y="745" text-anchor="middle" class="phase">2 · Select, draft, and check</text>
+<rect x="439" y="1458" width="322" height="31" rx="15" fill="#fff" stroke="#d7e0eb"/>
+<text x="600" y="1480" text-anchor="middle" class="phase">3 · Review and publish</text>
+</svg>
