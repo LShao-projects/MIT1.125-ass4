@@ -1,12 +1,16 @@
 # Suno in Practice — video production
 
+**Final status:** The student reviewed the three final exports, which are in [`production/final_videos/`](../../final_videos/), and published the paired videos and articles. The live links are in [`SUBMISSION.md`](../../../SUBMISSION.md). References below to drafts awaiting review or publication describe earlier production checkpoints.
+
+The preview PNGs and MP4s named below are local workbench outputs excluded from Git. The three submitted video files are linked from [`production/final_videos/`](../../final_videos/).
+
 The first static-diagram look was rejected by the student. A later draft repeated variations of a person at a computer; the next revision used useful diagrams but still felt like a slide deck. Episode 1 now uses original animated editing demonstrations, with a brief studio opening. This directory contains the [approved first-run scripts](../../../runs/live-20261013T181427Z/package/video_scripts/) and an [episode-by-episode edit plan](VIDS_EDIT_PLAN.md).
 
-- [Studio plate](episode01_studio_plate.png): AI-generated illustrative photograph of a music creator's workspace. It is not a real Suno interface, source recording, or product test.
-- [Style frame](episode01_style_frame.png): title treatment over that plate, with an explicit illustration label.
-- [Episode 1 opening](episode01_23s_multishot_preview.mp4): studio establishing shot, notebook close-up, and illustrative editing-timeline close-up. This is the approved visual direction.
-- [Episode 2 opening](episode02_23s_multishot_preview.mp4): an A/B songwriting decision and exact-file check.
-- [Episode 3 opening](episode03_23s_multishot_preview.mp4): a paused release and a creator reading process records and terms.
+- `episode01_studio_plate.png`: AI-generated illustrative photograph of a music creator's workspace. It is not a real Suno interface, source recording, or product test.
+- `episode01_style_frame.png`: title treatment over that plate, with an explicit illustration label.
+- `episode01_23s_multishot_preview.mp4`: studio establishing shot, notebook close-up, and illustrative editing-timeline close-up. This is the approved visual direction.
+- `episode02_23s_multishot_preview.mp4`: an A/B songwriting decision and exact-file check.
+- `episode03_23s_multishot_preview.mp4`: a paused release and a creator reading process records and terms.
 - `episode01_notebook_closeup.png` and `episode01_timeline_closeup.png`: AI-generated illustrative photographs for the new preview. The timeline is generic and unbranded.
 - `episode01_stems_closeup.png`, `episode02_ab_choice.png`, `episode02_export_check.png`, `episode03_prepub.png`, and `episode03_terms_check.png`: generated illustrative studio plates; none depict actual Suno or third-party user interface.
 - `render_style_frame.swift`: reproducible typography treatment on macOS for all three title frames.
@@ -26,7 +30,7 @@ The three opening prototypes are 23-second silent visual tests. The series now h
 
 After the student found Episode 2's argument hard to follow, a separate [private Google Vids revision](https://docs.google.com/videos/d/15lv-aWG106kU3G_V_t6XZI2uZyG7v2l8EaSTbNsrDo4/edit) was made. The original draft above remains available. The [revised script](episode02_clarity_script.md) follows one songwriter's hypothetical A/B decision: first ask whether a version keeps their melody, vocal direction, and arrangement; then inspect the exact file they would share. The A/B visuals are explicitly illustrative and contain no Suno audio. Creator demonstrations and measured export reports are attributed with their limits. Six revised animated visuals live in `episode02_clarity/` and can be regenerated with `render_episode02_clarity.sh`. The revision uses Tova at the existing slow pace, has linked captions and six scenes, and runs approximately 3:32 in the Vids timeline. The student still needs to watch the revision for final spoken and visual review.
 
-Following the student's second visual review, the moving yellow playhead was removed from all six revised scenes. Scene 1's melody marks now fit inside the Version B card. The first creator example now holds an earlier take and a later preferred vocal side by side; the Andrea Olson example holds her reported positive and limiting judgments side by side. Extra text behind the captions was removed. These are illustrative diagrams, not waveforms or tests taken from the creators' recordings. Only the six visual clips were replaced in the same Google Vids revision; the approved script, captions, Tova voiceover, scene lengths, and transitions remain unchanged. The current six-scene overview is [here](episode02_clarity/contact_sheet.png).
+Following the student's second visual review, the moving yellow playhead was removed from all six revised scenes. Scene 1's melody marks now fit inside the Version B card. The first creator example now holds an earlier take and a later preferred vocal side by side; the Andrea Olson example holds her reported positive and limiting judgments side by side. Extra text behind the captions was removed. These are illustrative diagrams, not waveforms or tests taken from the creators' recordings. Only the six visual clips were replaced in the same Google Vids revision; the approved script, captions, Tova voiceover, scene lengths, and transitions remain unchanged. The local six-scene overview is `episode02_clarity/contact_sheet.png`.
 
 On October 14, scenes 1, 3, and 4 received full-length caption tracks to cover their final spoken lines. Scene 3's narration now identifies Andrea Olson as a songwriter and producer who runs Produce Like a Boss; its visual clip and captions were updated to spell her name correctly. The scene 3 voiceover was regenerated with Tova at the same slow pace. Scene 4's caption transcript was also corrected for several recognition errors. The live Vids revision is the review copy; the earlier contact sheet predates these caption and scene 3 updates.
 

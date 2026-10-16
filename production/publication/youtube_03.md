@@ -14,3 +14,13 @@ Sources discussed:
 - Music Business Worldwide, report on Deezer’s planned search toggle (October 13, 2026). The report does not establish that the toggle is live or how mixed human/AI work will be classified.
 
 The release screen is an illustration, not a real platform or legal clearance. This episode raises questions for creators to verify; it does not determine the legal status of any track. Narration uses a Tova AI voice. Evidence was checked for the October 13, 2026 research run.
+
+Article and source URLs:
+Article: https://ls12379796.substack.com/p/before-releasing-a-suno-assisted
+Dazed interview with Zemi: https://www.dazeddigital.com/music/article/71134/1/suno-is-the-new-auto-tune-meet-the-artists-using-ai-to-go-viral
+JG Beats Lab podcast: https://www.buzzsprout.com/2573904/episodes/19867166-is-it-still-your-song
+Italian Competition Authority announcement: https://en.agcm.it/en/media/press-releases/2026/10/CV278
+Music Business Worldwide, lawsuit report: https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/
+Los Angeles Times, licensing report: https://www.latimes.com/entertainment-arts/business/story/2026-09-21/ai-music-licensing-deals-labels-artists-who-benefits
+Andrea Olsen / Produce Like a Boss video: https://www.youtube.com/watch?v=Nl-dGFi5ebw&t=1289s
+Music Business Worldwide, Deezer report: https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/

@@ -5,3 +5,4 @@ __pycache__/
 /production/workbench/**/*.mp4
 /production/workbench/**/*.png
 /production/workbench/**/*.jpg
+/production/technical_demo/

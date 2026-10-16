@@ -1,5 +1,7 @@
 # Three-episode video QA — updated 2026-10-15
 
+**Final status:** This report records the assistant's mechanical and visual checks. The student subsequently reviewed the final exports before uploading them; the published links are in [`SUBMISSION.md`](../../../../SUBMISSION.md). References below to a remaining prepublication listen reflect the earlier checkpoint.
+
 ## Review copies
 
 | Episode | Review export | Duration |

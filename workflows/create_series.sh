@@ -8,6 +8,13 @@ fi
 run_dir=$(cd "$1" && pwd)
 cd "$(dirname "$0")/.."
 mkdir -p "$run_dir/logs"
+started_at=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+record_receipt() {
+  local rc=$?
+  trap - EXIT
+  python3 reporting/write_stage_receipt.py "$run_dir" create_series "$started_at" "$rc" eligible.jsonl review.json local || true
+}
+trap record_receipt EXIT
 
 if [[ ! -f "$run_dir/eligible.jsonl" ]]; then
   echo "eligible.jsonl is missing; collect sources first" >&2

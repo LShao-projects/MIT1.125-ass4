@@ -9,6 +9,13 @@ if [[ $# -eq 2 && "$1" == "--package" ]]; then
     exit 2
   fi
   run_dir=$(cd "$2" && pwd)
+  started_at=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+  record_receipt() {
+    local rc=$?
+    trap - EXIT
+    python3 reporting/write_stage_receipt.py "$run_dir" package_run "$started_at" "$rc" approval.json summary.json local || true
+  }
+  trap record_receipt EXIT
   review_rc=0
   bash review/check_content.sh "$run_dir" > "$run_dir/review.json" || review_rc=$?
   package_rc=0
@@ -61,6 +68,13 @@ if [[ -e "$run_dir" ]]; then
   exit 1
 fi
 mkdir -p "$run_dir/config" "$run_dir/prompts" "$run_dir/logs"
+started_at=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+record_receipt() {
+  local rc=$?
+  trap - EXIT
+  python3 reporting/write_stage_receipt.py "$run_dir" run "$started_at" "$rc" config/project.json summary.json local || true
+}
+trap record_receipt EXIT
 cp config/project.json config/sources.json config/editorial_policy.md "$run_dir/config/"
 if [[ -f config/supplemental_urls.json ]]; then
   cp config/supplemental_urls.json "$run_dir/config/"

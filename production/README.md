@@ -12,7 +12,6 @@ The other folders have separate purposes:
 
 - [`publication/`](publication/README.md): the three reader-facing Substack article copies, YouTube description texts, and upload verification. The article copies already contain the matching video URLs.
 - [`editorial/`](editorial/storytelling_review.md): narrative decisions and claim-to-visual planning.
-- [`technical_demo/`](technical_demo/recording_plan.md): plan for the separate course demonstration video, which is not yet recorded.
 - [`workbench/google_vids_v2/`](workbench/google_vids_v2/README.md): Google Vids edit history, scene generators, intermediate clips, captions, and QA evidence. It contains earlier iterations on purpose so the production choices remain inspectable.
 
-This layout makes `final_videos/` the single place to find the deliverable MP4s. The workbench is retained as production evidence; moving it did not change the three Google Vids cloud documents or the YouTube uploads.
+The separate technical demonstration is linked in [`SUBMISSION.md`](../SUBMISSION.md); its local recording scripts are not part of the submitted repository. This layout makes `final_videos/` the single place to find the three audience-facing MP4s. The workbench is retained as production evidence; moving it did not change the three Google Vids cloud documents or the YouTube uploads.
