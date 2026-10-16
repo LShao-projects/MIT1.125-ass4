@@ -10,7 +10,7 @@ Sources discussed:
 - Italian Competition Authority, announcement of an investigation into Suno’s terms (October 6, 2026). An investigation is not a ruling.
 - Music Business Worldwide, report on Sony and Universal’s allegations and Suno’s response (September 22, 2026).
 - Los Angeles Times, report on AI music licensing deals and artist concerns (September 21, 2026).
-- Andrea Olsen / Produce Like a Boss, “Making the same song in EVERY AI generator” (October 9, 2026). Her reported exploratory use of Suno.
+- Andrea Olson / Produce Like a Boss, “Making the same song in EVERY AI generator” (October 9, 2026). Her reported exploratory use of Suno.
 - Music Business Worldwide, report on Deezer’s planned search toggle (October 13, 2026). The report does not establish that the toggle is live or how mixed human/AI work will be classified.
 
 The release screen is an illustration, not a real platform or legal clearance. This episode raises questions for creators to verify; it does not determine the legal status of any track. Narration uses a Tova AI voice. Evidence was checked for the October 13, 2026 research run.
@@ -22,5 +22,5 @@ JG Beats Lab podcast: https://www.buzzsprout.com/2573904/episodes/19867166-is-it
 Italian Competition Authority announcement: https://en.agcm.it/en/media/press-releases/2026/10/CV278
 Music Business Worldwide, lawsuit report: https://www.musicbusinessworldwide.com/suno-confirms-v6-model-was-trained-on-creations-from-users-as-it-blasts-latest-sony-and-universal-lawsuit/
 Los Angeles Times, licensing report: https://www.latimes.com/entertainment-arts/business/story/2026-09-21/ai-music-licensing-deals-labels-artists-who-benefits
-Andrea Olsen / Produce Like a Boss video: https://www.youtube.com/watch?v=Nl-dGFi5ebw&t=1289s
+Andrea Olson / Produce Like a Boss video: https://www.youtube.com/watch?v=Nl-dGFi5ebw&t=1289s
 Music Business Worldwide, Deezer report: https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/

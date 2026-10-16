@@ -89,6 +89,7 @@ def main():
                 issue(None, f"{name}.jsonl", "error", "Need exactly three distinct pieces 01, 02, 03")
 
         cited_kinds = set()
+        cited_item_ids = set()
         for piece in ("01", "02", "03"):
             brief = briefs.get(piece)
             if brief is None:
@@ -120,6 +121,7 @@ def main():
                     publishers.add(item["publisher_id"])
                     ref_publishers.add(item["publisher_id"])
                     cited_kinds.add(item["kind"])
+                    cited_item_ids.add(item["item_id"])
                     date_text = item.get("published_at")
                     try:
                         published = dt.date.fromisoformat(date_text[:10])
@@ -184,6 +186,11 @@ def main():
             issue(piece, "human_review", "warning", "Student must review factual scope, synthesis, source attribution, and article/script consistency")
         if not {"feed", "youtube", "podcast"}.issubset(cited_kinds):
             issue(None, "briefs.jsonl", "error", "Series does not cite all three required input types")
+        unused_accepts = sorted(item_id for item_id, decision in decisions.items()
+                                if decision.get("decision") == "accept" and item_id not in cited_item_ids)
+        for item_id in unused_accepts:
+            issue(None, "decisions.jsonl", "warning",
+                  f"Accepted item {item_id} is not cited by any final brief; reconsider its selection or explain the omission")
         review = {"review_id": fingerprint.hexdigest(),
                   "passed": not any(x["severity"] == "error" for x in issues),
                   "issues": issues}

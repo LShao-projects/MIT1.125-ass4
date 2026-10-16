@@ -38,6 +38,7 @@ def main():
     eligible = read_lines(run / "eligible.jsonl")
     exclusions = read_lines(run / "exclusions.jsonl")
     decisions = read_lines(run / "decisions.jsonl")
+    briefs = read_lines(run / "briefs.jsonl")
     articles = read_lines(run / "articles.jsonl")
     videos = read_lines(run / "video_scripts.jsonl")
     review = read_json(run / "review.json")
@@ -62,6 +63,8 @@ def main():
 
     coverage = {"eligible_by_kind": None, "eligible_publishers": None,
                 "accepted_by_kind": None, "accepted_publishers": None,
+                "cited_by_kind": None, "cited_publishers": None,
+                "accepted_not_cited": None,
                 "rss_written_eligible": None, "raw_observations": None,
                 "duplicate_observations": None}
     if eligible is not None:
@@ -75,6 +78,15 @@ def main():
                     if x.get("decision") == "accept" and x.get("item_id") in by_id]
         coverage["accepted_by_kind"] = dict(collections.Counter(x.get("kind") for x in accepted))
         coverage["accepted_publishers"] = len({x.get("publisher_id") for x in accepted})
+        if briefs is not None:
+            cited_ids = {ref.get("item_id") for brief in briefs
+                         for claim in brief.get("claims", [])
+                         for ref in claim.get("evidence", [])}
+            cited = [by_id[item_id] for item_id in cited_ids if item_id in by_id]
+            coverage["cited_by_kind"] = dict(collections.Counter(x.get("kind") for x in cited))
+            coverage["cited_publishers"] = len({x.get("publisher_id") for x in cited})
+            coverage["accepted_not_cited"] = sorted(x["item_id"] for x in accepted
+                                                     if x["item_id"] not in cited_ids)
     if candidates is not None:
         coverage["raw_observations"] = len(candidates)
         coverage["duplicate_observations"] = len(candidates) - len({x.get("item_id") for x in candidates})
