@@ -1,6 +1,8 @@
 # YouTube publication check — 2026-10-15
 
-The student supplied three YouTube links. An unauthenticated, metadata-only `yt-dlp --skip-download` check returned all three records. No video or audio was downloaded or played during that check. A later check of the live watch pages confirmed the updated descriptions contain plain-text article and source URLs, although YouTube shortens some external URLs and does not make them clickable.
+The student supplied three YouTube links. An unauthenticated, metadata-only `yt-dlp --skip-download` check returned all three records. No video or audio was downloaded or played during that check. A later check of the live watch pages confirmed the updated descriptions contained article and source URLs. At the October 15 check, YouTube shortened some external URLs and did not make them clickable.
+
+**Update, October 16, 2026:** YouTube approved the channel's verification that evening. A subsequent check of all three watch pages confirmed that the article and external source links are now clickable.
 
 | Episode | Link | Title | Reported duration | Visibility | Description |
 | --- | --- | --- | ---: | --- | --- |

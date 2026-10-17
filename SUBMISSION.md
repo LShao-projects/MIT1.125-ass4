@@ -16,7 +16,7 @@
 
 All three articles were published on October 15, 2026 as free, web-only posts with the audience set to Everyone. Their public pages display the companion YouTube video and source list.
 
-**Note on YouTube links:** All three video descriptions name the companion article and cited sources and include their URLs as plain text. In this channel's YouTube Studio, the description editor says that a one-time verification is needed to make external links clickable. YouTube lists clickable links in long-form video descriptions as an [advanced feature](https://support.google.com/youtube/answer/9890437). Its [verification guidance](https://support.google.com/youtube/answer/9891124) offers channel history or ID/video verification; it says active channels rebuilding sufficient history can usually do so within about two months, not that every channel must wait two months. For now, some external URLs appear shortened and unclickable on the watch pages. Readers can use the clickable article and source links in the Substack posts below.
+**Note on YouTube links:** When the videos were first published, the article and source URLs in their descriptions were not clickable because the channel had not yet passed YouTube's verification for external links. The verification was approved on the evening of October 16, 2026. The article and source links in all three video descriptions are now clickable, although YouTube may shorten how long URLs appear on the watch pages.
 
 | Piece | Main point | Substack article | YouTube video and production files |
 | --- | --- | --- | --- |
